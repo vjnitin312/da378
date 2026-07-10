@@ -1,0 +1,85 @@
+============================================================
+STEP 1 — Loading raw PHOIBLE
+============================================================
+  Raw shape: 105,484 rows × 49 columns
+
+============================================================
+STEP 2 — Dropping unused columns
+============================================================
+  Dropping 26 columns: ['SpecificDialect', 'GlyphID', 'Allophones', 'stress', 'syllabic', 'short', 'long', 'consonantal', 'delayedRelease', 'round', 'labiodental', 'anterior', 'distributed', 'strident', 'high', 'low', 'front', 'back', 'tense', 'retractedTongueRoot', 'advancedTongueRoot', 'epilaryngealSource', 'fortis', 'lenis', 'raisedLarynxEjective', 'loweredLarynxImplosive']
+  Shape after drop: 105,484 × 23
+
+============================================================
+STEP 3 — Handling Marginal phonemes
+============================================================
+  Marginal phoneme rows: 1,347
+  Non-marginal rows    : 104,137
+  Shape after removing marginals: 104,137 × 22
+
+============================================================
+STEP 4 — Stripping whitespace from string columns
+============================================================
+  Cleaned 21 string columns
+
+============================================================
+STEP 5 — Replacing string 'nan' with actual NaN
+============================================================
+  Done. Remaining nulls per column:
+    Glottocode                     19
+    ISO6393                        25
+
+============================================================
+STEP 6 — Downloading Glottolog metadata (CLDF PHOIBLE)
+============================================================
+  languages.csv already cached at /home/nv/da378/scripts/../data/raw/languages.csv
+  languages.csv shape: (2177, 9)
+  Columns: ['ID', 'Name', 'Macroarea', 'Latitude', 'Longitude', 'Glottocode', 'ISO639P3code', 'Family_Glottocode', 'Family_Name']
+  Unique Glottocodes in metadata: 2,176
+
+============================================================
+STEP 7 — Merging metadata into PHOIBLE
+============================================================
+  Rows before merge : 104,137
+  Rows after merge  : 104,137
+  macroarea nulls   : 19
+  family_name nulls : 3,555
+  Macroarea values  : {'Africa': 35910, 'Eurasia': 34126, 'South America': 12364, 'Australia': 10455, 'North America': 6198, 'Papunesia': 5065}
+
+============================================================
+STEP 8 — Standardizing SegmentClass
+============================================================
+  SegmentClass values: {'consonant': 71127, 'vowel': 30863, 'tone': 2147}
+  Rows with invalid SegmentClass: 0
+
+============================================================
+STEP 9 — Adding derived columns
+============================================================
+  Click phoneme rows  : 247
+  Tone segment rows   : 2,147
+  Nasal phoneme rows  : 15,828
+
+============================================================
+STEP 10 — Saving phoible_clean.csv
+============================================================
+  Saved: /home/nv/da378/scripts/../data/processed/phoible_clean.csv
+  Shape: 104,137 rows × 30 columns
+
+============================================================
+STEP 11 — Deduplication (one inventory per Glottocode)
+============================================================
+  Unique InventoryIDs before dedup: 3,020
+  Unique Glottocodes before dedup : 2,176
+  Rows after dedup                : 76,327
+  Unique Glottocodes after dedup  : 2,176
+  Saved: /home/nv/da378/scripts/../data/processed/phoible_dedup.csv
+
+============================================================
+CLEANING SUMMARY
+============================================================
+  Raw rows                    : 105,484
+  After marginal removal      : 104,137
+  After deduplication         : 76,327
+  Unique languages (dedup)    : 2,176
+  Unique phonemes (dedup)     : 2,703
+  Macroareas covered          : 6
+  Language families covered   : 177

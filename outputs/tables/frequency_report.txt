@@ -1,0 +1,116 @@
+============================================================
+STEP 1 — Loading phoible_dedup.csv
+============================================================
+  Rows    : 76,327
+  Columns : 30
+  Total unique languages: 2,176
+
+============================================================
+STEP 2 — Computing cross-linguistic frequency per phoneme
+============================================================
+  Total unique phonemes analysed: 2,703
+  Phonemes appearing in 50%+ languages : 18
+  Phonemes appearing in 10%+ languages : 77
+  Phonemes appearing in only 1 language: 1426
+
+============================================================
+STEP 3 — Top 10 phonemes globally
+============================================================
+
+  Rank   Phoneme      Class         Languages  Frequency %
+  ------ ------------ ------------ ---------- ------------
+  1      m            consonant         2,103        96.7%
+  2      i            vowel             2,046        94.0%
+  3      k            consonant         1,965        90.3%
+  4      j            consonant         1,952        89.7%
+  5      u            vowel             1,949        89.6%
+  6      a            vowel             1,921        88.3%
+  7      p            consonant         1,836        84.4%
+  8      w            consonant         1,831        84.2%
+  9      n            consonant         1,788        82.2%
+  10     t            consonant         1,588        73.0%
+
+============================================================
+STEP 4 — Frequency breakdown by SegmentClass
+============================================================
+
+segment_class  total_unique_phonemes  avg_frequency_pct  median_frequency_pct  max_frequency_pct  min_frequency_pct  phonemes_above_50pct
+    consonant                   1719               1.38                  0.05              96.65               0.05                    13
+         tone                     54               1.55                  0.09              21.60               0.05                     0
+        vowel                    930               1.13                  0.05              94.03               0.05                     5
+
+============================================================
+STEP 5 — Top 5 phonemes per SegmentClass
+============================================================
+
+  [CONSONANT]
+  Phoneme       Languages  Frequency %
+  ------------ ---------- ------------
+  m                 2,103        96.7%
+  k                 1,965        90.3%
+  j                 1,952        89.7%
+  p                 1,836        84.4%
+  w                 1,831        84.2%
+
+  [VOWEL]
+  Phoneme       Languages  Frequency %
+  ------------ ---------- ------------
+  i                 2,046        94.0%
+  u                 1,949        89.6%
+  a                 1,921        88.3%
+  e                 1,399        64.3%
+  o                 1,366        62.8%
+
+  [TONE]
+  Phoneme       Languages  Frequency %
+  ------------ ---------- ------------
+  ˦                   470        21.6%
+  ˨                   467        21.5%
+  ˧                   251        11.5%
+  ˦˨                  122         5.6%
+  ˨˦                  101         4.6%
+
+============================================================
+STEP 6 — Click phoneme summary
+============================================================
+  Total click phonemes: 120
+
+  Phoneme       Languages  Frequency %
+  ------------ ---------- ------------
+  kǃ                   13         0.6%
+  kǀ                   11         0.5%
+  ŋǃ                    8         0.4%
+  kǃʰ                   8         0.4%
+  kǁ                    8         0.4%
+  kǀʰ                   7         0.3%
+  ŋǁ                    5         0.2%
+  ɡǃ                    5         0.2%
+  ŋǀ                    5         0.2%
+  kǁʰ                   5         0.2%
+
+============================================================
+STEP 7 — Frequency distribution statistics
+============================================================
+
+  count      2703.00%
+  mean       1.30%
+  std        7.11%
+  min        0.05%
+  25%        0.05%
+  50%        0.05%
+  75%        0.18%
+  90%        1.33%
+  95%        3.40%
+  max        96.65%
+
+  Interpretation:
+  → Most phonemes appear in very few languages (long tail)
+  → A small core set appears in nearly all languages
+  → This is consistent with a Zipfian / power-law distribution
+
+============================================================
+STEP 8 — Saving output tables
+============================================================
+  Saved: outputs/tables/phoneme_frequency.csv
+  Saved: outputs/tables/top10_phonemes.csv
+  Saved: outputs/tables/frequency_by_class.csv

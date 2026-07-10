@@ -1,0 +1,2104 @@
+Glottocode,LanguageName,macroarea,family_name,latitude,longitude,total_phonemes,n_consonants,n_vowels,n_tones,has_click,has_tone_segment,n_nasal_phonemes,consonant_ratio,vowel_ratio
+aari1239,Aari,Africa,South Omotic,5.95034,36.5721,36,26,10,0,False,False,2,0.7222,0.2778
+abar1238,Mungbam,Africa,Atlantic-Congo,6.5805,10.2267,34,23,7,4,False,True,4,0.6765,0.2059
+abau1245,Abau,Papunesia,Sepik,-3.97222,141.324,14,9,5,0,False,False,2,0.6429,0.3571
+abid1235,Abidji,Africa,Atlantic-Congo,5.65656,-4.58421,39,21,18,0,False,False,12,0.5385,0.4615
+abip1241,Abipon,South America,Guaicuruan,-29.0,-61.0,23,13,10,0,False,False,3,0.5652,0.4348
+abkh1244,Abkhaz,Eurasia,Abkhaz-Adyge,43.056218,41.159115,70,67,3,0,False,False,2,0.9571,0.0429
+abua1244,Abua,Africa,Atlantic-Congo,4.83057,6.61492,40,27,10,3,False,True,5,0.675,0.25
+abuj1237,Abujmaria,Eurasia,Dravidian,19.7875,79.9144,39,22,17,0,False,False,5,0.5641,0.4359
+abur1243,Abure,Africa,Atlantic-Congo,5.21534,-3.64123,38,20,14,4,False,True,9,0.5263,0.3684
+acat1239,TLAPANEC,North America,Otomanguean,17.1034,-99.0602,30,20,10,0,False,False,7,0.6667,0.3333
+acha1249,Achang,Eurasia,Sino-Tibetan,24.3479,97.7438,59,36,23,0,False,False,12,0.6102,0.3898
+acha1250,Achagua,South America,Arawakan,4.38649,-72.2005,29,19,10,0,False,False,2,0.6552,0.3448
+ache1245,Asharon,Africa,Narrow Talodi,10.8827,30.3187,38,18,20,0,False,False,6,0.4737,0.5263
+ache1246,Aché,South America,Tupian,-25.5865,-56.4697,34,22,12,0,False,False,9,0.6471,0.3529
+achi1257,Acehnese,Eurasia,Austronesian,3.90757,96.6032,54,20,34,0,False,False,11,0.3704,0.6296
+achu1247,ACHUMAWI,North America,Palaihnihan,41.0979,-121.191,23,17,6,0,False,False,2,0.7391,0.2609
+achu1248,Achuar-Shiwiar,South America,Chicham,-2.82646,-77.2641,27,15,12,0,False,False,7,0.5556,0.4444
+acol1236,Acholi,Africa,Nilotic,3.57738,32.5147,29,17,9,3,False,True,4,0.5862,0.3103
+adam1253,Fulfulde (Cameroon),Africa,Atlantic-Congo,8.140326,13.077338,45,35,10,0,False,False,6,0.7778,0.2222
+adan1247,Dangme,Africa,Atlantic-Congo,5.9437,0.13243,39,23,12,4,False,True,10,0.5897,0.3077
+adan1251,Adang,Papunesia,Timor-Alor-Pantar,-8.18958,124.448,40,18,22,0,False,False,4,0.45,0.55
+adio1239,Adioukrou,Africa,Atlantic-Congo,5.38228,-4.52522,31,21,7,3,False,True,4,0.6774,0.2258
+adny1235,Adnyamathanha,Australia,Pama-Nyungan,-30.1451,138.671,27,24,3,0,False,False,6,0.8889,0.1111
+adyg1241,Adyghe,Eurasia,Abkhaz-Adyge,44.0,39.33,59,56,3,0,False,False,2,0.9492,0.0508
+adze1240,Adzera,Papunesia,Austronesian,-6.39394,146.294,25,18,7,0,False,False,3,0.72,0.28
+afad1236,KOTOKO,Africa,Afro-Asiatic,12.0551,14.6343,35,27,8,0,False,False,2,0.7714,0.2286
+afar1241,Afar,Africa,Afro-Asiatic,12.2281,41.8083,27,17,10,0,False,False,2,0.6296,0.3704
+afit1238,Afitti,Africa,Nyimang,12.446,30.7611,26,17,6,3,False,True,4,0.6538,0.2308
+afri1274,Afrikaans,Africa,Indo-European,-22.0,30.0,38,16,22,0,False,False,3,0.4211,0.5789
+aghe1239,Aghem,Africa,Atlantic-Congo,6.38956,10.0807,42,21,19,2,False,True,5,0.5,0.4524
+aghu1254,Aghu Tharnggala,Australia,Pama-Nyungan,-13.735,142.426,27,20,7,0,False,False,5,0.7407,0.2593
+agua1253,Aguaruna,South America,Chicham,-5.30044,-77.9218,20,12,8,0,False,False,6,0.6,0.4
+ahan1243,Ahanta,Africa,Atlantic-Congo,4.85147,-1.94657,40,24,14,2,False,True,10,0.6,0.35
+ahan1244,Ahaan,Africa,Atlantic-Congo,7.44139,6.00896,43,26,14,3,False,True,11,0.6047,0.3256
+aheu1239,So,Eurasia,Austroasiatic,17.7655,104.229,71,21,50,0,False,False,4,0.2958,0.7042
+ahte1237,AHTNA,North America,Athabaskan-Eyak-Tlingit,61.7068,-144.889,34,29,5,0,False,False,3,0.8529,0.1471
+ainu1240,Ainu,Eurasia,Ainu,43.633654,142.46167,17,12,5,0,False,False,2,0.7059,0.2941
+ajab1235,Adja,Africa,Atlantic-Congo,7.06634,1.64992,45,28,12,5,False,True,9,0.6222,0.2667
+ajas1235,aja,Africa,Kresh-Aja,8.58003,25.6122,48,38,10,0,False,False,4,0.7917,0.2083
+ajyi1238,Ashéninka,South America,Arawakan,-9.82364,-74.61947,26,20,6,0,False,False,4,0.7692,0.2308
+akan1250,Akan,Africa,Atlantic-Congo,6.34756,-1.33254,60,28,30,2,False,True,16,0.4667,0.5
+akas1242,Akasilimi,Africa,Atlantic-Congo,8.8858,1.37035,52,20,29,3,False,True,14,0.3846,0.5577
+akaw1239,AKAWAIO,South America,Cariban,6.16277,-60.862,23,13,10,0,False,False,2,0.5652,0.4348
+akha1245,Akha,Eurasia,Sino-Tibetan,21.2309,100.964,57,34,23,0,False,False,7,0.5965,0.4035
+akla1241,Aklan,Papunesia,Austronesian,11.5543,122.354,20,17,3,0,False,False,3,0.85,0.15
+akoo1248,Akɔɔse,Africa,Atlantic-Congo,4.9243,9.65522,44,22,18,4,False,True,4,0.5,0.4091
+akpe1248,Akpes,Africa,Atlantic-Congo,7.50256,5.95559,34,21,10,3,False,True,6,0.6176,0.2941
+akun1241,Akuntsú,South America,Tupian,-12.8322,-60.9716,22,11,11,0,False,False,8,0.5,0.5
+akur1238,Akurio,South America,Cariban,3.19607,-55.6294,24,10,14,0,False,False,2,0.4167,0.5833
+alab1237,Alabama,North America,Muskogean,30.76738,-94.62848,21,15,6,0,False,False,2,0.7143,0.2857
+alab1254,Alaaba,Africa,Afro-Asiatic,7.39014,38.1732,61,51,10,0,False,False,6,0.8361,0.1639
+alam1246,ALAMBLAK,Papunesia,Sepik,-4.66307,143.316,25,18,7,0,False,False,3,0.72,0.28
+alaw1244,Alawa,Australia,Mangarrayi-Maran,-15.5458,134.282,28,23,5,0,False,False,5,0.8214,0.1786
+aleu1260,Aleut,North America,Eskimo-Aleut,52.1228,-174.29,36,30,6,0,False,False,6,0.8333,0.1667
+alla1248,Alladian,Africa,Atlantic-Congo,5.22371,-4.42647,36,23,11,2,False,True,6,0.6389,0.3056
+alng1239,Alngith,Australia,Pama-Nyungan,-12.5324,141.938,28,24,4,0,False,False,5,0.8571,0.1429
+alut1245,Alutor,Eurasia,Chukotko-Kamchatkan,60.3844,165.653,27,18,9,0,False,False,4,0.6667,0.3333
+alya1239,Alyawarr,Australia,Pama-Nyungan,-21.0427,136.835,43,40,3,0,False,False,12,0.9302,0.0698
+amah1246,Amahuaca,South America,Pano-Tacanan,-10.2012,-72.3208,23,15,8,0,False,False,6,0.6522,0.3478
+aman1265,Amanab,Papunesia,Border,-3.51516,141.178,19,14,5,0,False,False,3,0.7368,0.2632
+amar1271,Amurdak,Australia,Iwaidjan Proper,-11.9876,132.878,24,21,3,0,False,False,5,0.875,0.125
+amar1274,Amarakaeri,South America,Harakmbut,-12.4931,-70.5533,33,15,18,0,False,False,11,0.4545,0.5455
+amas1236,NYIMANG,Africa,Nyimang,12.0993,29.4332,25,18,7,0,False,False,4,0.72,0.28
+ambe1247,Ambele,Africa,Atlantic-Congo,5.94043,9.62028,51,38,10,3,False,True,5,0.7451,0.1961
+ambo1250,Ambon Malay,Papunesia,Austronesian,-3.71342,128.184,23,18,5,0,False,False,4,0.7826,0.2174
+ambu1247,Abulas,Papunesia,Ndu,-3.7801,143.059,24,17,7,0,False,False,4,0.7083,0.2917
+amdo1237,Khalong Tibetan,Eurasia,Sino-Tibetan,34.5177,100.485,59,53,6,0,False,False,8,0.8983,0.1017
+amel1241,AMELE,Papunesia,Nuclear Trans New Guinea,-5.29126,145.687,19,14,5,0,False,False,2,0.7368,0.2632
+amha1245,Amharic,Africa,Afro-Asiatic,11.708182,39.543456,65,58,7,0,False,False,9,0.8923,0.1077
+amii1238,Emmi,Australia,Western Daly,-13.5573,130.04,32,27,5,0,False,False,6,0.8438,0.1562
+amoo1242,AMO,Africa,Atlantic-Congo,10.3229,8.65405,35,25,10,0,False,False,4,0.7143,0.2857
+amun1246,Amundava,South America,Tupian,-9.04023,-62.3064,26,14,12,0,False,False,11,0.5385,0.4615
+ande1247,Antekerrepenhe,Australia,Pama-Nyungan,-22.51278,137.3515,44,40,4,0,False,False,12,0.9091,0.0909
+andi1255,Andi,Eurasia,Nakh-Daghestanian,42.8078,46.2919,68,63,5,0,False,False,4,0.9265,0.0735
+ando1255,Andoa,South America,Zaparoan,-3.29664,-76.6056,25,15,10,0,False,False,2,0.6,0.4
+anei1239,Aneityum; Anejom̃,Papunesia,Austronesian,-20.1864,169.825,25,20,5,0,False,False,5,0.8,0.2
+anfi1235,Anfillo,Africa,Ta-Ne-Omotic,8.568,34.647,48,38,10,0,False,False,4,0.7917,0.2083
+anga1288,Angami,Eurasia,Sino-Tibetan,25.6841,93.8668,49,38,6,5,False,True,8,0.7755,0.1224
+anga1290,ANGAATIHA,Papunesia,Angan,-7.15012,146.352,21,12,9,0,False,False,4,0.5714,0.4286
+angg1238,Angkamuthi,Australia,Pama-Nyungan,-11.443,142.242,24,18,6,0,False,False,5,0.75,0.25
+ango1258,Angolar,Africa,Indo-European,0.11438,6.59486,36,22,12,2,False,True,9,0.6111,0.3333
+angu1242,Anguthimri,Australia,Pama-Nyungan,-12.395,141.755,36,19,17,0,False,False,9,0.5278,0.4722
+anii1245,Anii,Africa,Atlantic-Congo,9.11127,1.60169,35,22,11,2,False,True,5,0.6286,0.3143
+anin1240,Anindilyakwa,Australia,Gunwinyguan,-13.99904,136.6415,26,22,4,0,False,False,7,0.8462,0.1538
+anta1253,Western Desert,Australia,Pama-Nyungan,-27.1152,134.838,23,17,6,0,False,False,5,0.7391,0.2609
+anti1245,Antiguan Creole,North America,Indo-European,17.068263,-61.821863,37,24,13,0,False,False,3,0.6486,0.3514
+anua1242,Anywa,Africa,Nilotic,7.57714,34.0267,46,18,24,4,False,True,4,0.3913,0.5217
+anuf1239,anufɔ,Africa,Atlantic-Congo,10.2839,0.56021,59,45,12,2,False,True,12,0.7627,0.2034
+anyi1244,Agni Morofo,Africa,Atlantic-Congo,6.1627,-4.64232,49,31,14,4,False,True,11,0.6327,0.2857
+anyi1245,Anyi Sanvi,Africa,Atlantic-Congo,6.31781,-3.30532,39,18,16,5,False,True,8,0.4615,0.4103
+aona1235,Ao-Naga,Eurasia,Sino-Tibetan,26.3241,94.3824,35,24,8,3,False,True,3,0.6857,0.2286
+apal1257,Apalaí,South America,Cariban,1.49792,-54.7457,24,12,12,0,False,False,8,0.5,0.5
+apat1240,Apatani,Eurasia,Sino-Tibetan,27.1933,93.7284,40,24,13,3,False,True,8,0.6,0.325
+apia1248,Apiaká,South America,Tupian,-7.84711,-57.91,22,12,10,0,False,False,7,0.5455,0.4545
+apin1244,Apinaye,South America,Nuclear-Macro-Je,-6.10774,-47.6315,49,14,35,0,False,False,14,0.2857,0.7143
+apro1235,AIZI,Africa,Atlantic-Congo,5.20273,-4.52192,33,24,9,0,False,False,4,0.7273,0.2727
+apuc1241,Andamanese,Eurasia,Great Andamanese,12.241,92.7965,35,25,10,0,False,False,5,0.7143,0.2857
+apur1254,Apurinã,South America,Arawakan,-8.21692,-66.7714,40,14,26,0,False,False,13,0.35,0.65
+arab1267,Arabana,Australia,Pama-Nyungan,-28.705,135.449,24,21,3,0,False,False,6,0.875,0.125
+arab1268,Arabela,South America,Zaparoan,-1.96126,-75.0612,29,19,10,0,False,False,4,0.6552,0.3448
+arag1245,Aragonese,Eurasia,Indo-European,42.4669,-0.00919,45,20,25,0,False,False,3,0.4444,0.5556
+aran1237,Arandai,Papunesia,South Bird's Head Family,-2.08016,132.983,18,13,5,0,False,False,2,0.7222,0.2778
+arao1248,Araona,South America,Pano-Tacanan,-12.4242,-67.7293,23,19,4,0,False,False,3,0.8261,0.1739
+araw1273,Araweté,South America,Tupian,-4.90246,-52.5001,21,12,9,0,False,False,6,0.5714,0.4286
+araw1276,Lokono,South America,Arawakan,5.64295,-56.9243,21,16,5,0,False,False,2,0.7619,0.2381
+arbe1236,Arbëresh Albanian,Eurasia,Indo-European,38.911,16.7164,37,30,7,0,False,False,3,0.8108,0.1892
+arbo1245,Arbore,Africa,Afro-Asiatic,4.92183,36.7986,55,45,10,0,False,False,7,0.8182,0.1818
+arch1244,ARCHI,Eurasia,Nakh-Daghestanian,42.3239,46.8267,75,65,10,0,False,False,2,0.8667,0.1333
+argo1244,Argobba,Africa,Afro-Asiatic,10.6596,39.756,35,28,7,0,False,False,3,0.8,0.2
+arhu1242,Ika,South America,Chibchan,10.7018,-73.6363,32,16,16,0,False,False,2,0.5,0.5
+arik1265,Arikapú,South America,Nuclear-Macro-Je,-12.4878,-62.7261,25,11,14,0,False,False,8,0.44,0.56
+arin1244,Aringa,Africa,Central Sudanic,3.56143,31.3071,49,35,9,5,False,True,5,0.7143,0.1837
+arit1239,Aritinngithigh,Australia,Pama-Nyungan,-12.50839255,142.138748,22,17,5,0,False,False,5,0.7727,0.2273
+asha1243,Asháninka,South America,Arawakan,-11.9311,-73.9073,22,14,8,0,False,False,3,0.6364,0.3636
+ashe1272,Ashéninka,South America,Arawakan,-10.9777,-74.9153,28,18,10,0,False,False,4,0.6429,0.3571
+assa1263,Assamese,Eurasia,Indo-European,26.0876,91.2932,37,22,15,0,False,False,10,0.5946,0.4054
+astu1245,Asturian,Eurasia,Indo-European,42.4181,-6.02227,27,20,7,0,False,False,3,0.7407,0.2593
+atam1239,Atampaya,Australia,Pama-Nyungan,-11.0018,142.273,26,18,8,0,False,False,5,0.6923,0.3077
+atay1247,Atayal,Papunesia,Austronesian,24.5209,121.388,27,19,8,0,False,False,3,0.7037,0.2963
+atti1239,Attie,Africa,Atlantic-Congo,5.9977,-3.8209,43,21,14,8,False,True,6,0.4884,0.3256
+auuu1241,Au,Papunesia,Nuclear Torricelli,-3.53277,142.105,17,10,7,0,False,False,2,0.5882,0.4118
+avac1239,Avá-Canoeiro,South America,Tupian,-13.6081,-48.1336,24,12,12,0,False,False,9,0.5,0.5
+avar1256,Avar,Eurasia,Nakh-Daghestanian,41.7047,46.558,64,59,5,0,False,False,2,0.9219,0.0781
+avat1244,Avatime,Africa,Atlantic-Congo,6.8688,0.41314,49,27,18,4,False,True,14,0.551,0.3673
+avik1243,Avikam,Africa,Atlantic-Congo,5.15838,-5.2529,34,25,6,3,False,True,5,0.7353,0.1765
+avok1242,Avokaya,Africa,Central Sudanic,4.38639,29.9379,55,37,14,4,False,True,4,0.6727,0.2545
+awab1243,Awabakal,Australia,Pama-Nyungan,-33.12847,151.43555,16,13,3,0,False,False,4,0.8125,0.1875
+awac1239,Awa-Cuaiquer,South America,Barbacoan,1.21652,-78.3401,26,16,10,0,False,False,7,0.6154,0.3846
+awad1243,Awadhi,Eurasia,Indo-European,27.5907,82.4663,45,37,8,0,False,False,6,0.8222,0.1778
+awar1248,Awara,Papunesia,Nuclear Trans New Guinea,-6.16986,146.372,24,18,6,0,False,False,4,0.75,0.25
+awet1244,Awetí,South America,Tupian,-12.381944,-53.391944,26,14,12,0,False,False,9,0.5385,0.4615
+awin1248,Awing,Africa,Atlantic-Congo,5.88362,10.264,56,39,17,0,False,False,6,0.6964,0.3036
+awiy1238,Auyana,Papunesia,Nuclear Trans New Guinea,-6.54079,145.76,20,11,6,3,False,True,4,0.55,0.3
+awng1244,Awiya,Africa,Afro-Asiatic,10.9819,36.6916,39,28,7,4,False,True,4,0.7179,0.1795
+awtu1239,Awtuw,Papunesia,Sepik,-3.53129,141.928,18,11,7,0,False,False,3,0.6111,0.3889
+axiy1235,Ahi,Eurasia,Sino-Tibetan,24.6009,103.713,52,38,14,0,False,False,3,0.7308,0.2692
+ayab1239,Yintyingka,Australia,Pama-Nyungan,-14.6652,142.893,26,16,10,0,False,False,5,0.6154,0.3846
+ayac1239,Ayacucho Quechua,South America,Quechuan,-13.84714,-74.32246,17,14,3,0,False,False,3,0.8235,0.1765
+ayer1245,Uwu,Africa,Atlantic-Congo,7.52206,6.01979,43,26,14,3,False,True,11,0.6047,0.3256
+ayer1246,Ayerrerenge,Australia,Pama-Nyungan,-22.51278,137.3515,43,39,4,0,False,False,12,0.907,0.093
+ayor1240,Ayoreo,South America,Zamucoan,-19.220055,-60.217495,30,20,10,0,False,False,12,0.6667,0.3333
+baan1242,Kambari,Africa,Atlantic-Congo,10.8083,5.7261,56,28,27,1,False,True,11,0.5,0.4821
+baat1238,Bariba,Africa,Atlantic-Congo,9.63186,2.99607,30,16,12,2,False,True,7,0.5333,0.4
+baba1264,Baba,Africa,Atlantic-Congo,6.11222,10.5216,30,23,7,0,False,False,5,0.7667,0.2333
+baba1266,Babanki,Africa,Atlantic-Congo,5.97863,10.2869,33,26,7,0,False,False,4,0.7879,0.2121
+bada1257,Badaga,Eurasia,Dravidian,11.3094,76.5974,38,25,13,0,False,False,5,0.6579,0.3421
+bade1248,Bade,Africa,Afro-Asiatic,12.789,10.6557,46,33,9,4,False,True,4,0.7174,0.1957
+badi1246,Badimaya,Australia,Pama-Nyungan,-29.0647,117.246,23,20,3,0,False,False,6,0.8696,0.1304
+bady1239,Pajade,Africa,Atlantic-Congo,12.6425,-13.4759,43,25,18,0,False,False,16,0.5814,0.4186
+bafa1247,Bafo,Africa,Atlantic-Congo,4.53307,9.522,47,27,16,4,False,True,4,0.5745,0.3404
+bafa1249,Nchufie,Africa,Atlantic-Congo,5.84612,10.4518,52,19,30,3,False,True,13,0.3654,0.5769
+bafi1243,Bafia,Africa,Atlantic-Congo,4.72603,11.0982,51,27,20,4,False,True,4,0.5294,0.3922
+bafu1246,Bafut,Africa,Atlantic-Congo,6.14153,10.1194,49,21,18,10,False,True,3,0.4286,0.3673
+baga1272,Baga Sitem,Africa,Atlantic-Congo,10.4793,-14.4756,24,16,8,0,False,False,3,0.6667,0.3333
+baga1273,Baga Koga; Koba; Barka,Africa,Atlantic-Congo,10.1286,-13.947,25,17,8,0,False,False,4,0.68,0.32
+bagi1246,Bagirmi,Africa,Central Sudanic,11.52392,14.769495,44,25,16,3,False,True,4,0.5682,0.3636
+baim1244,Baima,Eurasia,Sino-Tibetan,33.1001,103.952,66,40,26,0,False,False,7,0.6061,0.3939
+baka1272,Baka,Africa,Atlantic-Congo,2.16013,13.7804,38,25,7,6,False,True,3,0.6579,0.1842
+baka1273,Bakaka (Mwaneka),Africa,Atlantic-Congo,4.79991,9.80402,34,19,13,2,False,True,4,0.5588,0.3824
+baka1274,baka,Africa,Central Sudanic,4.65943,29.59,46,36,10,0,False,False,4,0.7826,0.2174
+baka1277,Bakairí,South America,Cariban,-14.2628,-54.7034,30,16,14,0,False,False,9,0.5333,0.4667
+bakh1245,Bakhtiari,Eurasia,Indo-European,32.0163,49.7713,36,24,12,0,False,False,2,0.6667,0.3333
+bako1249,Bakoko,Africa,Atlantic-Congo,3.56518,9.99905,33,26,7,0,False,False,4,0.7879,0.2121
+bako1250,Kole,Africa,Atlantic-Congo,4.43654,8.97387,34,27,7,0,False,False,5,0.7941,0.2059
+bala1302,Balante,Africa,Atlantic-Congo,12.5382,-15.6658,50,33,14,3,False,True,6,0.66,0.28
+bali1278,Balinese,Papunesia,Austronesian,-8.35714,115.075,24,18,6,0,False,False,4,0.75,0.25
+balt1258,Balti,Eurasia,Sino-Tibetan,34.4491,77.2859,53,35,18,0,False,False,3,0.6604,0.3396
+bamb1262,Northern Mao,Africa,Blue Nile Mao,9.82554,34.6522,35,22,10,3,False,True,3,0.6286,0.2857
+bamb1265,Bambalang; Círàmbɔ́,Africa,Atlantic-Congo,5.861,10.544,57,34,18,5,False,True,5,0.5965,0.3158
+bamb1269,Bamana,Africa,Mande,12.9,-7.65,55,31,22,2,False,True,14,0.5636,0.4
+bame1260,Mamenyan,Africa,Atlantic-Congo,5.77049,10.3302,50,39,11,0,False,False,8,0.78,0.22
+bamu1253,Shupamem,Africa,Atlantic-Congo,5.49017,10.8477,38,28,10,0,False,False,5,0.7368,0.2632
+bamu1256,Bamunka,Africa,Atlantic-Congo,6.00203,10.5127,32,23,9,0,False,False,4,0.7188,0.2812
+bana1305,bana,Africa,Afro-Asiatic,10.3535,13.6131,43,36,3,4,False,True,4,0.8372,0.0698
+band1337,Bandjigali,Australia,Bookkeeping,-30.0771,143.282,26,20,6,0,False,False,6,0.7692,0.2308
+band1345,Banda,Africa,Atlantic-Congo,8.03339,23.9021,46,33,10,3,False,True,3,0.7174,0.2174
+band1352,Bandi,Africa,Mande,7.73729,-10.1684,48,23,21,4,False,True,10,0.4792,0.4375
+band1353,Banda Malay,Papunesia,Austronesian,-4.55565,129.905,23,18,5,0,False,False,4,0.7826,0.2174
+bang1339,Parnkalla,Australia,Pama-Nyungan,-33.3036,136.079,23,20,3,0,False,False,6,0.8696,0.1304
+bang1356,Bangolan,Africa,Atlantic-Congo,6.0125,10.667,40,27,9,4,False,True,3,0.675,0.225
+bani1255,Kurripako; Baniwa; Baniwa (Icana),South America,Arawakan,2.17859,-67.7704,36,24,12,0,False,False,4,0.6667,0.3333
+bank1256,Bankon,Africa,Atlantic-Congo,4.3702,9.6403,34,23,7,4,False,True,5,0.6765,0.2059
+baou1238,Baoulé,Africa,Atlantic-Congo,5.42509,-4.76565,37,21,12,4,False,True,8,0.5676,0.3243
+bara1380,Barasana-Eduria,South America,Tucanoan,0.02193,-70.808,17,11,6,0,False,False,0,0.6471,0.3529
+barb1263,Barbareño,North America,Chumashan,34.462,-119.699,44,38,6,0,False,False,4,0.8636,0.1364
+bard1255,Bardi,Australia,Nyulnyulan,-16.6274,122.906,24,17,7,0,False,False,5,0.7083,0.2917
+bare1276,Baré,South America,Arawakan,1.91649,-66.828,23,19,4,0,False,False,4,0.8261,0.1739
+bare1279,Barein (Jalking),Africa,Afro-Asiatic,10.970124,17.911727,44,31,10,3,False,True,8,0.7045,0.2273
+bari1286,Bariai,Papunesia,Austronesian,-5.5087,148.666,17,12,5,0,False,False,3,0.7059,0.2941
+bari1297,Barí,South America,Chibchan,9.08497,-72.9353,22,10,12,0,False,False,9,0.4545,0.5455
+barr1247,Malthanmungu,Australia,Pama-Nyungan,-14.1219,144.531,25,17,8,0,False,False,6,0.68,0.32
+baru1269,Baruga,Papunesia,Nuclear Trans New Guinea,-9.40132,148.761,24,14,10,0,False,False,7,0.5833,0.4167
+basa1284,Basaa,Africa,Atlantic-Congo,3.80765,10.4213,38,26,7,5,False,True,5,0.6842,0.1842
+bash1264,Bashkir,Eurasia,Turkic,53.5967,56.5594,39,28,11,0,False,False,3,0.7179,0.2821
+basq1250,Zuberoan Basque,Eurasia,Basque,43.2787,-1.31622,43,29,14,0,False,False,10,0.6744,0.3256
+bass1260,Bassossi,Africa,Atlantic-Congo,5.23655,9.52275,34,20,12,2,False,True,4,0.5882,0.3529
+bata1285,Banoo,Africa,Atlantic-Congo,1.397041,9.51011,31,20,8,3,False,True,4,0.6452,0.2581
+bata1289,Toba-Batak,Papunesia,Austronesian,2.35498,99.1761,27,18,9,0,False,False,3,0.6667,0.3333
+bata1293,Karo Batak,Papunesia,Austronesian,2.12787,98.2517,24,16,8,0,False,False,3,0.6667,0.3333
+bats1242,Bats,Eurasia,Nakh-Daghestanian,42.1806,45.344,51,33,18,0,False,False,8,0.6471,0.3529
+baur1253,Baure,South America,Arawakan,-13.61,-63.68,18,14,4,0,False,False,2,0.7778,0.2222
+bayu1240,Payungu,Australia,Pama-Nyungan,-23.3809,114.108,26,20,6,0,False,False,6,0.7692,0.2308
+beem1239,Beembe,Africa,Atlantic-Congo,-3.95895,14.1,41,19,20,2,False,True,13,0.4634,0.4878
+befa1241,Befang,Africa,Atlantic-Congo,6.27562,10.0342,59,43,14,2,False,True,6,0.7288,0.2373
+begb1241,Tinɔr,Africa,Atlantic-Congo,9.40519,7.59566,34,22,9,3,False,True,4,0.6471,0.2647
+beja1238,BEJA,Africa,Afro-Asiatic,17.2436,36.6666,26,21,5,0,False,False,2,0.8077,0.1923
+bekw1241,Bekwarra,Africa,Atlantic-Congo,6.73737,8.86489,36,23,10,3,False,True,5,0.6389,0.2778
+bela1255,Belanda Viri,Africa,Atlantic-Congo,7.41311,27.6956,43,28,10,5,False,True,3,0.6512,0.2326
+bela1256,Belanda Boor,Africa,Nilotic,6.6503,27.8232,38,25,10,3,False,True,5,0.6579,0.2632
+bela1260,Belait,Papunesia,Austronesian,4.96207,114.933,25,19,6,0,False,False,4,0.76,0.24
+belh1239,Belhare,Eurasia,Sino-Tibetan,26.9972,87.2783,30,22,8,0,False,False,6,0.7333,0.2667
+beli1260,Belizean Creole,North America,Indo-European,17.3941,-88.6281,35,22,13,0,False,False,5,0.6286,0.3714
+bell1243,BELLA COOLA,North America,Salishan,52.3448,-126.689,30,27,3,0,False,False,2,0.9,0.1
+bemb1257,Bemba,Africa,Atlantic-Congo,-10.6122,29.2993,25,15,10,0,False,False,4,0.6,0.4
+bena1262,Bena,Africa,Atlantic-Congo,-9.26671,35.0364,34,22,10,2,False,True,4,0.6471,0.2941
+benc1235,Gimira,Africa,Ta-Ne-Omotic,7.04682,35.7673,56,46,5,5,False,True,4,0.8214,0.0893
+beng1280,Bengali,Eurasia,Indo-European,24.0,90.0,72,49,23,0,False,False,5,0.6806,0.3194
+beng1286,Bɛ̀ŋ,Africa,Mande,7.78122,-4.23539,48,23,19,6,False,True,10,0.4792,0.3958
+berb1259,Berbice Dutch,South America,Indo-European,5.3829,-58.0002,20,14,6,0,False,False,2,0.7,0.3
+bero1242,Berom,Africa,Atlantic-Congo,9.67037,8.81221,31,24,7,0,False,False,3,0.7742,0.2258
+bese1243,Beserman,Eurasia,Uralic,56.12921,52.63548,33,25,8,0,False,False,3,0.7576,0.2424
+besi1244,Mah Meri,Eurasia,Austroasiatic,2.717,101.676,58,30,28,0,False,False,17,0.5172,0.4828
+besl1239,Besleri,Africa,Afro-Asiatic,10.38053,13.84054,50,39,9,2,False,True,3,0.78,0.18
+bett1235,Betta Kurumba,Eurasia,Dravidian,11.6385,76.6064,37,22,15,0,False,False,4,0.5946,0.4054
+bhel1238,Bhele,Africa,Atlantic-Congo,0.24553,28.6681,28,19,7,2,False,True,3,0.6786,0.25
+bhil1251,Bhili,Eurasia,Indo-European,20.85,73.9592,62,35,27,0,False,False,8,0.5645,0.4355
+bhoj1244,Bhojpuri,Eurasia,Indo-European,26.458455,84.817115,51,35,16,0,False,False,14,0.6863,0.3137
+biak1248,Biak,Papunesia,Austronesian,-0.9523,135.879,23,13,10,0,False,False,2,0.5652,0.4348
+bial1238,Biali,Africa,Atlantic-Congo,11.0382,1.08259,27,14,10,3,False,True,6,0.5185,0.3704
+bibb1234,Bibbulman,Australia,Pama-Nyungan,-33.1199,118.151,22,17,5,0,False,False,5,0.7727,0.2273
+bidy1243,Yandjibara,Australia,Pama-Nyungan,-25.192664,147.273359,21,18,3,0,False,False,6,0.8571,0.1429
+bidy1244,Bijogo,Africa,Atlantic-Congo,11.1097,-16.1497,25,18,7,0,False,False,4,0.72,0.28
+biga1237,Bigambal,Australia,Pama-Nyungan,-28.266,149.515,16,13,3,0,False,False,4,0.8125,0.1875
+bike1242,Bikele,Africa,Atlantic-Congo,3.65994,12.8574,51,24,23,4,False,True,4,0.4706,0.451
+bila1255,bila,Africa,Atlantic-Congo,1.16839,28.7626,33,19,9,5,False,True,1,0.5758,0.2727
+bili1250,Bilinara,Australia,Pama-Nyungan,-16.868771,130.533991,23,17,6,0,False,False,5,0.7391,0.2609
+bili1260,Blin,Africa,Afro-Asiatic,15.7833,38.3917,37,30,7,0,False,False,4,0.8108,0.1892
+bilo1248,Biloxi,North America,Siouan,31.32,-89.1951,20,12,8,0,False,False,5,0.6,0.4
+bimo1239,Bimoba,Africa,Atlantic-Congo,10.4575,0.06121,44,22,18,4,False,True,11,0.5,0.4091
+bina1277,Binandere,Papunesia,Nuclear Trans New Guinea,-8.37433,147.884,35,11,24,0,False,False,11,0.3143,0.6857
+binb1242,Binbinka,Australia,Mirndi,-17.496,135.683,23,17,6,0,False,False,5,0.7391,0.2609
+bini1246,Ẹdo,Africa,Atlantic-Congo,6.40701,5.70426,48,25,21,2,False,True,10,0.5208,0.4375
+binu1245,Binumarien,Papunesia,Nuclear Trans New Guinea,-6.22068,146.102,16,11,5,0,False,False,2,0.6875,0.3125
+biri1256,Garingbal,Australia,Pama-Nyungan,-20.1494,146.67,18,15,3,0,False,False,5,0.8333,0.1667
+biss1248,Bisa,Africa,Mande,10.4257,-1.67332,41,23,15,3,False,True,9,0.561,0.3659
+blan1242,Blang; Plang; Bulang; Pulang; Pula; Kawa; K''ala; Kontoi',Eurasia,Austroasiatic,22.0092,99.7405,40,24,14,2,False,True,6,0.6,0.35
+bodo1267,Gutob,Eurasia,Austroasiatic,18.3857,82.771,40,21,19,0,False,False,8,0.525,0.475
+bodo1269,BODO,Eurasia,Sino-Tibetan,26.1,92.0,21,15,6,0,False,False,3,0.7143,0.2857
+boik1241,Boiken,Papunesia,Ndu,-3.68297,143.474,25,17,8,0,False,False,4,0.68,0.32
+boko1266,Boussa,Africa,Mande,10.5189,3.71771,34,19,12,3,False,True,7,0.5588,0.3529
+bomi1238,Leke,Africa,Atlantic-Congo,1.70044,17.3733,28,16,10,2,False,True,6,0.5714,0.3571
+bona1250,Baoan,Eurasia,Mongolic-Khitan,35.6972,102.995,36,25,11,0,False,False,3,0.6944,0.3056
+bond1245,Remo,Eurasia,Austroasiatic,19.1512,83.8141,42,21,21,0,False,False,10,0.5,0.5
+bong1285,Bongo,Africa,Central Sudanic,7.4145,27.9918,29,18,11,0,False,False,3,0.6207,0.3793
+bora1263,Bora,South America,Boran,-2.000259,-72.257066,41,29,12,0,False,False,4,0.7073,0.2927
+bora1271,Galla,Africa,Afro-Asiatic,1.05676,37.882,35,25,10,0,False,False,3,0.7143,0.2857
+bord1248,Border Kuna,South America,Chibchan,7.92993,-77.1664,24,19,5,0,False,False,4,0.7917,0.2083
+boro1277,BoRo,Africa,Ta-Ne-Omotic,10.6596,35.345,32,22,8,2,False,True,3,0.6875,0.25
+boro1282,Borôro,South America,Bororoan,-16.6029,-55.2004,22,15,7,0,False,False,2,0.6818,0.3182
+boun1243,Kulango,Africa,Atlantic-Congo,8.46011,-2.74627,46,27,17,2,False,True,13,0.587,0.3696
+bouy1240,Yay,Eurasia,Tai-Kadai,24.8484,106.187,38,24,8,6,False,True,4,0.6316,0.2105
+brah1256,Brahui,Eurasia,Dravidian,29.04,66.56,43,26,17,0,False,False,10,0.6047,0.3953
+bret1244,Breton,Eurasia,Indo-European,48.2452,-3.78934,66,32,34,0,False,False,14,0.4848,0.5152
+brib1243,BRIBRI,North America,Chibchan,9.39794,-83.0539,27,18,9,0,False,False,7,0.6667,0.3333
+brok1247,Brokskat,Eurasia,Indo-European,34.5308,76.6026,56,41,15,0,False,False,6,0.7321,0.2679
+buam1238,Bwamut,Africa,Atlantic-Congo,11.1687,-3.50303,28,17,8,3,False,True,6,0.6071,0.2857
+bubi1249,Bubia,Africa,Bookkeeping,4.02178,9.22304,39,25,14,0,False,False,5,0.641,0.359
+budu1250,Kibudu,Africa,Atlantic-Congo,2.00501,27.951,43,31,9,3,False,True,3,0.7209,0.2093
+bugi1244,Bugis,Papunesia,Austronesian,-4.47,119.977,25,19,6,0,False,False,4,0.76,0.24
+bujh1238,Bhujel,Eurasia,Sino-Tibetan,28.0084,84.5068,47,31,16,0,False,False,10,0.6596,0.3404
+buku1249,Bukusu,Africa,Atlantic-Congo,0.68043,34.7719,26,16,10,0,False,False,4,0.6154,0.3846
+bula1255,Bularnu,Australia,Pama-Nyungan,-21.02656922,138.1566659,32,26,6,0,False,False,6,0.8125,0.1875
+bulg1262,Bulgarian,Eurasia,Indo-European,43.3646,25.047,49,37,12,0,False,False,10,0.7551,0.2449
+buli1254,Buli,Africa,Atlantic-Congo,10.5763,-1.26748,44,23,11,10,False,True,5,0.5227,0.25
+bulu1251,Bulu,Africa,Atlantic-Congo,3.16141,11.6365,36,24,7,5,False,True,4,0.6667,0.1944
+bumb1241,Arapesh,Papunesia,Nuclear Torricelli,-3.65508,142.859,22,15,7,0,False,False,3,0.6818,0.3182
+bumm1238,Bum,Africa,Atlantic-Congo,6.48655,10.418,47,37,7,3,False,True,5,0.7872,0.1489
+buna1275,Bunuba,Australia,Bunaban,-17.8297,125.631,24,20,4,0,False,False,6,0.8333,0.1667
+bund1253,Bundeli,Eurasia,Indo-European,24.8982,78.9542,55,38,17,0,False,False,12,0.6909,0.3091
+bung1264,Buwandik,Australia,Pama-Nyungan,-36.5,140.5,23,20,3,0,False,False,6,0.8696,0.1304
+buol1237,Buol,Papunesia,Austronesian,0.97727,121.519,19,13,6,0,False,False,3,0.6842,0.3158
+bura1267,Burarra,Australia,Maningrida,-12.3061,134.365,26,21,5,0,False,False,5,0.8077,0.1923
+burd1238,Purduna,Australia,Pama-Nyungan,-22.9646,114.658,26,20,6,0,False,False,6,0.7692,0.2308
+burj1242,Burji,Africa,Afro-Asiatic,4.44624,38.4646,36,26,10,0,False,False,3,0.7222,0.2778
+buru1301,Burun,Africa,Nilotic,10.725,33.921,38,19,16,3,False,True,4,0.5,0.4211
+busa1253,busa,Africa,Mande,9.91074,4.39929,31,16,12,3,False,True,7,0.5161,0.3871
+buwa1243,Buwal,Africa,Afro-Asiatic,10.6151,13.8838,42,37,2,3,False,True,4,0.881,0.0476
+cabi1241,Cabiyarí,South America,Arawakan,0.16101,-71.0622,17,12,5,0,False,False,2,0.7059,0.2941
+cacu1241,Kakua,South America,Kakua-Nukak,0.88778,-69.5659,26,21,5,0,False,False,3,0.8077,0.1923
+cadd1256,CADDO,North America,Caddoan,33.33,-93.5,23,20,3,0,False,False,3,0.8696,0.1304
+caja1238,Cajamarca Quechua,South America,Quechuan,-7.09314,-78.3214,22,19,3,0,False,False,3,0.8636,0.1364
+call1235,Callawaya,South America,Mixed Language,-15.88451,-68.10176,32,26,6,0,False,False,3,0.8125,0.1875
+came1252,Mambila,Africa,Atlantic-Congo,6.43829,11.41953,40,24,12,4,False,True,4,0.6,0.3
+camp1261,Campidanese Sardinian,Eurasia,Indo-European,39.0566,9.03935,58,44,14,0,False,False,11,0.7586,0.2414
+cane1242,Canela,South America,Nuclear-Macro-Je,-6.10712,-45.1299,29,13,16,0,False,False,10,0.4483,0.5517
+capa1241,Capanahua,South America,Pano-Tacanan,-6.63254,-74.3813,24,16,8,0,False,False,2,0.6667,0.3333
+caqu1242,Caquinte,South America,Arawakan,-11.4812,-73.4451,27,19,8,0,False,False,5,0.7037,0.2963
+cara1272,Karapanã,South America,Tucanoan,0.06168,-69.6465,23,11,12,0,False,False,6,0.4783,0.5217
+cari1279,Carijona,South America,Cariban,1.21894,-72.0664,21,14,7,0,False,False,3,0.6667,0.3333
+carn1240,NICOBARESE,Eurasia,Austroasiatic,9.18853,92.7671,25,16,9,0,False,False,4,0.64,0.36
+cash1251,Cashibo-Cacataibo,South America,Pano-Tacanan,-8.70232,-75.4206,21,15,6,0,False,False,3,0.7143,0.2857
+cash1254,Kashinawa,South America,Pano-Tacanan,-9.72027,-71.1733,23,15,8,0,False,False,6,0.6522,0.3478
+cavi1250,Cavineña,South America,Pano-Tacanan,-13.3544,-66.6277,24,20,4,0,False,False,3,0.8333,0.1667
+ceba1235,"Senoufo, Cebaara",Africa,Atlantic-Congo,9.50768,-6.15264,41,23,15,3,False,True,8,0.561,0.3659
+cebu1242,Cebuano,Papunesia,Austronesian,8.38799,124.367,21,18,3,0,False,False,3,0.8571,0.1429
+cent1972,Kurdish,Eurasia,Indo-European,35.6539,45.8077,39,31,8,0,False,False,3,0.7949,0.2051
+cent1973,Pashto,Eurasia,Indo-European,31.9153,69.4529,38,31,7,0,False,False,3,0.8158,0.1842
+cent1989,Central Khmer,Eurasia,Austroasiatic,12.0515,105.015,46,17,29,0,False,False,4,0.3696,0.6304
+cent1990,Nicobarese,Eurasia,Austroasiatic,7.94812,93.3921,35,16,19,0,False,False,4,0.4571,0.5429
+cent2004,BAI,Eurasia,Sino-Tibetan,26.1666,99.7052,27,17,10,0,False,False,3,0.6296,0.3704
+cent2018,Fulfulde,Africa,Atlantic-Congo,15.0907,8.43261,37,27,10,0,False,False,4,0.7297,0.2703
+cent2050,Kanuri,Africa,Saharan,11.8,13.13,35,25,6,4,False,True,4,0.7143,0.1714
+cent2087,Bikol (Bicolano),Papunesia,Austronesian,13.7574,123.403,21,16,5,0,False,False,4,0.7619,0.2381
+cent2092,Central Sama,Papunesia,Austronesian,7.004574,118.455978,36,30,6,0,False,False,7,0.8333,0.1667
+cent2128,YUPIK,Eurasia,Eskimo-Aleut,63.4308,-170.272,29,25,4,0,False,False,4,0.8621,0.1379
+cent2142,Aymara,South America,Aymaran,-17.0,-68.5,32,26,6,0,False,False,3,0.8125,0.1875
+cent2144,Mazahua,North America,Otomanguean,19.7357,-100.018,63,45,15,3,False,True,14,0.7143,0.2381
+cent2150,Tunebo,South America,Chibchan,6.8867,-72.097,19,14,5,0,False,False,3,0.7368,0.2632
+cent2194,Tamazight Berber,Africa,Afro-Asiatic,32.7415,-2.40872,39,36,3,0,False,False,2,0.9231,0.0769
+cerm1238,Cerma,Africa,Atlantic-Congo,10.1245,-4.94917,46,21,21,4,False,True,10,0.4565,0.4565
+chac1249,Cayapa,South America,Barbacoan,0.71489,-79.0508,28,24,4,0,False,False,4,0.8571,0.1429
+chac1250,Chachapoyas Quechua,South America,Quechuan,-6.27021,-77.6615,18,15,3,0,False,False,3,0.8333,0.1667
+chac1251,Chacobo,South America,Pano-Tacanan,-12.133,-66.7164,21,17,4,0,False,False,2,0.8095,0.1905
+chah1248,Chaha,Africa,Afro-Asiatic,8.11879,37.9891,44,36,8,0,False,False,3,0.8182,0.1818
+chal1275,Modern Aramaic,Eurasia,Afro-Asiatic,37.0972,43.5027,45,37,8,0,False,False,3,0.8222,0.1778
+cham1312,Chamorro,Papunesia,Austronesian,13.438011,144.74474,36,30,6,0,False,False,6,0.8333,0.1667
+cham1315,Chamacoco,South America,Zamucoan,-20.5899,-58.2005,37,21,16,0,False,False,9,0.5676,0.4324
+cham1318,Chamicuro,South America,Arawakan,-5.1149,-75.6778,29,19,10,0,False,False,3,0.6552,0.3448
+chan1310,Chantyal,Eurasia,Sino-Tibetan,28.684,83.4488,48,21,27,0,False,False,10,0.4375,0.5625
+chau1259,Chandangs and Byangs,Eurasia,Sino-Tibetan,29.7033,80.4832,42,34,8,0,False,False,4,0.8095,0.1905
+chay1248,Shawi,South America,Cahuapanan,-5.63764,-76.8252,18,14,4,0,False,False,2,0.7778,0.2222
+chec1245,Chechen,Eurasia,Nakh-Daghestanian,43.5,45.5,70,39,31,0,False,False,8,0.5571,0.4429
+chee1238,Che; Rukuba; Kuche; Bache; Inchazi; Sale,Africa,Atlantic-Congo,10.0031,8.67024,57,30,24,3,False,True,5,0.5263,0.4211
+chen1255,Nyinpa Cone,Eurasia,Dravidian,15.8787,79.2534,70,46,24,0,False,False,10,0.6571,0.3429
+chep1245,Chepang,Eurasia,Sino-Tibetan,27.7206,84.9017,24,18,6,0,False,False,3,0.75,0.25
+cher1271,Hill Guang,Africa,Atlantic-Congo,6.05387,-0.10955,38,26,10,2,False,True,11,0.6842,0.2632
+cher1273,CHEROKEE,North America,Iroquoian,35.4664,-83.163,16,10,6,0,False,False,2,0.625,0.375
+chib1270,Muisca,South America,Chibchan,6.24999,-74.1666,22,16,6,0,False,False,2,0.7273,0.2727
+chic1270,Chickasaw,North America,Muskogean,34.0,-88.0,25,16,9,0,False,False,5,0.64,0.36
+chim1300,San Miguel Chimalapa Zoque,North America,Mixe-Zoque,16.6543,-94.6913,18,12,6,0,False,False,3,0.6667,0.3333
+chim1302,Chimborazo Quichua,South America,Quechuan,-1.36727,-78.8521,33,30,3,0,False,False,3,0.9091,0.0909
+chim1309,Chimila,South America,Chibchan,10.1902,-74.2559,36,16,20,0,False,False,13,0.4444,0.5556
+chip1261,Chipewyan,North America,Athabaskan-Eyak-Tlingit,58.98,-104.44,61,39,18,4,False,True,10,0.6393,0.2951
+chip1262,Chipaya,South America,Uru-Chipaya,-18.73951,-67.89633,51,41,10,0,False,False,4,0.8039,0.1961
+chiq1248,Bésɨro,South America,Chiquitano,-16.769554,-61.817795,26,14,12,0,False,False,9,0.5385,0.4615
+chiq1250,Mazateco,North America,Otomanguean,18.0541,-96.6659,38,26,8,4,False,True,7,0.6842,0.2105
+chir1286,Nhandeva,South America,Tupian,-25.6521,-55.051,29,17,12,0,False,False,6,0.5862,0.4138
+choc1276,Choctaw,North America,Muskogean,32.25,-88.5,21,15,6,0,False,False,2,0.7143,0.2857
+chok1243,Chokri,Eurasia,Sino-Tibetan,25.5636,94.2887,39,34,5,0,False,False,5,0.8718,0.1282
+chol1282,"Tila, Chiapas",North America,Mayan,17.4897,-92.4698,26,20,6,0,False,False,2,0.7692,0.2308
+chol1284,Cholón,South America,Hibito-Cholon,-9.23129,-75.9621,20,15,5,0,False,False,4,0.75,0.25
+chon1284,Chong,Eurasia,Austroasiatic,12.5218,102.514,40,21,19,0,False,False,4,0.525,0.475
+chon1287,Chonyi,Africa,Atlantic-Congo,-6.518,38.672,47,40,5,2,False,True,5,0.8511,0.1064
+chra1242,Chrau,Eurasia,Austroasiatic,10.8021,107.293,32,20,12,0,False,False,4,0.625,0.375
+chua1250,CHUAVE,Papunesia,Nuclear Trans New Guinea,-6.17824,145.139,17,12,5,0,False,False,2,0.7059,0.2941
+chua1256,HMONG,Eurasia,Bookkeeping,22.5638,101.95,55,45,10,0,False,False,7,0.8182,0.1818
+chuk1273,Chukchi,Eurasia,Chukotko-Kamchatkan,68.6436,170.045,22,15,7,0,False,False,3,0.6818,0.3182
+chum1261,Chumburung,Africa,Atlantic-Congo,8.15211,-0.2755,28,19,9,0,False,False,4,0.6786,0.3214
+chuv1255,Chuvash,Eurasia,Turkic,55.487,47.163,39,30,9,0,False,False,5,0.7692,0.2308
+coca1259,Kokama-Kokamilla,South America,Tupian,-4.5,-74.0,16,11,5,0,False,False,2,0.6875,0.3125
+coco1260,Cocos Malay,Papunesia,Austronesian,-12.193342,96.833679,25,17,8,0,False,False,4,0.68,0.32
+coeu1236,Coeur d''Alene',North America,Salishan,47.2958,-116.715,48,40,8,0,False,False,4,0.8333,0.1667
+cogu1240,Kogi,South America,Chibchan,10.9485,-73.8043,36,24,12,0,False,False,8,0.6667,0.3333
+cola1237,Kolakngat,Australia,Pama-Nyungan,-38.471266,143.422444,22,17,5,0,False,False,5,0.7727,0.2273
+colo1256,Tsáfiki,South America,Barbacoan,-0.21181,-79.2347,26,16,10,0,False,False,7,0.6154,0.3846
+coma1245,Comanche,North America,Uto-Aztecan,34.0,-101.0,18,12,6,0,False,False,2,0.6667,0.3333
+como1259,Comox,North America,Salishan,49.7233,-124.967,39,34,5,0,False,False,4,0.8718,0.1282
+copa1236,Zoque,North America,Mixe-Zoque,17.2157,-93.3183,32,26,6,0,False,False,8,0.8125,0.1875
+copi1238,Copi,Africa,Atlantic-Congo,-24.8327,34.1097,57,50,5,2,True,True,5,0.8772,0.0877
+coro1247,Ancash Quechua,South America,Quechuan,-8.57647,-77.9864,24,18,6,0,False,False,3,0.75,0.25
+croa1245,Croatian,Eurasia,Indo-European,45.555,15.982,36,25,11,0,False,False,3,0.6944,0.3056
+cros1244,Mbembe,Africa,Atlantic-Congo,6.16926,8.23592,37,28,7,2,False,True,4,0.7568,0.1892
+crow1244,Crow,North America,Siouan,45.368,-107.874,23,10,10,3,False,True,0,0.4348,0.4348
+cube1242,CUBEO,South America,Tucanoan,1.32382,-70.1939,23,11,12,0,False,False,6,0.4783,0.5217
+cuib1242,Cuiba,South America,Guahiboan,6.19829,-69.8197,25,17,8,0,False,False,3,0.68,0.32
+culi1244,Kulina,South America,Arawan,-8.55268,-70.6648,21,17,4,0,False,False,2,0.8095,0.1905
+cupe1243,Cupeno,North America,Uto-Aztecan,33.3148,-116.515,31,24,7,0,False,False,4,0.7742,0.2258
+curr1243,Curripaco,South America,Arawakan,0.69618,-67.5028,29,25,4,0,False,False,4,0.8621,0.1379
+cusc1236,Cuzco-Collao Quechua,South America,Quechuan,-14.0853,-71.7663,31,26,5,0,False,False,3,0.8387,0.1613
+cuvo1236,Cuvok,Africa,Afro-Asiatic,10.6448,14.0006,29,27,2,0,False,False,2,0.931,0.069
+czec1258,Czech,Eurasia,Indo-European,49.873398,15.10437,40,27,13,0,False,False,3,0.675,0.325
+dadi1250,DADIBI,Papunesia,Teberan,-6.65765,144.511,23,13,10,0,False,False,7,0.5652,0.4348
+dagb1246,Dagbani,Africa,Atlantic-Congo,9.64745,-0.43227,37,24,11,2,False,True,5,0.6486,0.2973
+dagi1241,Thakik,Africa,Narrow Talodi,10.583,29.9404,26,16,10,0,False,False,3,0.6154,0.3846
+daha1245,DAHALO,Africa,Afro-Asiatic,-2.1843,40.37,59,54,5,0,True,False,4,0.9153,0.0847
+dakp1242,Northern Cuona,Eurasia,Sino-Tibetan,27.3762,91.8245,53,34,19,0,False,False,4,0.6415,0.3585
+dalo1238,BETE,Africa,Atlantic-Congo,6.69281,-6.63944,37,24,13,0,False,False,5,0.6486,0.3514
+dang1274,DANGALEAT,Africa,Afro-Asiatic,12.1517,18.385,28,21,7,0,False,False,4,0.75,0.25
+dani1285,Danish,Eurasia,Indo-European,54.8655,9.36284,68,19,49,0,False,False,3,0.2794,0.7206
+dann1241,Dan,Africa,Mande,7.22812,-8.24535,92,44,40,8,False,True,23,0.4783,0.4348
+darf1239,DAJU,Africa,Dajuic,12.2598,25.3127,30,24,6,0,False,False,4,0.8,0.2
+dark1243,Darkhat,Eurasia,Mongolic-Khitan,50.623,99.4449,39,20,19,0,False,False,3,0.5128,0.4872
+darl1243,Southern Paakintyi,Australia,Pama-Nyungan,-32.7021,142.695,26,20,6,0,False,False,6,0.7692,0.2308
+darm1243,Darmiya,Eurasia,Sino-Tibetan,29.8629,80.5439,42,34,8,0,False,False,5,0.8095,0.1905
+daun1234,Daungwurrung,Australia,Pama-Nyungan,-37.64264501,145.5879962,23,20,3,0,False,False,6,0.8696,0.1304
+daur1238,Daur,Eurasia,Mongolic-Khitan,48.0,124.0,57,45,12,0,False,False,6,0.7895,0.2105
+dawr1236,KULLO,Africa,Ta-Ne-Omotic,6.95,37.0,29,24,5,0,False,False,2,0.8276,0.1724
+daww1239,Dâw,South America,Naduhup,-0.1177,-67.2934,39,24,15,0,False,False,13,0.6154,0.3846
+daza1242,Daza,Africa,Saharan,15.7358,15.8517,32,21,11,0,False,False,4,0.6562,0.3438
+defa1248,Defaka,Africa,Ijoid,4.58451,7.50186,42,18,19,5,False,True,6,0.4286,0.4524
+dege1246,Degema,Africa,Atlantic-Congo,4.73373,6.80991,36,24,10,2,False,True,5,0.6667,0.2778
+degg1238,Mo,Africa,Atlantic-Congo,8.43846,-2.28724,52,22,30,0,False,False,14,0.4231,0.5769
+deni1241,Dení,South America,Arawan,-6.74962,-67.5029,22,18,4,0,False,False,2,0.8182,0.1818
+deny1238,Denya,Africa,Atlantic-Congo,5.97237,9.39989,30,22,8,0,False,False,4,0.7333,0.2667
+dera1245,DERA,Papunesia,Senagi,-3.52309,140.947,17,11,6,0,False,False,3,0.6471,0.3529
+dera1248,KANAKURU,Africa,Afro-Asiatic,10.072,12.0256,35,24,11,0,False,False,4,0.6857,0.3143
+desa1247,Desano,South America,Tucanoan,0.58157,-69.4955,18,12,6,0,False,False,0,0.6667,0.3333
+dghw1239,Dghwede,Africa,Afro-Asiatic,11.05751,13.77847,38,33,3,2,False,True,2,0.8684,0.0789
+dhal1245,Thalanyji,Australia,Pama-Nyungan,-22.196,114.937,26,20,6,0,False,False,6,0.7692,0.2308
+dhal1246,Dhay'yi,Australia,Pama-Nyungan,-13.1806,136.22,26,20,6,0,False,False,6,0.7692,0.2308
+dhan1270,Dhangu,Australia,Pama-Nyungan,-11.9493,135.752,26,20,6,0,False,False,6,0.7692,0.2308
+dhar1247,Tharrkari,Australia,Pama-Nyungan,-24.0601,114.847,31,25,6,0,False,False,6,0.8065,0.1935
+dhar1248,Dharumbal,Australia,Pama-Nyungan,-23.307,150.593,21,18,3,0,False,False,4,0.8571,0.1429
+dhim1246,Dhimal,Eurasia,Sino-Tibetan,26.6283,88.3798,53,31,22,0,False,False,10,0.5849,0.4151
+dhiv1236,Dhivehi,Eurasia,Indo-European,1.928498,73.54433,39,27,12,0,False,False,3,0.6923,0.3077
+dhud1236,Dhudhuroa,Australia,Pama-Nyungan,-36.95881441,147.0450379,21,15,6,0,False,False,5,0.7143,0.2857
+dhur1239,Dhurga,Australia,Pama-Nyungan,-35.412,150.134,25,19,6,0,False,False,6,0.76,0.24
+dhuw1249,YOLNGU,Australia,Pama-Nyungan,-12.7825,136.008,23,20,3,0,False,False,6,0.8696,0.1304
+dibo1245,babole,Africa,Atlantic-Congo,1.07773,17.2305,21,11,6,4,False,True,2,0.5238,0.2857
+didi1258,Didinga,Africa,Surmic,4.21489,33.6869,58,36,18,4,False,True,8,0.6207,0.3103
+dido1241,Tsez,Eurasia,Nakh-Daghestanian,42.2646,45.8096,42,36,6,0,False,False,2,0.8571,0.1429
+dier1241,Diyari,Australia,Pama-Nyungan,-28.1667,138.0,25,22,3,0,False,False,6,0.88,0.12
+digo1242,Digor Ossetic,Eurasia,Indo-European,43.158056,44.156944,42,36,6,0,False,False,2,0.8571,0.1429
+digo1243,Digo,Africa,Atlantic-Congo,-4.62101,39.1752,48,41,5,2,False,True,5,0.8542,0.1042
+dime1235,Dime,Africa,South Omotic,6.20951,36.3329,73,53,18,2,False,True,5,0.726,0.2466
+diml1238,Dimili,Eurasia,Indo-European,38.6147,39.6388,42,28,14,0,False,False,2,0.6667,0.3333
+dira1238,Thirarri,Australia,Pama-Nyungan,-28.7992,138.078,25,22,3,0,False,False,6,0.88,0.12
+diri1252,diriku,Africa,Atlantic-Congo,-18.1681,20.6678,28,23,5,0,False,False,4,0.8214,0.1786
+dita1238,Ditammari,Africa,Atlantic-Congo,10.1614,1.18045,32,17,12,3,False,True,9,0.5312,0.375
+dizi1235,DIZI,Africa,Dizoid,6.1405,35.5763,30,24,6,0,False,False,2,0.8,0.2
+djab1234,Djabwurung,Australia,Pama-Nyungan,-34.13829932,143.6694397,21,17,4,0,False,False,5,0.8095,0.1905
+djad1246,Jardwadjali,Australia,Pama-Nyungan,-34.13829932,143.6694397,21,17,4,0,False,False,5,0.8095,0.1905
+djam1255,Jaminjung,Australia,Mirndi,-15.0558,130.06,22,18,4,0,False,False,5,0.8182,0.1818
+djam1256,Djambarrpuyngu,Australia,Pama-Nyungan,-12.021,135.59,31,25,6,0,False,False,6,0.8065,0.1935
+djan1238,Djangun,Australia,Pama-Nyungan,-16.91051,144.93245,16,13,3,0,False,False,4,0.8125,0.1875
+djap1238,Djapu,Australia,Pama-Nyungan,-12.879764,136.417978,25,19,6,0,False,False,6,0.76,0.24
+djau1244,Jawoyn,Australia,Gunwinyguan,-14.1361,133.002,27,22,5,0,False,False,5,0.8148,0.1852
+djaw1238,Jawi,Australia,Nyulnyulan,-16.4163,123.186,20,17,3,0,False,False,5,0.85,0.15
+djee1236,Ndjebbana,Australia,Maningrida,-12.0133,134.097,21,16,5,0,False,False,5,0.7619,0.2381
+djeo1235,Jabutí,South America,Nuclear-Macro-Je,-12.038,-64.6694,24,14,10,0,False,False,6,0.5833,0.4167
+djin1251,Jingulu,Australia,Mirndi,-17.165,133.659,20,17,3,0,False,False,5,0.85,0.15
+djin1252,Djinba,Australia,Pama-Nyungan,-12.93,134.967,25,22,3,0,False,False,5,0.88,0.12
+djin1253,Djinang,Australia,Pama-Nyungan,-12.462,134.82,25,22,3,0,False,False,5,0.88,0.12
+djiw1241,Jiwarli,Australia,Pama-Nyungan,-24.10724,116.98858,26,20,6,0,False,False,6,0.7692,0.2308
+dobu1241,Dobu,Papunesia,Austronesian,-9.63239,150.825,24,19,5,0,False,False,3,0.7917,0.2083
+dolg1241,Dolgan,Eurasia,Turkic,71.1083,94.2936,42,22,20,0,False,False,4,0.5238,0.4762
+doma1258,Domari,Eurasia,Indo-European,32.0,35.0,45,33,12,0,False,False,2,0.7333,0.2667
+domp1238,Dompo,Africa,Atlantic-Congo,8.182,-2.295,31,22,7,2,False,True,3,0.7097,0.2258
+dong1285,Dongxiang,Eurasia,Mongolic-Khitan,35.5808,103.558,34,28,6,0,False,False,3,0.8235,0.1765
+doya1240,Doayo,Africa,Atlantic-Congo,8.68604,13.0768,48,22,22,4,False,True,11,0.4583,0.4583
+dual1243,Duala,Africa,Atlantic-Congo,4.10208,9.61877,33,21,7,5,False,True,4,0.6364,0.2121
+dupa1235,Dupaningan Agta,Papunesia,Austronesian,17.3748,122.188,21,15,6,0,False,False,3,0.7143,0.2857
+duru1236,Parji,Eurasia,Dravidian,19.0534,82.4881,31,21,10,0,False,False,4,0.6774,0.3226
+duru1249,Duruma,Africa,Atlantic-Congo,-4.09629,39.322,49,42,5,2,False,True,5,0.8571,0.102
+dutc1256,Dutch,Eurasia,Indo-European,52.0,5.0,55,19,36,0,False,False,3,0.3455,0.6545
+duun1241,Duungidjawu,Australia,Pama-Nyungan,-26.248,151.868,23,13,10,0,False,False,4,0.5652,0.4348
+dyaa1242,Djabugay,Australia,Pama-Nyungan,-16.596,145.388,19,13,6,0,False,False,4,0.6842,0.3158
+dyab1238,Jabirr-Jabirr,Australia,Nyulnyulan,-17.18653,122.52306,20,17,3,0,False,False,5,0.85,0.15
+dyan1250,Thanggati,Australia,Pama-Nyungan,-30.8469,152.602,19,13,6,0,False,False,4,0.6842,0.3158
+dyir1250,DYIRBAL,Australia,Pama-Nyungan,-17.4516,145.544,16,13,3,0,False,False,4,0.8125,0.1875
+dyug1238,Jukun,Australia,Nyulnyulan,-17.906,122.408,28,22,6,0,False,False,5,0.7857,0.2143
+dyul1238,Dioula,Africa,Mande,10.4536,-4.72007,39,23,14,2,False,True,11,0.5897,0.359
+dzal1238,Southern Cuona,Eurasia,Sino-Tibetan,27.7855,91.374,59,37,22,0,False,False,4,0.6271,0.3729
+dzon1239,Dzongkha,Eurasia,Sino-Tibetan,27.410786,89.581604,58,32,26,0,False,False,9,0.5517,0.4483
+dzuu1241,Dzuungoo,Africa,Mande,11.3796,-4.92036,55,26,26,3,False,True,17,0.4727,0.4727
+east2282,Latgalian,Eurasia,Indo-European,56.826108,24.309118,55,38,17,0,False,False,4,0.6909,0.3091
+east2295,Standard Yiddish,Eurasia,Indo-European,51.75,19.42,47,38,9,0,False,False,4,0.8085,0.1915
+east2304,Eastern Hill Balochi,Eurasia,Indo-European,28.0,62.0,54,35,19,0,False,False,12,0.6481,0.3519
+east2328,Cheremis,Eurasia,Uralic,55.8307,48.405,34,25,9,0,False,False,4,0.7353,0.2647
+east2337,Eastern Yugur,Eurasia,Mongolic-Khitan,37.9882,101.762,42,28,14,0,False,False,4,0.6667,0.3333
+east2347,Tamang,Eurasia,Sino-Tibetan,27.3239,87.0832,53,37,16,0,False,False,6,0.6981,0.3019
+east2379,Eastern Arrernte,Australia,Pama-Nyungan,-23.3583,135.046,44,40,4,0,False,False,12,0.9091,0.0909
+east2380,Eastern Anmatyerre,Australia,Pama-Nyungan,-22.2853,133.286,44,40,4,0,False,False,12,0.9091,0.0909
+east2398,Kar,Africa,Atlantic-Congo,10.4987,-4.52253,26,16,7,3,False,True,3,0.6154,0.2692
+east2426,Manding,Africa,Mande,9.33048,-10.5394,36,20,14,2,False,True,10,0.5556,0.3889
+east2440,Taba,Papunesia,Austronesian,0.07337,127.423,37,32,5,0,False,False,6,0.8649,0.1351
+east2516,KEWA,Papunesia,Nuclear Trans New Guinea,-6.32989,143.931,20,15,5,0,False,False,3,0.75,0.25
+east2542,Ojibwa,North America,Algic,45.0112,-79.7503,27,16,11,0,False,False,6,0.5926,0.4074
+east2555,Chiriguano,South America,Tupian,-20.42,-63.37,24,12,12,0,False,False,9,0.5,0.5
+east2563,Cham,Eurasia,Austronesian,11.2853,108.49,35,24,9,2,False,True,4,0.6857,0.2571
+east2652,"Oromo, Eastern",Africa,Afro-Asiatic,8.67428,41.4395,56,44,10,2,False,True,5,0.7857,0.1786
+east2773,Dolakha Newar,Eurasia,Sino-Tibetan,27.576985,86.033964,36,24,12,0,False,False,9,0.6667,0.3333
+ebir1243,Ebira,Africa,Atlantic-Congo,8.15516,7.06183,31,19,9,3,False,True,4,0.6129,0.2903
+efik1245,EFIK,Africa,Atlantic-Congo,4.89379,8.38121,20,13,7,0,False,False,4,0.65,0.35
+efut1241,Efutu,Africa,Atlantic-Congo,5.42441,-0.59545,50,30,18,2,False,True,16,0.6,0.36
+egaa1242,Ega,Africa,Atlantic-Congo,5.56081,-5.41732,38,26,9,3,False,True,4,0.6842,0.2368
+eggo1239,Eggon,Africa,Atlantic-Congo,8.71442,8.45686,40,28,7,5,False,True,4,0.7,0.175
+egyp1253,Egyptian Arabic,Africa,Afro-Asiatic,31.0,31.0,67,58,9,0,False,False,4,0.8657,0.1343
+ejag1239,Ejagham de l'ouest,Africa,Atlantic-Congo,5.54442,8.90959,32,21,7,4,False,True,4,0.6562,0.2188
+ekar1243,EKARI,Papunesia,Nuclear Trans New Guinea,-3.88974,136.018,15,10,5,0,False,False,2,0.6667,0.3333
+ekpe1253,Ekpeye,Africa,Atlantic-Congo,5.06715,6.53362,37,24,9,4,False,True,4,0.6486,0.2432
+elfd1234,Elfdalian,Eurasia,Indo-European,61.291358,13.830399,87,37,50,0,False,False,19,0.4253,0.5747
+elip1238,Nulibie,Africa,Atlantic-Congo,4.45694,11.193,30,19,7,4,False,True,4,0.6333,0.2333
+eloy1241,Eloyi,Africa,Atlantic-Congo,8.24696,7.97061,51,41,7,3,False,True,7,0.8039,0.1373
+emai1241,Emai,Africa,Atlantic-Congo,7.09089,5.84494,48,27,21,0,False,False,11,0.5625,0.4375
+embe1259,Emberá-Baudó,South America,Chocoan,5.2824,-76.32548,33,21,12,0,False,False,8,0.6364,0.3636
+embe1260,Emberá-Catío,South America,Chocoan,7.52721,-76.7476,31,19,12,0,False,False,8,0.6129,0.3871
+embe1262,Emberá-Chamí,South America,Chocoan,4.8791,-76.0749,28,16,12,0,False,False,8,0.5714,0.4286
+emer1243,Emerillon,South America,Tupian,3.23694,-52.3699,30,16,14,0,False,False,7,0.5333,0.4667
+enap1235,PANARE,South America,Cariban,6.95035,-65.8483,25,12,13,0,False,False,8,0.48,0.52
+enaw1238,Enawené-Nawé,South America,Arawakan,-12.4302,-58.9802,25,13,12,0,False,False,7,0.52,0.48
+endo1242,Endo,Africa,Nilotic,1.15018,35.5866,36,13,20,3,False,True,4,0.3611,0.5556
+enge1239,Engenni,Africa,Atlantic-Congo,5.11931,6.37339,33,20,10,3,False,True,2,0.6061,0.303
+epen1239,Epena,South America,Chocoan,4.25877,-77.3566,38,17,21,0,False,False,7,0.4474,0.5526
+erre1238,Erre,Australia,Giimbiyu,-12.2839,132.868,23,18,5,0,False,False,5,0.7826,0.2174
+ersu1241,Lizu,Eurasia,Sino-Tibetan,29.2867,102.213,61,51,8,2,False,True,4,0.8361,0.1311
+erzy1239,Erzya,Eurasia,Uralic,52.8548,45.3901,35,29,6,0,False,False,4,0.8286,0.1714
+esee1248,Ese Eja,South America,Pano-Tacanan,-11.7268,-67.515,22,18,4,0,False,False,3,0.8182,0.1818
+esim1238,Esimbi,Africa,Atlantic-Congo,6.50094,9.86936,37,29,8,0,False,False,4,0.7838,0.2162
+esto1258,Estonian,Eurasia,Uralic,58.55,25.82,48,39,9,0,False,False,9,0.8125,0.1875
+eten1239,Iten,Africa,Atlantic-Congo,9.73073,8.61443,74,63,6,5,False,True,8,0.8514,0.0811
+eton1253,Eton,Africa,Atlantic-Congo,4.21045,11.3935,38,21,15,2,False,True,5,0.5526,0.3947
+even1259,Evenki,Eurasia,Tungusic,61.972,94.689,29,18,11,0,False,False,4,0.6207,0.3793
+even1260,Even,Eurasia,Tungusic,70.6687,130.914,36,18,18,0,False,False,4,0.5,0.5
+ewee1241,Ewe,Africa,Atlantic-Congo,6.46061,0.814975,45,28,14,3,False,True,13,0.6222,0.3111
+ewon1239,EWONDO,Africa,Atlantic-Congo,4.21141,11.93646,34,26,8,0,False,False,4,0.7647,0.2353
+eyak1241,EYAK,North America,Athabaskan-Eyak-Tlingit,60.4232,-144.762,42,30,12,0,False,False,6,0.7143,0.2857
+ezaa1238,Ẹzaa,Africa,Atlantic-Congo,6.31831,8.03044,38,27,9,2,False,True,5,0.7105,0.2368
+ezha1238,Ezha,Africa,Afro-Asiatic,8.11879,37.9891,39,33,6,0,False,False,3,0.8462,0.1538
+faiw1243,Faiwol,Papunesia,Nuclear Trans New Guinea,-5.4967,141.656,20,12,8,0,False,False,2,0.6,0.4
+fali1285,Kirya-Konzɘl,Africa,Afro-Asiatic,10.5419,13.4087,50,38,7,5,False,True,5,0.76,0.14
+fang1246,Fan,Africa,Atlantic-Congo,1.723965,11.61454,41,25,16,0,False,False,4,0.6098,0.3902
+fang1248,Fang,Africa,Atlantic-Congo,6.54384,10.319,34,21,10,3,False,True,4,0.6176,0.2941
+faro1244,Faroese,Eurasia,Indo-European,62.0732,-6.88497,36,16,20,0,False,False,2,0.4444,0.5556
+fefe1239,Fe'efe'fe,Africa,Atlantic-Congo,5.18158,10.1442,44,23,16,5,False,True,3,0.5227,0.3636
+fern1234,Pichi,Africa,Indo-European,3.74,8.78,30,21,7,2,False,True,4,0.7,0.2333
+fiji1243,FIJIAN,Papunesia,Austronesian,-18.0,178.33,28,17,11,0,False,False,3,0.6071,0.3929
+fili1244,Filipino,Papunesia,Austronesian,12.265,123.464,22,16,6,0,False,False,3,0.7273,0.2727
+finn1318,Finnish,Eurasia,Uralic,64.7628,25.5577,42,25,17,0,False,False,5,0.5952,0.4048
+fipa1238,Fipa,Africa,Atlantic-Congo,-7.88963,31.3442,35,20,14,1,False,True,4,0.5714,0.4
+fonn1241,Fɔn,Africa,Atlantic-Congo,7.15484,1.66495,42,24,14,4,False,True,10,0.5714,0.3333
+food1238,Foodo,Africa,Atlantic-Congo,9.56489,1.40486,40,19,18,3,False,True,4,0.475,0.45
+fore1265,Forest Enets,Eurasia,Uralic,69.9829,88.2121,33,25,8,0,False,False,4,0.7576,0.2424
+fore1274,Forest Nenets,Eurasia,Uralic,63.72,71.97,38,25,13,0,False,False,6,0.6579,0.3421
+fraf1238,Frafra,Africa,Atlantic-Congo,11.0918,-0.81109,29,20,7,2,False,True,4,0.6897,0.2414
+friu1240,Friulian,Eurasia,Indo-European,46.1473,13.0493,38,24,14,0,False,False,3,0.6316,0.3684
+fuli1240,Fuliiru,Africa,Atlantic-Congo,-3.04022,28.9865,35,23,10,2,False,True,3,0.6571,0.2857
+furr1244,FUR,Africa,Furan,12.0455,23.6401,30,19,11,0,False,False,4,0.6333,0.3667
+furu1242,Furu,Africa,Central Sudanic,4.485,20.6448,38,28,10,0,False,False,5,0.7368,0.2632
+fwee1238,Fwe,Africa,Atlantic-Congo,-17.72372,24.43151,60,50,10,0,True,False,10,0.8333,0.1667
+gaaa1244,Ga,Africa,Atlantic-Congo,5.65488,-0.18598,47,32,12,3,False,True,11,0.6809,0.2553
+gaaa1245,Tiba,Africa,Atlantic-Congo,8.4809,11.9603,34,22,9,3,False,True,2,0.6471,0.2647
+gaam1241,Gaahmg,Africa,Eastern Jebel,11.4674,33.9797,49,34,12,3,False,True,8,0.6939,0.2449
+gabi1248,Gabi-Gabi,Australia,Pama-Nyungan,-25.44486229,153.1539929,19,13,6,0,False,False,4,0.6842,0.3158
+gade1236,Gade-Lohar,Eurasia,Indo-European,25.8583,78.2187,50,31,19,0,False,False,12,0.62,0.38
+gads1258,Gadsup,Papunesia,Nuclear Trans New Guinea,-6.31631,145.997,19,9,6,4,False,True,2,0.4737,0.3158
+gaga1249,Gagauz,Eurasia,Turkic,44.5988,28.0277,33,22,11,0,False,False,2,0.6667,0.3333
+gagn1235,Bété,Africa,Atlantic-Congo,6.10051,-5.9701,51,23,26,2,False,True,4,0.451,0.5098
+gagu1242,Gban,Africa,Mande,6.40859,-5.51851,34,18,12,4,False,True,7,0.5294,0.3529
+gali1258,Galician,Eurasia,Indo-European,42.2446,-7.5343,30,23,7,0,False,False,4,0.7667,0.2333
+gali1262,Carib,South America,Cariban,5.83772,-56.8323,28,16,12,0,False,False,3,0.5714,0.4286
+galo1242,Gallong,Eurasia,Sino-Tibetan,27.9805586,94.6884956,29,17,12,0,False,False,4,0.5862,0.4138
+gamb1251,Gambera,Australia,Worrorran,-14.29546,126.27131,25,20,5,0,False,False,6,0.8,0.2
+gami1243,Gamilaraay,Australia,Pama-Nyungan,-29.9037,149.543,21,15,6,0,False,False,5,0.7143,0.2857
+gamo1243,Gamo,Africa,Ta-Ne-Omotic,6.27645,37.23808,36,26,10,0,False,False,2,0.7222,0.2778
+gana1268,Bidhawal,Australia,Pama-Nyungan,-37.05,148.93,25,17,8,0,False,False,6,0.68,0.32
+gana1278,Nulit,Australia,Pama-Nyungan,-38.58,146.5,22,17,5,0,False,False,6,0.7727,0.2273
+gand1255,Luganda,Africa,Atlantic-Congo,0.66884,32.15153,33,19,10,4,False,True,4,0.5758,0.303
+gang1267,Gangalidda,Australia,Tangkic,-17.5446,139.426,24,18,6,0,False,False,6,0.75,0.25
+gang1268,Gangulu,Australia,Pama-Nyungan,-22.7637,149.416,22,16,6,0,False,False,5,0.7273,0.2727
+gara1269,GARAWA,Australia,Garrwan,-17.4504,137.72014,22,19,3,0,False,False,6,0.8636,0.1364
+gari1254,Garig,Australia,Iwaidjan Proper,-11.412,132.182,24,21,3,0,False,False,5,0.875,0.125
+garo1247,Garo,Eurasia,Sino-Tibetan,25.2954,90.462,26,21,5,0,False,False,6,0.8077,0.1923
+gata1239,Gtaʔ,Eurasia,Austroasiatic,18.6076,82.984,40,23,17,0,False,False,8,0.575,0.425
+gava1241,Gavar,Africa,Afro-Asiatic,10.5603,13.8188,55,47,5,3,False,True,4,0.8545,0.0909
+gavi1246,Gavião do Jiparaná,South America,Tupian,-10.7235,-61.6752,29,19,10,0,False,False,9,0.6552,0.3448
+gayo1244,Gayo,Papunesia,Austronesian,4.3733,97.3456,26,18,8,0,False,False,4,0.6923,0.3077
+gbag1258,GWARI,Africa,Atlantic-Congo,9.29842,6.90495,24,18,6,0,False,False,3,0.75,0.25
+gbar1246,Gbari,Africa,Atlantic-Congo,8.46411,7.10757,28,23,5,0,False,False,2,0.8214,0.1786
+gbay1281,Mbodomo,Africa,Atlantic-Congo,4.800365,14.606865,38,28,7,3,False,True,4,0.7368,0.1842
+gbay1287,Gbaya,Africa,Atlantic-Congo,6.61896,17.645,45,29,12,4,False,True,10,0.6444,0.2667
+gbay1288,Kresh,Africa,Kresh-Aja,8.43391,25.0,56,41,10,5,False,True,3,0.7321,0.1786
+gbes1238,gbesi,Africa,Atlantic-Congo,6.55911,2.0269,47,31,13,3,False,True,12,0.6596,0.2766
+genn1243,Gɛn-mina,Africa,Atlantic-Congo,6.25971,1.67727,44,27,14,3,False,True,11,0.6136,0.3182
+gheg1238,Gheg Albanian,Eurasia,Indo-European,42.317,21.3837,43,27,16,0,False,False,8,0.6279,0.3721
+ghod1238,Godoberi,Eurasia,Nakh-Daghestanian,42.7428,46.2252,66,53,13,0,False,False,5,0.803,0.197
+ghom1247,Banjun,Africa,Atlantic-Congo,5.39619,10.352,59,36,18,5,False,True,4,0.6102,0.3051
+gida1240,Gidabal,Australia,Pama-Nyungan,-28.289642,152.151281,21,13,8,0,False,False,4,0.619,0.381
+gida1247,Kada,Africa,Afro-Asiatic,9.874715,14.07845,38,28,8,2,False,True,3,0.7368,0.2105
+giky1238,Gechode,Africa,Atlantic-Congo,8.39478,0.56975,51,29,22,0,False,False,16,0.5686,0.4314
+gily1242,Gilyak,Eurasia,Nivkh,52.59,140.681,44,34,10,0,False,False,4,0.7727,0.2273
+giny1241,Genyanga,Africa,Atlantic-Congo,8.2327,0.98348,53,31,22,0,False,False,16,0.5849,0.4151
+giry1241,Raβai,Africa,Atlantic-Congo,-3.30638,39.6648,47,40,5,2,False,True,5,0.8511,0.1064
+glav1244,Glavda,Africa,Afro-Asiatic,11.1334,13.8652,43,34,7,2,False,True,4,0.7907,0.1628
+godi1239,Godié,Africa,Atlantic-Congo,5.3944,-5.82696,42,26,13,3,False,True,5,0.619,0.3095
+goli1247,Golin,Papunesia,Nuclear Trans New Guinea,-6.2249,144.8505,23,13,10,0,False,False,2,0.5652,0.4348
+gonj1241,Gonja,Africa,Atlantic-Congo,8.48801,-0.72757,39,23,14,2,False,True,4,0.5897,0.359
+goon1238,Gooniyandi,Australia,Bunaban,-18.4073,126.351,23,19,4,0,False,False,6,0.8261,0.1739
+gore1235,Goreng,Australia,Pama-Nyungan,-33.1199,118.151,22,17,5,0,False,False,5,0.7727,0.2273
+gour1243,Gulmancema,Africa,Atlantic-Congo,11.6711,1.28489,33,20,10,3,False,True,5,0.6061,0.303
+gras1249,KOIARI,Papunesia,Koiarian,-9.51218,147.437,16,11,5,0,False,False,2,0.6875,0.3125
+guah1255,Guahibo,South America,Guahiboan,5.81736,-68.9839,35,17,18,0,False,False,8,0.4857,0.5143
+guaj1255,Guajajára,South America,Tupian,-4.69461,-45.7081,22,15,7,0,False,False,4,0.6818,0.3182
+guaj1256,Guajá,South America,Tupian,-3.93574,-46.3683,24,12,12,0,False,False,8,0.5,0.5
+guam1248,Guambiano,South America,Barbacoan,2.55849,-76.582,25,20,5,0,False,False,3,0.8,0.2
+guan1269,Wanano,South America,Tucanoan,1.07554,-69.5705,28,16,12,0,False,False,6,0.5714,0.4286
+guan1270,Kinikinao,South America,Arawakan,-19.1667,-54.0333,23,13,10,0,False,False,7,0.5652,0.4348
+guar1292,Guarayu,South America,Tupian,-15.8247,-61.6934,26,14,12,0,False,False,9,0.5385,0.4615
+guar1293,Warekena,South America,Arawakan,1.80835,-66.922505,25,17,8,0,False,False,3,0.68,0.32
+guay1257,Guayabero,South America,Guahiboan,2.8969,-71.844,22,16,6,0,False,False,2,0.7273,0.2727
+guda1243,Gudanji,Australia,Mirndi,-17.42,134.73,19,16,3,0,False,False,4,0.8421,0.1579
+gude1246,Guɗe,Africa,Afro-Asiatic,10.2138,13.403,36,30,4,2,False,True,3,0.8333,0.1111
+gudj1237,Gudjal,Australia,Pama-Nyungan,-19.44157406,144.6482584,18,15,3,0,False,False,5,0.8333,0.1667
+guer1243,AMUZGO,North America,Otomanguean,16.77226,-98.18953,29,17,12,0,False,False,7,0.5862,0.4138
+guga1239,Kukatj,Australia,Pama-Nyungan,-17.8372,141.168,23,16,7,0,False,False,5,0.6957,0.3043
+gugu1253,Gugu Badhun,Australia,Pama-Nyungan,-18.4921,144.46,17,14,3,0,False,False,4,0.8235,0.1765
+gugu1254,Koko Bera,Australia,Pama-Nyungan,-15.4296,141.635,21,15,6,0,False,False,5,0.7143,0.2857
+gugu1255,Guugu Yimidhirr,Australia,Pama-Nyungan,-14.9424,144.831,23,17,6,0,False,False,6,0.7391,0.2609
+guib1244,PO-AI,Eurasia,Tai-Kadai,24.3,106.2,31,15,16,0,False,False,3,0.4839,0.5161
+guin1254,"Kpelle, North",Africa,Mande,7.93196,-8.98843,39,24,12,3,False,True,10,0.6154,0.3077
+guja1252,Gujarati,Eurasia,Indo-European,22.687,71.0962,60,35,25,0,False,False,12,0.5833,0.4167
+guja1253,Gojri,Eurasia,Indo-European,33.7,75.11,57,35,19,3,False,True,14,0.614,0.3333
+guma1252,Kunwinjku,Australia,Gunwinyguan,-12.3398,133.358,27,22,5,0,False,False,5,0.8148,0.1852
+guma1253,Gumatj,Australia,Pama-Nyungan,-12.25254,136.83042,31,25,6,0,False,False,6,0.8065,0.1935
+gume1239,Gumer,Africa,Afro-Asiatic,8.11879,37.9891,42,35,7,0,False,False,3,0.8333,0.1667
+gumu1244,Gumuz,Africa,Gumuz,11.05,35.93,43,33,10,0,False,False,4,0.7674,0.2326
+gund1246,Gun-Dedjnjenghmi,Australia,Gunwinyguan,-12.3398,133.358,27,22,5,0,False,False,5,0.8148,0.1852
+gund1248,Gundungurra,Australia,Pama-Nyungan,-33.7,150.3,25,19,6,0,False,False,6,0.76,0.24
+gune1238,Kune,Australia,Gunwinyguan,-12.3398,133.358,28,22,6,0,False,False,5,0.7857,0.2143
+gung1248,Gungabula,Australia,Pama-Nyungan,-25.6896,148.604,20,16,4,0,False,False,5,0.8,0.2
+gunw1252,Gunwinggu,Australia,Gunwinyguan,-12.3398,133.358,24,19,5,0,False,False,5,0.7917,0.2083
+guny1241,Gunya,Australia,Pama-Nyungan,-27.0642,145.862,31,25,6,0,False,False,6,0.8065,0.1935
+gupa1247,Gupapuyngu,Australia,Pama-Nyungan,-12.2868,135.337,31,25,6,0,False,False,6,0.8065,0.1935
+gura1252,Gurr-Goni,Australia,Maningrida,-12.66855,134.09501,27,22,5,0,False,False,5,0.8148,0.1852
+gurd1238,Kurtjar,Australia,Pama-Nyungan,-17.1653,141.145,28,19,9,0,False,False,5,0.6786,0.3214
+gure1255,Gureng-gureng,Australia,Pama-Nyungan,-25.3893,151.175,23,13,10,0,False,False,4,0.5652,0.4348
+guri1247,Gurindji,Australia,Pama-Nyungan,-17.0329,130.379,23,17,6,0,False,False,5,0.7391,0.2609
+guro1248,Gouro,Africa,Mande,7.34954,-6.31154,56,25,28,3,False,True,13,0.4464,0.5
+guru1261,Gurung,Eurasia,Sino-Tibetan,27.41687,86.28988,49,29,20,0,False,False,7,0.5918,0.4082
+guwa1242,Guwa,Australia,Pama-Nyungan,-21.35147706,142.5243782,23,20,3,0,False,False,6,0.8696,0.1304
+guwa1243,Guwamu,Australia,Pama-Nyungan,-27.8289,148.867,21,15,6,0,False,False,4,0.7143,0.2857
+guwa1244,Guwar,Australia,Pama-Nyungan,-27.16698973,153.3998245,19,13,6,0,False,False,4,0.6842,0.3158
+gwan1268,Gwandara (Nimbia),Africa,Afro-Asiatic,9.20464,7.49931,65,43,14,8,False,True,11,0.6615,0.2154
+gwen1239,Kigweno,Africa,Atlantic-Congo,-3.68407,37.6827,29,24,5,0,False,False,4,0.8276,0.1724
+hadi1240,Hadiyya,Africa,Afro-Asiatic,7.57377,37.7577,56,46,10,0,False,False,4,0.8214,0.1786
+hain1253,Bozo,Africa,Mande,13.8734,-5.65085,34,20,14,0,False,False,4,0.5882,0.4118
+haio1238,San,Africa,Khoe-Kwadi,-19.7637,17.0299,27,22,5,0,True,False,2,0.8148,0.1852
+haka1240,LAI,Eurasia,Sino-Tibetan,22.8735,92.8208,52,45,7,0,False,False,5,0.8654,0.1346
+hakk1236,Hakka Chinese,Eurasia,Sino-Tibetan,25.0,116.0,47,26,16,5,False,True,6,0.5532,0.3404
+halb1244,Halbi,Eurasia,Indo-European,20.3081,81.3742,42,29,13,0,False,False,3,0.6905,0.3095
+halh1238,Khalkha,Eurasia,Mongolic-Khitan,48.324,106.289,35,21,14,0,False,False,2,0.6,0.4
+halk1245,Chilliwak Halkomelem,North America,Salishan,49.250402,-122.443668,42,27,12,3,False,True,1,0.6429,0.2857
+hame1242,HAMER,Africa,South Omotic,5.06515,36.5176,35,25,10,0,False,False,4,0.7143,0.2857
+hang1258,Hanga,Africa,Atlantic-Congo,9.33929,-1.57833,29,23,6,0,False,False,5,0.7931,0.2069
+hang1260,Kihangaza,Africa,Atlantic-Congo,-2.52347,30.7074,35,23,10,2,False,True,3,0.6571,0.2857
+hang1263,Hanga Hundi; Kwasengen; West Wosera,Papunesia,Ndu,-3.90364,142.849,23,16,7,0,False,False,3,0.6957,0.3043
+hara1271,Harari,Africa,Afro-Asiatic,9.30485,42.1332,33,24,9,0,False,False,3,0.7273,0.2727
+haus1257,Hausa,Africa,Afro-Asiatic,11.1513,8.7804,45,31,10,4,False,True,2,0.6889,0.2222
+hawa1245,Hawaiian,Papunesia,Austronesian,19.6297,-155.43,19,9,10,0,False,False,2,0.4737,0.5263
+hawk1239,Darkinyung,Australia,Pama-Nyungan,-33.11470744,150.4952383,18,15,3,0,False,False,5,0.8333,0.1667
+haya1250,Haya,Africa,Atlantic-Congo,-1.70878,31.4846,29,19,10,0,False,False,3,0.6552,0.3448
+hdii1240,Hide,Africa,Afro-Asiatic,10.942,13.6881,41,37,4,0,False,False,2,0.9024,0.0976
+hebr1245,Modern Hebrew,Eurasia,Afro-Asiatic,31.1056,35.0179,30,24,6,0,False,False,3,0.8,0.2
+heib1243,Heiban,Africa,Heibanic,11.2908,30.5282,28,21,7,0,False,False,4,0.75,0.25
+hela1238,Yolmo,Eurasia,Sino-Tibetan,27.9212,85.6289,46,36,10,0,False,False,4,0.7826,0.2174
+here1253,herero,Africa,Atlantic-Congo,-21.0231,20.5655,26,19,5,2,False,True,3,0.7308,0.1923
+hili1240,Hiligaynon,Papunesia,Austronesian,10.4018,122.974,19,16,3,0,False,False,3,0.8421,0.1579
+hind1269,Hindi-Urdu,Eurasia,Indo-European,25.0,77.0,94,71,23,0,False,False,15,0.7553,0.2447
+hixk1239,HIXKARYANA,South America,Cariban,-0.16265,-58.80153,23,18,5,0,False,False,3,0.7826,0.2174
+hmon1264,Hmong Njua,Eurasia,Hmong-Mien,22.5638,101.95,61,48,13,0,False,False,7,0.7869,0.2131
+hoav1238,Hoava,Papunesia,Austronesian,-8.19679,157.595,21,16,5,0,False,False,3,0.7619,0.2381
+holo1240,Holoholo,Africa,Atlantic-Congo,-5.37545,28.3274,23,14,7,2,False,True,4,0.6087,0.3043
+hooo1248,Ho,Eurasia,Austroasiatic,23.9596,87.1188,43,24,19,0,False,False,10,0.5581,0.4419
+hopi1249,Hopi,North America,Uto-Aztecan,35.7653,-110.535,49,31,18,0,False,False,8,0.6327,0.3673
+huaa1248,!Xóõ,Africa,Tuu,-24.20022,20.79583,161,130,28,3,True,True,20,0.8075,0.1739
+hual1241,Huallaga Huánuco Quechua,South America,Quechuan,-9.57135,-75.594,22,16,6,0,False,False,3,0.7273,0.2727
+huam1247,Huambisa,South America,Chicham,-3.99109,-77.9797,23,15,8,0,False,False,7,0.6522,0.3478
+huam1248,Huallaga (Huanuco) Quechua,South America,Quechuan,-9.15718,-76.3372,23,17,6,0,False,False,3,0.7391,0.2609
+huar1255,Warihio,North America,Uto-Aztecan,27.8685,-108.437,26,12,14,0,False,False,2,0.4615,0.5385
+huas1242,Huastec,North America,Mayan,21.6153,-98.5028,32,22,10,0,False,False,2,0.6875,0.3125
+huay1240,Huaylas,South America,Quechuan,-9.38709,-77.7768,30,20,10,0,False,False,2,0.6667,0.3333
+huba1236,Kilba,Africa,Afro-Asiatic,10.3544,13.139,31,24,5,2,False,True,2,0.7742,0.1613
+hueh1236,"Tepehua, Huehuetla; Tepehua de Hidalgo; Tepehua de Huehuetla",North America,Totonacan,20.6189,-97.9347,31,21,10,0,False,False,2,0.6774,0.3226
+huic1243,Huichol,North America,Uto-Aztecan,21.954,-104.062,25,15,10,0,False,False,2,0.6,0.4
+huml1238,Humla Bhotia,Eurasia,Sino-Tibetan,30.1451,81.5659,69,41,28,0,False,False,18,0.5942,0.4058
+hung1274,Hungarian,Eurasia,Uralic,46.9068585714,19.6555271429,65,50,15,0,False,False,6,0.7692,0.2308
+hung1278,Kihungan,Africa,Atlantic-Congo,-3.69695,18.4312,33,20,10,3,False,True,3,0.6061,0.303
+hunz1247,Hunzib,Eurasia,Nakh-Daghestanian,42.0808,46.1369,57,33,24,0,False,False,10,0.5789,0.4211
+hupa1239,Hupa,North America,Athabaskan-Eyak-Tlingit,41.0982,-123.68,42,35,7,0,False,False,3,0.8333,0.1667
+hupd1244,Hup,South America,Naduhup,0.58622,-69.8359,34,19,15,0,False,False,6,0.5588,0.4412
+huro1249,Huron,North America,Iroquoian,44.33,-77.5,17,11,6,0,False,False,3,0.6471,0.3529
+iaai1238,Iai,Papunesia,Austronesian,-20.6301,166.59,52,33,19,0,False,False,10,0.6346,0.3654
+iban1261,Ibani,Africa,Ijoid,4.49119,7.23558,37,24,10,3,False,True,4,0.6486,0.2703
+iban1264,IBAN,Papunesia,Austronesian,2.09041,112.934,25,19,6,0,False,False,4,0.76,0.24
+ibib1240,Ibibio,Africa,Atlantic-Congo,5.15279,7.86688,32,17,13,2,False,True,8,0.5312,0.4062
+icel1247,Icelandic,Eurasia,Indo-European,63.4837,-19.0212,45,30,15,0,False,False,8,0.6667,0.3333
+idaa1241,Ida''an',Papunesia,Austronesian,5.29059,118.515,23,17,6,0,False,False,3,0.7391,0.2609
+idom1241,Idu,Africa,Atlantic-Congo,7.19139,7.71261,64,36,23,5,False,True,10,0.5625,0.3594
+ifee1241,Ifɛ̀,Africa,Atlantic-Congo,7.63568,1.58494,34,19,12,3,False,True,5,0.5588,0.3529
+iged1239,Igede,Africa,Atlantic-Congo,6.95522,8.27362,38,24,10,4,False,True,5,0.6316,0.2632
+igna1246,Moxo,South America,Arawakan,-15.1188,-65.3993,25,21,4,0,False,False,4,0.84,0.16
+igoo1238,Igo,Africa,Atlantic-Congo,7.25499,0.67846,33,23,7,3,False,True,4,0.697,0.2121
+ikal1242,Ikalanga,Africa,Atlantic-Congo,-21.2887,27.401,68,59,5,4,False,True,5,0.8676,0.0735
+ikar1243,Takalak,Australia,Pama-Nyungan,-15.538,143.349,27,17,10,0,False,False,5,0.6296,0.3704
+ikkk1242,IK,Africa,Kuliak,3.61407,34.2507,44,31,13,0,False,False,4,0.7045,0.2955
+ikpe1245,Ikpeng,South America,Cariban,-11.37822,-53.49553,18,12,6,0,False,False,3,0.6667,0.3333
+ikwe1242,Ikwere,Africa,Atlantic-Congo,5.04333,6.86651,46,23,18,5,False,True,9,0.5,0.3913
+ikwo1238,Ikwo,Africa,Atlantic-Congo,6.31831,8.03044,40,29,9,2,False,True,5,0.725,0.225
+ilga1238,Ilgar,Australia,Iwaidjan Proper,-11.412,132.182,24,21,3,0,False,False,5,0.875,0.125
+ilok1237,Ilocano,Papunesia,Austronesian,15.9361,120.993,25,19,6,0,False,False,3,0.76,0.24
+imba1240,Imbabura Quichua,South America,Quechuan,0.31776,-78.3729,20,17,3,0,False,False,3,0.85,0.15
+imon1245,Imonda,Papunesia,Border,-3.31228,141.171,22,12,10,0,False,False,2,0.5455,0.4545
+inap1243,Iñapari,South America,Arawakan,-12.4653,-69.3083,31,13,18,0,False,False,9,0.4194,0.5806
+indo1316,Indonesian,Papunesia,Austronesian,-7.33458,109.716,27,18,9,0,False,False,4,0.6667,0.3333
+indo1317,SAMA,Papunesia,Austronesian,-3.68664,122.253,32,26,6,0,False,False,4,0.8125,0.1875
+inga1252,Inga,South America,Quechuan,1.00313,-76.8606,22,19,3,0,False,False,3,0.8636,0.1364
+ingu1240,Ingush,Eurasia,Nakh-Daghestanian,43.11,45.03,69,52,17,0,False,False,4,0.7536,0.2464
+inor1238,Ennemor,Africa,Afro-Asiatic,7.94883,37.7968,47,40,7,0,False,False,7,0.8511,0.1489
+iqui1243,Iquito,South America,Zaparoan,-3.31233,-73.97046,19,11,8,0,False,False,2,0.5789,0.4211
+iraq1241,Iraqw,Africa,Afro-Asiatic,-4.19948,35.2939,48,33,12,3,False,True,4,0.6875,0.25
+irar1238,IRARUTU,Papunesia,Austronesian,-2.94438,133.586,19,12,7,0,False,False,2,0.6316,0.3684
+irig1241,Rigwe,Africa,Atlantic-Congo,9.85197,8.6525,95,79,12,4,False,True,18,0.8316,0.1263
+iris1253,Irish Gaelic,Eurasia,Indo-European,53.2186,-7.61509,68,44,24,0,False,False,20,0.6471,0.3529
+irul1243,Irula,Eurasia,Dravidian,12.70645,79.95209,52,31,21,0,False,False,6,0.5962,0.4038
+ishk1246,Ishkashimi,Eurasia,Indo-European,36.67,71.55,39,32,7,0,False,False,2,0.8205,0.1795
+isla1278,Island Carib,North America,Arawakan,15.364795,-61.342957,29,17,12,0,False,False,7,0.5862,0.4138
+isok1239,ISOKO,Africa,Atlantic-Congo,5.52889,6.24682,37,28,9,0,False,False,4,0.7568,0.2432
+isth1244,Isthmus (Juchitán) Zapotec,North America,Otomanguean,16.4548,-94.8444,32,22,7,3,False,True,4,0.6875,0.2188
+ital1282,Italian,Eurasia,Indo-European,43.0464,12.6489,69,38,31,0,False,False,5,0.5507,0.4493
+itel1242,Itelmen,Eurasia,Chukotko-Kamchatkan,56.046173,156.30704,32,27,5,0,False,False,4,0.8438,0.1562
+iumi1238,Yao,Eurasia,Hmong-Mien,20.83,101.17,49,35,8,6,False,True,10,0.7143,0.1633
+ivat1242,IVATAN,Papunesia,Austronesian,20.77,121.85,20,16,4,0,False,False,3,0.8,0.2
+iwai1244,Iwaidja,Australia,Iwaidjan Proper,-11.3379,132.453,23,20,3,0,False,False,5,0.8696,0.1304
+iwam1256,IWAM,Papunesia,Sepik,-4.27346,141.817,17,11,6,0,False,False,3,0.6471,0.3529
+iyiv1238,Iyive,Africa,Atlantic-Congo,6.50437,9.53302,63,52,7,4,False,True,5,0.8254,0.1111
+iyow1239,Chorote,South America,Matacoan,-22.2067,-62.6508,21,16,5,0,False,False,2,0.7619,0.2381
+izer1241,Hill Jarawa,Africa,Atlantic-Congo,9.5,8.7,39,28,11,0,False,False,4,0.7179,0.2821
+izii1239,Izi,Africa,Atlantic-Congo,6.33,8.0,51,40,9,2,False,True,6,0.7843,0.1765
+izon1238,KOLOKUMA IJO,Africa,Ijoid,5.17986,5.51702,37,19,18,0,False,False,12,0.5135,0.4865
+jahh1242,Jah-Hut,Eurasia,Austroasiatic,3.67619,102.291,52,22,30,0,False,False,14,0.4231,0.5769
+jama1261,Jarawara,South America,Arawan,-7.62223,-66.5662,19,11,8,0,False,False,2,0.5789,0.4211
+jama1262,Jamaican Creole,North America,Indo-European,18.13,-77.2612,33,21,12,0,False,False,3,0.6364,0.3636
+jams1239,"Jamsay, Dogon",Africa,Dogon,14.1794,-2.57999,43,20,21,2,False,True,14,0.4651,0.4884
+jand1248,Jandai,Australia,Pama-Nyungan,-27.87647555,152.4602773,19,13,6,0,False,False,4,0.6842,0.3158
+japh1234,Japhug,Eurasia,Sino-Tibetan,32.1,102.36,58,50,8,0,False,False,4,0.8621,0.1379
+japr1238,JAPRERIA,South America,Cariban,10.5523,-72.7101,24,12,12,0,False,False,8,0.5,0.5
+jaqa1244,Aymara,South America,Aymaran,-12.741939,-75.809231,42,36,6,0,False,False,4,0.8571,0.1429
+jaru1254,Jaru,Australia,Pama-Nyungan,-18.3288,128.262,23,17,6,0,False,False,5,0.7391,0.2609
+jauj1238,Huanca,South America,Quechuan,-11.6747,-75.2786,27,22,5,0,False,False,4,0.8148,0.1852
+jaun1243,Jaunsari,Eurasia,Indo-European,30.5587,77.9084,51,34,17,0,False,False,12,0.6667,0.3333
+java1254,Javanese,Papunesia,Austronesian,-7.001,109.287,30,22,8,0,False,False,4,0.7333,0.2667
+jebe1250,JEBERO,South America,Cahuapanan,-5.40317,-76.4103,22,18,4,0,False,False,4,0.8182,0.1818
+jeme1245,Jemez,North America,Kiowa-Tanoan,35.5994,-106.766,48,26,22,0,False,False,12,0.5417,0.4583
+jenn1240,Kattunaika,Eurasia,Dravidian,11.5041,76.5767,33,26,7,0,False,False,5,0.7879,0.2121
+jere1244,Jere,Africa,Atlantic-Congo,10.1962,8.95834,44,24,16,4,False,True,4,0.5455,0.3636
+jerr1238,Jèrriais,Eurasia,Indo-European,48.0,2.0,55,23,32,0,False,False,14,0.4182,0.5818
+jiar1240,Caodeng rGyalrong,Eurasia,Sino-Tibetan,31.60295,102.22875,63,52,11,0,False,False,4,0.8254,0.1746
+jica1244,Jicarilla Apache,North America,Athabaskan-Eyak-Tlingit,36.8079,-107.007,55,33,19,3,False,True,10,0.6,0.3455
+jita1239,Jita,Africa,Atlantic-Congo,-1.62681,33.9141,29,17,10,2,False,True,2,0.5862,0.3448
+jola1262,Joola Huluf,Africa,Atlantic-Congo,12.5089,-16.5539,50,30,20,0,False,False,8,0.6,0.4
+jola1263,Joola,Africa,Atlantic-Congo,12.75752,-15.7354766667,29,19,10,0,False,False,4,0.6552,0.3448
+jowu1238,jowulu,Africa,Mande,10.7691,-5.47873,45,20,21,4,False,True,12,0.4444,0.4667
+juan1238,Juang,Eurasia,Austroasiatic,21.2606,85.5845,37,19,18,0,False,False,10,0.5135,0.4865
+jude1256,Juhuri,Eurasia,Indo-European,42.068306,48.264749,31,23,8,0,False,False,2,0.7419,0.2581
+juho1239,!XU,Africa,Kxa,-19.688,20.7673,140,94,46,0,True,False,43,0.6714,0.3286
+juma1249,Júma,South America,Tupian,-7.27501,-64.0998,24,12,12,0,False,False,9,0.5,0.5
+jumj1238,Jumjum,Africa,Nilotic,10.4349,33.7494,39,20,16,3,False,True,5,0.5128,0.4103
+jung1240,Inga,South America,Quechuan,0.88872,-76.6593,16,13,3,0,False,False,3,0.8125,0.1875
+jurm1239,Jur mödö,Africa,Central Sudanic,6.03321,29.974,49,31,18,0,False,False,5,0.6327,0.3673
+juru1256,Jurúna,South America,Tupian,-10.9354,-53.3472,28,18,10,0,False,False,7,0.6429,0.3571
+kaba1278,Kabardian,Eurasia,Abkhaz-Adyge,43.5082,43.3918,63,55,8,0,False,False,2,0.873,0.127
+kabi1260,Butchulla,Australia,Pama-Nyungan,-25.44486229,153.1539929,24,16,8,0,False,False,4,0.6667,0.3333
+kabi1261,Kabiyɛ,Africa,Atlantic-Congo,8.96816,0.495023,46,23,23,0,False,False,4,0.5,0.5
+kabu1256,Cape Verde Creole,Africa,Indo-European,15.0586,-23.6148,27,20,7,0,False,False,3,0.7407,0.2593
+kaby1243,Kabyle,Africa,Afro-Asiatic,36.4103,4.76137,30,27,3,0,False,False,2,0.9,0.1
+kach1280,JINGPHO,Eurasia,Sino-Tibetan,25.4634,97.3278,29,24,5,0,False,False,3,0.8276,0.1724
+kadi1248,Kadiweu,South America,Guaicuruan,-19.7222,-57.582,31,23,8,0,False,False,4,0.7419,0.2581
+kafa1242,KEFA,Africa,Ta-Ne-Omotic,7.34022,36.1718,24,19,5,0,False,False,2,0.7917,0.2083
+kagf1238,West Kainji,Africa,Atlantic-Congo,11.5319,4.8387,55,35,16,4,False,True,4,0.6364,0.2909
+kagu1239,Kagulu,Africa,Atlantic-Congo,-6.38204,37.0534,31,26,5,0,False,False,7,0.8387,0.1613
+kahe1238,Kikahe,Africa,Atlantic-Congo,-3.51412,37.5759,32,22,10,0,False,False,4,0.6875,0.3125
+kain1272,KAINGANG,South America,Nuclear-Macro-Je,-27.7671,-52.5394,27,13,14,0,False,False,5,0.4815,0.5185
+kaiw1246,Kaiwá,South America,Tupian,-24.589,-54.6815,26,14,12,0,False,False,9,0.5385,0.4615
+kaka1265,Kakabe,Africa,Mande,10.5962,-11.4418,38,22,14,2,False,True,4,0.5789,0.3684
+kako1242,Kakɔ,Africa,Atlantic-Congo,3.79989,15.6282,50,33,13,4,False,True,10,0.66,0.26
+kala1377,KALA LAGAW YA,Australia,Pama-Nyungan,-10.6748,142.196,24,18,6,0,False,False,4,0.75,0.25
+kala1378,Kala Kawaw Ya,Australia,Pama-Nyungan,-10.6748,142.196,24,18,6,0,False,False,4,0.75,0.25
+kala1379,Galaagu,Australia,Pama-Nyungan,-31.7154,118.911,26,20,6,0,False,False,6,0.7692,0.2308
+kala1380,Garlali,Australia,Pama-Nyungan,-29.2411,143.216,21,18,3,0,False,False,5,0.8571,0.1429
+kala1381,Kalabari; Kirike; Kalabari-Ijo,Africa,Ijoid,4.53194,6.69539,42,21,18,3,False,True,11,0.5,0.4286
+kala1399,Inuit,North America,Eskimo-Aleut,69.3761,-52.864,38,32,6,0,False,False,8,0.8421,0.1579
+kala1401,Kalaamaya,Australia,Pama-Nyungan,-30.245,120.223,26,20,6,0,False,False,6,0.7692,0.2308
+kali1299,Kaliai,Papunesia,Austronesian,-5.55033,149.148,28,18,10,0,False,False,3,0.6429,0.3571
+kalk1246,Kalkatungu,Australia,Pama-Nyungan,-21.0,139.5,26,20,6,0,False,False,6,0.7692,0.2308
+kalm1243,Kalmyk,Eurasia,Mongolic-Khitan,46.566667,45.316667,39,23,16,0,False,False,3,0.5897,0.4103
+kama1351,Kamassian,Eurasia,Uralic,55.07,94.83,37,26,11,0,False,False,4,0.7027,0.2973
+kama1365,WOISIKA,Papunesia,Timor-Alor-Pantar,-8.26897,124.792,28,16,12,0,False,False,3,0.5714,0.4286
+kama1367,Kamasau,Papunesia,Nuclear Torricelli,-3.8503,143.842,29,23,6,0,False,False,4,0.7931,0.2069
+kama1373,Kamayurá,South America,Tupian,-12.2661,-53.4651,26,14,12,0,False,False,9,0.5385,0.4615
+kamb1297,Kikamba,Africa,Atlantic-Congo,-1.60827,37.9532,31,13,14,4,False,True,4,0.4194,0.4516
+kamb1298,Kambe,Africa,Atlantic-Congo,-3.30638,39.6648,47,40,5,2,False,True,5,0.8511,0.1064
+kamb1299,Kambera,Papunesia,Austronesian,-9.88447,120.235,29,19,10,0,False,False,3,0.6552,0.3448
+kamb1316,Kambaata,Africa,Afro-Asiatic,7.37582,37.9088,57,47,10,0,False,False,4,0.8246,0.1754
+kamw1239,Higi,Africa,Afro-Asiatic,10.646,13.5136,35,26,7,2,False,True,3,0.7429,0.2
+kang1280,Kangri,Eurasia,Indo-European,31.915,76.366,41,29,12,0,False,False,6,0.7073,0.2927
+kang1281,Kangjia,Eurasia,Mongolic-Khitan,35.043,101.254,36,27,9,0,False,False,3,0.75,0.25
+kang1288,Kanga (Kanga),Africa,Kadugli-Krongo,11.0174,29.3463,75,53,20,2,False,True,8,0.7067,0.2667
+kani1276,Kaniyang,Australia,Pama-Nyungan,-33.1199,118.151,22,17,5,0,False,False,5,0.7727,0.2273
+kara1462,Tofa,Eurasia,Turkic,53.7145,98.3792,67,28,39,0,False,False,17,0.4179,0.5821
+kara1464,Karaim,Eurasia,Turkic,54.5534,25.1054,37,29,8,0,False,False,4,0.7838,0.2162
+kara1467,Karakalpak,Eurasia,Turkic,39.98,63.3223,38,25,13,0,False,False,3,0.6579,0.3421
+kara1474,Karata,Eurasia,Nakh-Daghestanian,42.6501,46.3151,56,46,10,0,False,False,7,0.8214,0.1786
+kara1476,Karajarri,Australia,Pama-Nyungan,-18.6771,122.334,21,17,4,0,False,False,5,0.8095,0.1905
+kara1478,Karaŋ,Africa,Atlantic-Congo,8.01727,15.2114,40,30,6,4,False,True,3,0.75,0.15
+kara1483,Karimojong,Africa,Nilotic,2.45157,34.2761,66,21,39,6,False,True,4,0.3182,0.5909
+kara1500,Karajá,South America,Nuclear-Macro-Je,-11.1881,-50.3492,24,9,15,0,False,False,3,0.375,0.625
+kara1508,Karangura,Australia,Pama-Nyungan,-27.1797,138.701,25,22,3,0,False,False,6,0.88,0.12
+karb1241,Karbi (Mikir),Eurasia,Sino-Tibetan,25.7317,93.0462,42,28,11,3,False,True,3,0.6667,0.2619
+kare1335,Karelian,Eurasia,Uralic,65.1691,30.8655,30,16,14,0,False,False,3,0.5333,0.4667
+kare1338,Kare,Africa,Atlantic-Congo,7.05641,15.2207,57,30,24,3,False,True,14,0.5263,0.4211
+kari1255,Karirí-Xocó,South America,Unclassifiable,-9.84999,-36.3333,21,14,7,0,False,False,3,0.6667,0.3333
+kari1301,Karipuna Creole,South America,Indo-European,3.42825,-51.6888,32,22,10,0,False,False,6,0.6875,0.3125
+kari1304,Kariyarra,Australia,Pama-Nyungan,-20.445,118.613,23,20,3,0,False,False,6,0.8696,0.1304
+kari1311,Karitiâna,South America,Tupian,-9.37937,-64.1522,31,11,20,0,False,False,14,0.3548,0.6452
+karo1306,Karo,South America,Tupian,-10.3342,-61.5691,27,14,11,2,False,True,7,0.5185,0.4074
+kart1247,Kartujarra,Australia,Pama-Nyungan,-23.350911655789,123.66842240336,24,17,7,0,False,False,5,0.7083,0.2917
+kase1253,Kasɩm,Africa,Atlantic-Congo,11.0824,-1.39076,44,20,20,4,False,True,4,0.4545,0.4545
+kash1277,Kashmiri,Eurasia,Indo-European,34.166825,74.330455,56,28,28,0,False,False,15,0.5,0.5
+katc1249,Kadugli (Miri),Africa,Kadugli-Krongo,10.8423,29.4914,62,40,20,2,False,True,8,0.6452,0.3226
+katc1250,Katcha,Africa,Kadugli-Krongo,10.8423,29.4914,32,23,7,2,False,True,4,0.7188,0.2188
+kaum1238,Kauma,Africa,Atlantic-Congo,-3.30638,39.6648,47,40,5,2,False,True,5,0.8511,0.1064
+kaur1267,Kaurna,Australia,Pama-Nyungan,-34.34966141,138.4800794,25,20,5,0,False,False,6,0.8,0.2
+kawa1283,KAWAIISU,North America,Uto-Aztecan,36.0538,-118.679,28,22,6,0,False,False,2,0.7857,0.2143
+kawa1290,Ogh Awarrangg,Australia,Pama-Nyungan,-16.1,142.5,28,23,5,0,False,False,5,0.8214,0.1786
+kaxa1239,Kaxararí,South America,Pano-Tacanan,-9.47288,-66.3329,20,15,5,0,False,False,2,0.75,0.25
+kaxu1237,Kaxuiâna,South America,Cariban,2.17138,-55.9101,18,12,6,0,False,False,2,0.6667,0.3333
+kaya1319,Yangkaralda,Australia,Tangkic,-17.0695,139.489,24,18,6,0,False,False,6,0.75,0.25
+kaya1329,Kayabí,South America,Tupian,-11.2747,-55.5479,26,14,12,0,False,False,9,0.5385,0.4615
+kaya1330,Mebengokre,South America,Nuclear-Macro-Je,-7.77352,-51.6737,33,16,17,0,False,False,11,0.4848,0.5152
+kayt1238,Kaytetye,Australia,Pama-Nyungan,-21.5844,133.602,43,40,3,0,False,False,12,0.9302,0.0698
+keda1250,Kedayan,Papunesia,Austronesian,4.456045,114.429505,20,17,3,0,False,False,4,0.85,0.15
+keig1242,Keiga,Africa,Kadugli-Krongo,11.2064,29.3889,58,36,20,2,False,True,8,0.6207,0.3448
+kekc1242,K'EKCHI,North America,Mayan,15.3788,-89.2452,26,21,5,0,False,False,2,0.8077,0.1923
+kela1255,Kela,Papunesia,Austronesian,-7.47103,147.173,29,15,14,0,False,False,8,0.5172,0.4828
+kele1255,Iikile,Africa,Atlantic-Congo,0.36906,24.3098,30,21,7,2,False,True,4,0.7,0.2333
+keli1248,Kaliko,Africa,Central Sudanic,3.56039,30.556,45,36,6,3,False,True,4,0.8,0.1333
+keme1240,Kemezung,Africa,Atlantic-Congo,6.69577,10.4984,32,18,8,6,False,True,4,0.5625,0.25
+kens1251,Kensei Nsei,Africa,Atlantic-Congo,6.01713,10.412,65,55,10,0,False,False,6,0.8462,0.1538
+keny1279,Kenyang,Africa,Atlantic-Congo,5.58288,9.55918,41,21,20,0,False,False,14,0.5122,0.4878
+keoo1238,Ke''o; Kéo',Papunesia,Austronesian,-8.8704,121.256,25,19,6,0,False,False,3,0.76,0.24
+kera1255,Kera,Africa,Afro-Asiatic,9.88165,15.1419,30,24,6,0,False,False,3,0.8,0.2
+kera1256,Keramin,Australia,Pama-Nyungan,-34.190056,142.273631,23,20,3,0,False,False,6,0.8696,0.1304
+kete1252,kete,Africa,Atlantic-Congo,-7.15104,22.9027,25,16,5,4,False,True,3,0.64,0.2
+kett1243,Ket,Eurasia,Yeniseian,63.7551,87.5466,32,18,14,0,False,False,4,0.5625,0.4375
+kgal1244,Shekgalagari,Africa,Atlantic-Congo,-24.9208,22.72016,53,43,8,2,True,True,4,0.8113,0.1509
+khak1248,Khakas,Eurasia,Turkic,50.7393,107.169,39,23,16,0,False,False,3,0.5897,0.4103
+khal1271,Khalkhal,Eurasia,Indo-European,36.065077,49.688542,37,23,14,0,False,False,2,0.6216,0.3784
+kham1282,Soghpo Tibetan,Eurasia,Sino-Tibetan,31.9313,91.7062,133,100,33,0,False,False,24,0.7519,0.2481
+khan1273,Northern Khanty,Eurasia,Uralic,62.4308,66.1218,36,26,10,0,False,False,4,0.7222,0.2778
+khar1287,Kharia,Eurasia,Austroasiatic,22.3571,84.3922,45,31,14,0,False,False,9,0.6889,0.3111
+khas1269,Khasi,Eurasia,Austroasiatic,24.977,91.9998,40,27,13,0,False,False,4,0.675,0.325
+khez1235,Khezha,Eurasia,Sino-Tibetan,25.7078,94.3114,53,42,8,3,False,True,9,0.7925,0.1509
+khit1238,Kithaulhu,South America,Nambiquaran,-14.3707,-59.5187,31,13,18,0,False,False,10,0.4194,0.5806
+khmu1256,KHMU?,Eurasia,Austroasiatic,20.2463,101.671,41,23,18,0,False,False,4,0.561,0.439
+kich1262,Quiche,North America,Mayan,14.5278,-91.1696,32,22,10,0,False,False,2,0.6875,0.3125
+kiku1240,Kikuyu,Africa,Atlantic-Congo,-0.29005,36.719,32,18,14,0,False,False,4,0.5625,0.4375
+kild1236,Kildin Saami,Eurasia,Uralic,68.2158,35.8348,128,113,15,0,False,False,22,0.8828,0.1172
+kima1244,Kimaragang,Papunesia,Austronesian,6.61982,116.96,23,18,5,0,False,False,3,0.7826,0.2174
+kima1246,Khmu,Papunesia,Kolopom,-8.01899,138.355,44,20,20,4,False,True,4,0.4545,0.4545
+kinn1249,Kinnauri; Kanauri,Eurasia,Sino-Tibetan,31.3688,78.3148,46,31,15,0,False,False,3,0.6739,0.3261
+kiny1244,Kinyarwanda,Africa,Atlantic-Congo,-1.56771,29.6441,49,39,10,0,False,False,6,0.7959,0.2041
+kiow1266,KIOWA,North America,Kiowa-Tanoan,34.9403,-98.9042,42,22,20,0,False,False,12,0.5238,0.4762
+kips1239,Kipsigis,Africa,Nilotic,-0.35774,35.258532,37,14,19,4,False,True,4,0.3784,0.5135
+kirg1245,Kyrgyz,Eurasia,Turkic,42.0,74.0,37,21,16,0,False,False,3,0.5676,0.4324
+kiri1254,Kirike,Africa,Ijoid,4.41126,6.98938,36,24,10,2,False,True,4,0.6667,0.2778
+kisa1263,Olukisa,Africa,Atlantic-Congo,0.1529,34.5708,38,24,10,4,False,True,4,0.6316,0.2632
+kist1241,Goggot,Africa,Afro-Asiatic,8.33561,38.4763,41,34,7,0,False,False,4,0.8293,0.1707
+kita1249,Maninka-kan,Africa,Mande,13.1798,-9.49151,33,19,14,0,False,False,3,0.5758,0.4242
+kitj1240,Kija,Australia,Jarrakan,-17.5758,127.392,24,19,5,0,False,False,6,0.7917,0.2083
+kitu1245,Munukutuba,Africa,Atlantic-Congo,-4.15654,14.5648,22,17,5,0,False,False,4,0.7727,0.2273
+kitu1246,Kituba,Africa,Atlantic-Congo,-2.29601,17.1548,22,15,5,2,False,True,2,0.6818,0.2273
+klao1243,KLAO,Africa,Atlantic-Congo,5.05,-8.85,27,11,16,0,False,False,7,0.4074,0.5926
+koal1240,Koalib,Africa,Heibanic,11.69648,30.47166,45,29,16,0,False,False,5,0.6444,0.3556
+koas1236,Koasati,North America,Muskogean,30.4096,-92.709,24,14,6,4,False,True,2,0.5833,0.25
+koda1255,Kod̩agu,Eurasia,Dravidian,12.2443,75.9161,52,27,25,0,False,False,6,0.5192,0.4808
+kofy1242,Kofyar,Africa,Afro-Asiatic,8.79947,9.15279,36,23,10,3,False,True,3,0.6389,0.2778
+koho1244,SRE,Eurasia,Austroasiatic,11.6444,108.057,34,24,10,0,False,False,4,0.7059,0.2941
+kohu1244,KOHUMONO,Africa,Atlantic-Congo,5.92596,7.96202,37,27,10,0,False,False,5,0.7297,0.2703
+koka1244,Kukata,Australia,Pama-Nyungan,-29.94,135.55,23,17,6,0,False,False,5,0.7391,0.2609
+kokb1239,Tripuri,Eurasia,Sino-Tibetan,23.1916,91.4673,34,25,9,0,False,False,4,0.7353,0.2647
+kokn1236,Kok Nar,Australia,Pama-Nyungan,-16.181,141.608,25,18,7,0,False,False,5,0.72,0.28
+koko1269,Kokota,Papunesia,Austronesian,-8.16481,159.191,27,22,5,0,False,False,6,0.8148,0.1852
+komc1235,Kom,Africa,Atlantic-Congo,6.2596,10.3348,75,59,9,7,False,True,8,0.7867,0.12
+komi1268,Komi-Zyrian,Eurasia,Uralic,64.0527,54.946,37,30,7,0,False,False,3,0.8108,0.1892
+komi1269,Komi-Permyak,Eurasia,Uralic,59.6602,54.7959,37,30,7,0,False,False,3,0.8108,0.1892
+komi1277,Yodzyak Komi,Eurasia,Uralic,60.717,55.756,37,29,8,0,False,False,3,0.7838,0.2162
+komo1258,KOMA,Africa,Koman,8.94162,34.0939,30,22,8,0,False,False,2,0.7333,0.2667
+komo1260,Komo,Africa,Atlantic-Congo,-0.76333,26.7144,34,23,7,4,False,True,3,0.6765,0.2059
+kond1295,Kon̩d̩a or Kubi,Eurasia,Dravidian,18.26754,82.93402,43,23,20,0,False,False,14,0.5349,0.4651
+kond1303,Konda,Papunesia,Konda-Yahadian,-1.82635,132.06,33,23,10,0,False,False,4,0.697,0.303
+konk1267,Konkani,Eurasia,Indo-European,19.2414,73.9166,45,35,10,0,False,False,3,0.7778,0.2222
+konk1269,Konkomba,Africa,Atlantic-Congo,9.82224,0.2783,42,22,12,8,False,True,5,0.5238,0.2857
+konn1242,Konni,Africa,Atlantic-Congo,10.2368,-1.54376,49,31,18,0,False,False,8,0.6327,0.3673
+koon1245,Kɔɔzime,Africa,Atlantic-Congo,3.25933,13.54152,52,22,24,6,False,True,4,0.4231,0.4615
+koor1239,Koorete,Africa,Ta-Ne-Omotic,5.80545,37.8679,59,49,10,0,False,False,6,0.8305,0.1695
+kora1295,Korafe,Papunesia,Nuclear Trans New Guinea,-9.07,149.267,24,19,5,0,False,False,2,0.7917,0.2083
+kore1280,Korean,Eurasia,Koreanic,37.5,128.0,48,20,28,0,False,False,3,0.4167,0.5833
+kore1283,Koreguaje,South America,Tucanoan,0.92316,-75.3475,30,18,12,0,False,False,11,0.6,0.4
+kork1243,Korku,Eurasia,Austroasiatic,21.8358,77.5541,41,31,10,0,False,False,10,0.7561,0.2439
+korr1238,Koraga,Eurasia,Dravidian,12.9163,75.2,34,21,13,0,False,False,5,0.6176,0.3824
+koru1247,Korubo,South America,Pano-Tacanan,-5.3655,-70.5094,20,14,6,0,False,False,2,0.7,0.3
+kory1246,KORYAK,Eurasia,Chukotko-Kamchatkan,63.8977,166.695,20,15,5,0,False,False,3,0.75,0.25
+kosh1246,Koshin,Africa,Atlantic-Congo,6.5817,10.299,34,21,10,3,False,True,4,0.6176,0.2941
+kota1263,Kota,Eurasia,Dravidian,11.4978,76.9387,41,26,15,0,False,False,6,0.6341,0.3659
+kota1272,kotafon,Africa,Atlantic-Congo,6.64027,1.72346,45,29,13,3,False,True,12,0.6444,0.2889
+koya1251,Koya,Eurasia,Dravidian,17.6772,81.2096,31,21,10,0,False,False,3,0.6774,0.3226
+koya1253,Koyaga,Africa,Mande,8.29177,-6.23255,34,20,12,2,False,True,9,0.5882,0.3529
+koyr1240,songhoy,Africa,Songhay,16.192,-3.73962,43,23,14,6,False,True,6,0.5349,0.3256
+koyr1242,Songhai,Africa,Songhay,16.9634,-0.55187,48,33,15,0,False,False,10,0.6875,0.3125
+kpan1246,KPAN,Africa,Atlantic-Congo,7.58343,10.1642,30,20,10,0,False,False,5,0.6667,0.3333
+krac1238,Krache,Africa,Atlantic-Congo,7.93475,0.01925,44,17,24,3,False,True,16,0.3864,0.5455
+krah1246,Krahô,South America,Nuclear-Macro-Je,-8.01172,-47.5774,46,12,34,0,False,False,17,0.2609,0.7391
+kren1239,Krenak,South America,Nuclear-Macro-Je,-18.9988,-41.2299,35,22,13,0,False,False,13,0.6286,0.3714
+krik1239,Krinkati-Timbira,South America,Nuclear-Macro-Je,-5.94252,-46.7504,26,11,15,0,False,False,8,0.4231,0.5769
+krim1238,Krim,Africa,Atlantic-Congo,7.24116,-11.8393,38,22,16,0,False,False,4,0.5789,0.4211
+krio1253,Krio,Africa,Indo-European,10.8811,-14.3204,33,23,7,3,False,True,3,0.697,0.2121
+kris1246,Isaka,Papunesia,Sko,-2.80084,141.303,15,6,5,4,False,True,0,0.4,0.3333
+kron1241,Krongo,Africa,Kadugli-Krongo,10.514,30.003,60,38,20,2,False,True,8,0.6333,0.3333
+kuan1247,Kwanyama,Africa,Atlantic-Congo,-17.7176,16.58,33,26,5,2,False,True,6,0.7879,0.1515
+kuay1244,Kuay,Eurasia,Austroasiatic,14.6698,104.911,47,22,25,0,False,False,4,0.4681,0.5319
+kuii1252,Kui,Eurasia,Dravidian,19.2043,83.5859,39,20,19,0,False,False,14,0.5128,0.4872
+kuik1246,Kuikúro-Kalapálo,South America,Cariban,-12.3035,-53.2261,26,14,12,0,False,False,10,0.5385,0.4615
+kuka1246,Kukatja,Australia,Pama-Nyungan,-20.3321,127.666,23,17,6,0,False,False,5,0.7391,0.2609
+kuku1273,Wagaman,Australia,Pama-Nyungan,-16.0036,145.188,16,13,3,0,False,False,4,0.8125,0.1875
+kulu1253,Kulung,Eurasia,Sino-Tibetan,27.1606,87.5717,43,22,21,0,False,False,3,0.5116,0.4884
+kuma1273,Kumauni,Eurasia,Indo-European,29.5622,80.0171,42,31,11,0,False,False,4,0.7381,0.2619
+kumb1268,Baanbay,Australia,Pama-Nyungan,-29.8189,152.913,19,13,6,0,False,False,4,0.6842,0.3158
+kumi1248,Digueno,North America,Cochimi-Yuman,32.331,-116.604,34,25,9,0,False,False,4,0.7353,0.2647
+kumy1244,Kumyk,Eurasia,Turkic,43.0,47.0,31,23,8,0,False,False,3,0.7419,0.2581
+kumz1235,Kumzari,Eurasia,Indo-European,26.1602,56.4202,35,27,8,0,False,False,2,0.7714,0.2286
+kung1258,Gunggari,Australia,Pama-Nyungan,-24.2182,143.222,18,15,3,0,False,False,4,0.8333,0.1667
+kung1261,!Xun,Africa,Kxa,-21.92,18.0,120,95,21,4,True,True,25,0.7917,0.175
+kuni1267,Kunimaipa,Papunesia,Goilalan,-8.09371,146.908,20,15,5,0,False,False,3,0.75,0.25
+kuni1268,Kunigami,Eurasia,Japonic,26.5911,128.068,25,20,5,0,False,False,2,0.8,0.2
+kunj1245,Kunjen,Australia,Pama-Nyungan,-16.6807,143.53,28,23,5,0,False,False,5,0.8214,0.1786
+kuny1238,Nyanga,Africa,Atlantic-Congo,-3.69702,12.5197,55,44,7,4,False,True,5,0.8,0.1273
+kuoo1238,Kuo,Africa,Atlantic-Congo,7.97771,15.4843,56,29,24,3,False,True,14,0.5179,0.4286
+kupa1239,Kupang Malay,Papunesia,Austronesian,-10.2526,123.63,24,19,5,0,False,False,4,0.7917,0.2083
+kups1238,SEBEI,Africa,Nilotic,1.33197,34.5991,23,14,9,0,False,False,4,0.6087,0.3913
+kura1250,Kuranko,Africa,Mande,9.49325,-10.6122,52,24,28,0,False,False,18,0.4615,0.5385
+kuri1259,Kuria,Africa,Atlantic-Congo,-1.50636,34.5049,22,15,7,0,False,False,3,0.6818,0.3182
+kurr1243,Kurrama,Australia,Pama-Nyungan,-22.2134,117.51,27,21,6,0,False,False,6,0.7778,0.2222
+kurt1248,Kurtoep,Eurasia,Sino-Tibetan,27.5365,90.9822,45,31,14,0,False,False,4,0.6889,0.3111
+kuru1302,Kurukh,Eurasia,Dravidian,24.4644,86.4657,68,46,22,0,False,False,14,0.6765,0.3235
+kuru1309,Kuruáya,South America,Tupian,-3.09561,-52.2303,28,18,10,0,False,False,7,0.6429,0.3571
+kusa1250,Kusal,Africa,Atlantic-Congo,10.9703,-0.38756,44,22,22,0,False,False,7,0.5,0.5
+kute1248,Kuteb,Africa,Atlantic-Congo,7.07479,10.0916,41,23,13,5,False,True,10,0.561,0.3171
+kuth1240,Kuthant,Australia,Pama-Nyungan,-17.4566,140.958,25,17,8,0,False,False,5,0.68,0.32
+kuuk1238,Kuugu Ya'u,Australia,Pama-Nyungan,-12.4947,143.165,21,15,6,0,False,False,5,0.7143,0.2857
+kuun1236,Kungkari,Australia,Pama-Nyungan,-24.75108713,143.5365228,25,19,6,0,False,False,6,0.76,0.24
+kuvi1243,Kuvi,Eurasia,Dravidian,18.8832,83.7552,47,28,19,0,False,False,16,0.5957,0.4043
+kuwa1246,Kwatay,Africa,Atlantic-Congo,12.48255,-16.74835,29,15,10,4,False,True,4,0.5172,0.3448
+kwai1243,KWAIO,Papunesia,Austronesian,-8.93744,160.965,21,16,5,0,False,False,4,0.7619,0.2381
+kwak1269,Kwakiutl,North America,Wakashan,50.9269,-127.308,55,46,9,0,False,False,6,0.8364,0.1636
+kwam1249,Kwama,Africa,Koman,9.50836,34.2457,25,20,5,0,False,False,2,0.8,0.2
+kwam1250,Kwami,Africa,Atlantic-Congo,-1.53712,27.4633,40,28,10,2,False,True,2,0.7,0.25
+kwam1251,Kwambi,Africa,Atlantic-Congo,-18.0339,15.7294,37,29,6,2,False,True,4,0.7838,0.1622
+kwan1273,kwangari,Africa,Atlantic-Congo,-17.9026,19.256,27,22,5,0,False,False,4,0.8148,0.1852
+kwan1276,Kwanja,Africa,Atlantic-Congo,6.30293,11.6931,42,20,18,4,False,True,4,0.4762,0.4286
+kway1241,Eciruuri,Africa,Atlantic-Congo,-1.80737,33.71,28,16,10,2,False,True,3,0.5714,0.3571
+kwes1244,kwezo,Africa,Atlantic-Congo,-5.60445,18.5759,25,16,6,3,False,True,2,0.64,0.24
+kwin1241,Kwini,Australia,Worrorran,-14.2515,126.562,28,17,11,0,False,False,5,0.6071,0.3929
+kwom1262,Washkuk,Papunesia,Sepik,-4.08721,142.664,31,24,7,0,False,False,4,0.7742,0.2258
+kyen1242,Kyanga,Africa,Mande,11.5953,3.58651,37,22,12,3,False,True,9,0.5946,0.3243
+kyer1238,Kyirong Tibetan,Eurasia,Sino-Tibetan,28.2922,85.4257,63,40,23,0,False,False,11,0.6349,0.3651
+lada1244,Ladakhi,Eurasia,Sino-Tibetan,33.468,80.6013,45,37,8,0,False,False,4,0.8222,0.1778
+ladi1251,Judeo-Spanish,Eurasia,Indo-European,41.205,28.6632,33,19,14,0,False,False,2,0.5758,0.4242
+ladj1234,Ladji-Ladji,Australia,Pama-Nyungan,-34.13829932,143.6694397,21,17,4,0,False,False,6,0.8095,0.1905
+lagw1237,Lagwan,Africa,Afro-Asiatic,11.5592,14.9884,36,29,5,2,False,True,2,0.8056,0.1389
+lahu1253,Lahu,Eurasia,Sino-Tibetan,21.2701,100.214,46,24,22,0,False,False,3,0.5217,0.4783
+lake1258,Lake Miwok; Miwok (Lake),North America,Miwok-Costanoan,39.0021,-122.621,35,25,10,0,False,False,2,0.7143,0.2857
+lakk1238,Lakkia,Eurasia,Tai-Kadai,24.1169,110.106,59,31,22,6,False,True,17,0.5254,0.3729
+lakk1252,Lak,Eurasia,Nakh-Daghestanian,42.1328,47.0809,69,60,9,0,False,False,2,0.8696,0.1304
+lako1244,Dida,Africa,Atlantic-Congo,5.86012,-5.40633,57,27,27,3,False,True,14,0.4737,0.4737
+lako1247,Dakota,North America,Siouan,46.3699,-103.95,36,27,9,0,False,False,5,0.75,0.25
+lama1275,Lama,Africa,Atlantic-Congo,8.66954,0.833293,53,17,33,3,False,True,15,0.3208,0.6226
+lama1288,Lamang,Africa,Afro-Asiatic,11.0243,13.7362,41,37,4,0,False,False,4,0.9024,0.0976
+lamb1269,Lamani,Eurasia,Indo-European,16.5734,76.9717,48,30,18,0,False,False,14,0.625,0.375
+lamb1276,Ferreñafe Quechua,South America,Quechuan,-6.1715,-79.468,19,16,3,0,False,False,3,0.8421,0.1579
+lamn1239,Nsoʼ,Africa,Atlantic-Congo,6.39743,11.0684,45,26,12,7,False,True,4,0.5778,0.2667
+lamu1254,Lamalama,Australia,Pama-Nyungan,-14.559,143.977,29,26,3,0,False,False,5,0.8966,0.1034
+lang1320,Langi,Africa,Atlantic-Congo,-4.71413,35.9517,52,32,20,0,False,False,4,0.6154,0.3846
+lang1322,Lango,Africa,Nilotic,4.04948,33.0412,32,16,10,6,False,True,4,0.5,0.3125
+lang1324,Lango,Africa,Nilotic,2.13867,33.0553,40,18,20,2,False,True,4,0.45,0.5
+laoo1244,Lao,Eurasia,Tai-Kadai,19.0,102.46,42,21,21,0,False,False,4,0.5,0.5
+lara1260,Larantuka Malay,Papunesia,Austronesian,-8.4746,122.7619,24,18,6,0,False,False,4,0.75,0.25
+lard1243,Lardil,Australia,Tangkic,-16.56152,139.4343,25,17,8,0,False,False,6,0.68,0.32
+latu1238,Latunde,South America,Nambiquaran,-12.608792,-60.422423,28,12,16,0,False,False,8,0.4286,0.5714
+lave1249,BRAO,Eurasia,Austroasiatic,14.5994,107.008,31,22,9,0,False,False,4,0.7097,0.2903
+lazz1240,Laz,Eurasia,Kartvelian,41.5004,41.9096,38,33,5,0,False,False,2,0.8684,0.1316
+leal1235,Chinanteco,North America,Otomanguean,17.3162,-95.9265,34,28,6,0,False,False,5,0.8235,0.1765
+lega1249,lega-shabunda,Africa,Atlantic-Congo,-3.83196,27.1424,34,14,14,6,False,True,3,0.4118,0.4118
+legb1242,Leggbo,Africa,Atlantic-Congo,6.02645,7.98385,53,38,12,3,False,True,7,0.717,0.2264
+lele1264,LELEMI,Africa,Atlantic-Congo,7.34549,0.50746,34,22,12,0,False,False,9,0.6471,0.3529
+lele1266,Lele,Africa,Mande,8.98043,-10.371,26,17,7,2,False,True,3,0.6538,0.2692
+lele1276,Lele,Africa,Afro-Asiatic,9.158,15.81149,36,23,10,3,False,True,4,0.6389,0.2778
+lena1238,LENAKEL,Papunesia,Austronesian,-19.4763,169.261,21,15,6,0,False,False,4,0.7143,0.2857
+lend1245,Lendu,Africa,Central Sudanic,2.1898,30.6794,54,42,8,4,False,True,3,0.7778,0.1481
+leng1258,Lengola,Africa,Atlantic-Congo,-1.95874,25.3343,32,24,5,3,False,True,3,0.75,0.1562
+leni1238,Linngithigh,Australia,Pama-Nyungan,-12.771375,141.962,29,24,5,0,False,False,5,0.8276,0.1724
+lepc1244,Lepca,Eurasia,Sino-Tibetan,27.0869,88.5726,36,26,10,0,False,False,4,0.7222,0.2778
+lese1243,Balese,Africa,Central Sudanic,1.3,29.3,39,27,9,3,False,True,2,0.6923,0.2308
+leti1246,Leti,Papunesia,Austronesian,-8.19808,127.674,22,10,12,0,False,False,2,0.4545,0.5455
+lezg1247,Lezgian,Eurasia,Nakh-Daghestanian,41.5157,47.8951,96,88,8,0,False,False,2,0.9167,0.0833
+libe1240,Liberian English,Africa,Pidgin,6.423,-10.5284,34,22,12,0,False,False,9,0.6471,0.3529
+libe1247,Kpelle,Africa,Mande,6.92048,-9.96128,49,32,14,3,False,True,16,0.6531,0.2857
+liby1240,Lebanese Arabic,Africa,Afro-Asiatic,22.0032,15.0014,49,33,16,0,False,False,3,0.6735,0.3265
+ligb1244,Ligbi,Africa,Mande,7.94291,-2.56353,38,22,14,2,False,True,11,0.5789,0.3684
+ligu1248,Ligurian,Eurasia,Indo-European,44.0816,7.90522,45,24,21,0,False,False,4,0.5333,0.4667
+liji1238,Jili,Africa,Atlantic-Congo,8.52193,8.35562,48,29,16,3,False,True,12,0.6042,0.3333
+lika1243,Lika,Africa,Atlantic-Congo,2.13777,27.6088,45,33,9,3,False,True,3,0.7333,0.2
+limb1268,limbum (southern),Africa,Atlantic-Congo,6.58608,10.9802,52,37,15,0,False,False,8,0.7115,0.2885
+ling1263,Lingala,Africa,Atlantic-Congo,-4.409174,15.28532,22,15,7,0,False,False,4,0.6818,0.3182
+lish1246,NEO-ARAMAIC,Eurasia,Afro-Asiatic,36.23,44.37,39,23,16,0,False,False,2,0.5897,0.4103
+lisu1250,Lisu,Eurasia,Sino-Tibetan,26.91,98.94,42,32,10,0,False,False,5,0.7619,0.2381
+lith1251,Lithuanian,Eurasia,Indo-European,55.1429,23.9601,60,45,15,0,False,False,4,0.75,0.25
+livv1244,Livonian,Eurasia,Uralic,57.566,22.0262,31,23,8,0,False,False,3,0.7419,0.2581
+lizu1234,Lizu,Eurasia,Sino-Tibetan,28.333425,101.350309,58,50,8,0,False,False,5,0.8621,0.1379
+logb1245,Logba,Africa,Atlantic-Congo,6.92838,0.43068,30,21,7,2,False,True,4,0.7,0.2333
+logo1259,Logo,Africa,Central Sudanic,3.32608,29.8866,39,27,9,3,False,True,4,0.6923,0.2308
+loko1255,Lɔkɔ,Africa,Mande,9.11838,-12.1583,25,18,7,0,False,False,4,0.72,0.28
+loma1260,Looma,Africa,Mande,7.91585,-9.69906,51,21,28,2,False,True,17,0.4118,0.549
+long1387,longto,Africa,Atlantic-Congo,8.33313,13.0568,31,20,7,4,False,True,5,0.6452,0.2258
+loni1238,Loniu,Papunesia,Austronesian,-2.06124,147.35,23,16,7,0,False,False,5,0.6957,0.3043
+loth1237,Lotha,Eurasia,Sino-Tibetan,26.01396,94.04355,46,35,8,3,False,True,8,0.7609,0.1739
+lowa1242,gLo Tibetan,Eurasia,Sino-Tibetan,29.0324,83.8959,43,35,8,0,False,False,4,0.814,0.186
+lowe1385,Lower Sorbian,Eurasia,Indo-European,51.6621,13.9407,42,35,7,0,False,False,4,0.8333,0.1667
+lowe1402,Ngayawang,Australia,Pama-Nyungan,-34.6,140.5,23,20,3,0,False,False,6,0.8696,0.1304
+lowe1415,DANI,Papunesia,Nuclear Trans New Guinea,-4.25684,138.992,24,12,12,0,False,False,2,0.5,0.5
+lowe1436,Lower Southern Aranda,Australia,Pama-Nyungan,-26.3,135.4,44,40,4,0,False,False,12,0.9091,0.0909
+loxi1235,Zapotec,North America,Otomanguean,15.8442,-96.6997,30,23,7,0,False,False,5,0.7667,0.2333
+luch1239,Lucazi,Africa,Atlantic-Congo,-14.0648,22.2437,37,27,10,0,False,False,4,0.7297,0.2703
+lugb1240,Logbara,Africa,Central Sudanic,3.02245,30.8642,42,26,13,3,False,True,5,0.619,0.3095
+luis1253,Luiseno,North America,Uto-Aztecan,33.3184,-116.939,34,23,11,0,False,False,3,0.6765,0.3235
+lukp1238,Lokpa,Africa,Atlantic-Congo,9.51949,1.66954,37,17,20,0,False,False,5,0.4595,0.5405
+lumu1239,Lumun,Africa,Narrow Talodi,10.8308,30.253,35,17,16,2,False,True,5,0.4857,0.4571
+lund1266,Lunda,Africa,Atlantic-Congo,-11.1793,23.8662,32,22,10,0,False,False,4,0.6875,0.3125
+luok1236,Dholuo,Africa,Nilotic,-0.93296,34.4896,38,26,9,3,False,True,4,0.6842,0.2368
+lush1249,Lushai,Eurasia,Sino-Tibetan,22.6138,92.6247,43,33,6,4,False,True,6,0.7674,0.1395
+lusi1240,KALIAI,Papunesia,Austronesian,-5.55033,149.148,18,13,5,0,False,False,3,0.7222,0.2778
+luth1234,Luthigh,Australia,Pama-Nyungan,-12.16733589,142.4853284,22,18,4,0,False,False,5,0.8182,0.1818
+luuu1242,Lue,Eurasia,Tai-Kadai,21.0321,101.282,39,21,18,0,False,False,3,0.5385,0.4615
+luva1239,Luvale,Africa,Atlantic-Congo,-13.5382,22.2924,36,22,10,4,False,True,4,0.6111,0.2778
+luwo1239,Luwo,Africa,Nilotic,7.35089,28.1378,32,19,10,3,False,True,5,0.5938,0.3125
+luxe1241,Luxembourgish,Eurasia,Indo-European,49.6839,6.14931,46,24,22,0,False,False,3,0.5217,0.4783
+luya1241,Louyi,Africa,Atlantic-Congo,-15.01,22.67,22,17,5,0,False,False,4,0.7727,0.2273
+lyel1241,Lyélé,Africa,Atlantic-Congo,12.4305,-2.59229,44,24,16,4,False,True,12,0.5455,0.3636
+maas1239,Fulfulde,Africa,Atlantic-Congo,11.1324,-3.64763,37,27,10,0,False,False,4,0.7297,0.2703
+maay1238,Maay,Africa,Afro-Asiatic,3.22288,43.6182,31,21,10,0,False,False,3,0.6774,0.3226
+maba1273,Mabaan,Africa,Nilotic,9.81455,33.5404,45,19,22,4,False,True,4,0.4222,0.4889
+maba1277,MABA,Africa,Maban,12.89147,20.8889,29,22,7,0,False,False,4,0.7586,0.2414
+maca1259,Macaguán,South America,Guahiboan,6.34582,-71.2671,22,16,6,0,False,False,2,0.7273,0.2727
+maca1260,Maka,South America,Matacoan,-25.0119,-57.3694,32,22,10,0,False,False,2,0.6875,0.3125
+mace1250,Macedonian,Eurasia,Indo-European,41.5957,21.7932,32,26,6,0,False,False,3,0.8125,0.1875
+mach1266,machame,Africa,Atlantic-Congo,-3.29385,37.0703,43,30,10,3,False,True,4,0.6977,0.2326
+mach1267,Matsigenka,South America,Arawakan,-12.1291,-72.5017,27,18,9,0,False,False,4,0.6667,0.3333
+mach1268,Manchinere,South America,Arawakan,-10.661655,-70.208108,18,13,5,0,False,False,2,0.7222,0.2778
+macu1259,Macushi,South America,Cariban,4.31861,-60.2209,22,10,12,0,False,False,2,0.4545,0.5455
+macu1260,Macuna,South America,Tucanoan,-0.14459,-70.0749,22,10,12,0,False,False,6,0.4545,0.5455
+mada1282,mada,Africa,Atlantic-Congo,9.02294,8.34119,41,23,13,5,False,True,8,0.561,0.3171
+mada1293,Mada,Africa,Afro-Asiatic,10.8806,14.1142,40,22,13,5,False,True,8,0.55,0.325
+madh1244,Madhi-Madhi,Australia,Pama-Nyungan,-34.5,143.5,20,16,4,0,False,False,5,0.8,0.2
+madi1260,Ma'di,Africa,Central Sudanic,3.62499,31.8471,54,45,9,0,False,False,5,0.8333,0.1667
+madn1237,Matngele,Australia,Eastern Daly,-13.9479,130.6,22,17,5,0,False,False,5,0.7727,0.2273
+mafe1237,Mavea,Papunesia,Austronesian,-15.4316,167.241,23,18,5,0,False,False,6,0.7826,0.2174
+maga1260,Magahi,Eurasia,Indo-European,25.0915,85.3335,50,34,16,0,False,False,12,0.68,0.32
+mait1250,Maithili,Eurasia,Indo-European,26.3817,86.2211,51,26,25,0,False,False,11,0.5098,0.4902
+maka1304,Mekaa,Africa,Atlantic-Congo,4.15471,13.0789,55,30,21,4,False,True,6,0.5455,0.3818
+maka1311,Makassar,Papunesia,Austronesian,-5.65551,119.838,22,17,5,0,False,False,4,0.7727,0.2273
+mako1251,Shimakonde,Africa,Atlantic-Congo,-10.9906,39.5133,28,18,5,5,False,True,4,0.6429,0.1786
+maku1278,Makuráp,South America,Tupian,-11.8701,-64.3201,20,10,10,0,False,False,8,0.5,0.5
+mala1464,Malayalam,Eurasia,Dravidian,9.59208,76.7651,53,38,15,0,False,False,6,0.717,0.283
+mala1481,Manado Malay,Papunesia,Austronesian,1.48099,124.843,24,18,6,0,False,False,4,0.75,0.25
+mala1522,Damana,South America,Chibchan,10.9286,-73.4056,27,20,7,0,False,False,3,0.7407,0.2593
+malg1242,Malkana,Australia,Pama-Nyungan,-26.211,114.245,26,20,6,0,False,False,6,0.7692,0.2308
+mall1246,Mal,Eurasia,Austroasiatic,19.273,101.204,41,17,22,2,False,True,4,0.4146,0.5366
+maln1239,Malngin,Australia,Pama-Nyungan,-17.0329,130.379,21,17,4,0,False,False,5,0.8095,0.1905
+malo1243,Tamambo; Malo,Papunesia,Austronesian,-15.6835,167.16,21,16,5,0,False,False,4,0.7619,0.2381
+malt1254,Maltese,Eurasia,Afro-Asiatic,35.8884,14.4508,55,45,10,0,False,False,4,0.8182,0.1818
+maly1234,Malyangapa,Australia,Pama-Nyungan,-29.43,142.0,27,21,6,0,False,False,6,0.7778,0.2222
+mama1271,Minyanka,Africa,Atlantic-Congo,12.4871,-5.28245,50,29,19,2,False,True,11,0.58,0.38
+mama1278,Mamaindé,South America,Nambiquaran,-12.986439,-60.101072,34,14,20,0,False,False,12,0.4118,0.5882
+mamb1294,Mambay; Mambai,Africa,Atlantic-Congo,9.6121,14.0013,53,25,24,4,False,True,12,0.4717,0.4528
+mamb1296,cilungu,Africa,Atlantic-Congo,-8.86817,31.2269,36,19,10,7,False,True,4,0.5278,0.2778
+mamm1241,Western Mam; Tacanec,North America,Mayan,14.8034,-91.7231,36,26,10,0,False,False,2,0.7222,0.2778
+mamp1244,Mampruli,Africa,Atlantic-Congo,10.3884,-0.74675,36,24,10,2,False,True,5,0.6667,0.2778
+mana1288,Manange,Eurasia,Sino-Tibetan,28.6416,84.0515,45,30,10,5,False,True,10,0.6667,0.2222
+mana1295,Manam,Papunesia,Austronesian,-4.07921,145.033,18,13,5,0,False,False,3,0.7222,0.2778
+manc1252,MANCHU,Eurasia,Tungusic,47.3122,126.557,24,17,7,0,False,False,3,0.7083,0.2917
+mand1415,Standard Chinese; Mandarin,Eurasia,Sino-Tibetan,40.0209,116.228,49,24,21,4,False,True,3,0.4898,0.4286
+mand1436,Mandingo,Africa,Mande,12.8165233333,-15.6539466667,34,19,10,5,False,True,4,0.5588,0.2941
+mang1381,Mangarrayi,Australia,Mangarrayi-Maran,-14.8,133.5,22,17,5,0,False,False,5,0.7727,0.2273
+mang1382,Mengerrdji,Australia,Giimbiyu,-12.2391,132.973,23,18,5,0,False,False,5,0.7826,0.2174
+mang1383,Mangala,Australia,Pama-Nyungan,-18.6597,123.769,24,17,7,0,False,False,5,0.7083,0.2917
+mang1394,Mangbetu,Africa,Central Sudanic,2.5511,27.0712,47,36,9,2,False,True,3,0.766,0.1915
+mani1292,Manipuri,Eurasia,Sino-Tibetan,24.4409,93.3426,38,27,8,3,False,True,3,0.7105,0.2105
+mann1248,Mano,Africa,Mande,7.04616,-8.86405,39,22,14,3,False,True,12,0.5641,0.359
+mans1258,Northern Mansi,Eurasia,Uralic,64.4118,61.344,31,20,11,0,False,False,5,0.6452,0.3548
+many1256,Manjiljarra,Australia,Pama-Nyungan,-23.350911655789,123.66842240336,23,17,6,0,False,False,5,0.7391,0.2609
+many1261,Manya,Africa,Mande,8.56186,-9.44257,27,18,7,2,False,True,3,0.6667,0.2593
+maon1238,Mao-Naga,Eurasia,Sino-Tibetan,25.3836,94.0035,30,20,6,4,False,True,2,0.6667,0.2
+maor1246,Maori,Papunesia,Austronesian,-38.2881,176.541,20,10,10,0,False,False,3,0.5,0.5
+mapo1246,Mapoyo,South America,Cariban,5.96952,-67.2581,19,12,7,0,False,False,3,0.6316,0.3684
+mapu1245,Mapudungun,South America,Araucanian,-38.7392,-71.277,28,22,6,0,False,False,5,0.7857,0.2143
+maqu1238,Yekwana,South America,Cariban,4.70705,-64.3877,26,12,14,0,False,False,3,0.4615,0.5385
+mara1378,Marathi,Eurasia,Indo-European,17.9344,76.6665,55,42,13,0,False,False,6,0.7636,0.2364
+mara1385,Marra,Australia,Mangarrayi-Maran,-14.7927,134.865,23,19,4,0,False,False,6,0.8261,0.1739
+mara1386,Maranungku,Australia,Western Daly,-13.6754,130.12,24,19,5,0,False,False,6,0.7917,0.2083
+mara1404,MARANAO,Papunesia,Austronesian,7.79414,124.175,17,13,4,0,False,False,3,0.7647,0.2353
+marg1251,Marrgu,Australia,Marrku-Wurrugu,-11.1823,132.587,26,23,3,0,False,False,6,0.8846,0.1154
+marg1253,Margany,Australia,Pama-Nyungan,-26.789,144.892,31,25,6,0,False,False,6,0.8065,0.1935
+marg1265,Margi,Africa,Afro-Asiatic,10.93854,13.0521,44,36,6,2,False,True,4,0.8182,0.1364
+mari1417,Marramaninyshi,Australia,Western Daly,-14.1788,130.561,20,16,4,0,False,False,5,0.8,0.2
+mari1419,Marringarr,Australia,Western Daly,-14.3819,130.25,32,28,4,0,False,False,6,0.875,0.125
+mari1424,Marrithiyel,Australia,Western Daly,-13.8818,130.237,24,20,4,0,False,False,4,0.8333,0.1667
+mart1254,Marti Ke,Australia,Western Daly,-14.0058,129.837,31,27,4,0,False,False,6,0.871,0.129
+mart1255,Martuthunira,Australia,Pama-Nyungan,-20.9294,116.607,26,20,6,0,False,False,6,0.7692,0.2308
+marw1260,Marwari,Eurasia,Indo-European,27.002,75.0656,42,32,10,0,False,False,4,0.7619,0.2381
+masa1299,Orusyan,Africa,Atlantic-Congo,1.05906,34.2829,63,51,12,0,False,False,10,0.8095,0.1905
+masa1300,Maasai,Africa,Nilotic,-3.1419,36.4573,43,21,18,4,False,True,4,0.4884,0.4186
+matb1237,Matbat,Papunesia,Austronesian,-1.8801,130.075,20,15,5,0,False,False,3,0.75,0.25
+mati1255,Matís,South America,Pano-Tacanan,-4.3553,-70.2079,21,15,6,0,False,False,2,0.7143,0.2857
+mats1244,Matses,South America,Pano-Tacanan,-5.73914,-72.6281,21,15,6,0,False,False,2,0.7143,0.2857
+matu1259,matuumbi,Africa,Atlantic-Congo,-8.53734,39.0409,22,14,5,3,False,True,4,0.6364,0.2273
+maun1240,Maung,Australia,Iwaidjan Proper,-11.66,133.376,24,19,5,0,False,False,5,0.7917,0.2083
+mawa1270,Mawa,Africa,Afro-Asiatic,11.7461,18.2999,29,20,6,3,False,True,4,0.6897,0.2069
+maxa1247,Maxakalí,South America,Nuclear-Macro-Je,-16.9402,-40.7891,20,10,10,0,False,False,9,0.5,0.5
+maya1280,Mayi-Kutuna,Australia,Pama-Nyungan,-18.1147,140.337,21,18,3,0,False,False,6,0.8571,0.1429
+mayi1235,Mayi-Yapi,Australia,Pama-Nyungan,-19.25,140.61,21,18,3,0,False,False,6,0.8571,0.1429
+mayi1236,Mayi-Kulan,Australia,Pama-Nyungan,-18.56,141.46,21,18,3,0,False,False,6,0.8571,0.1429
+mayo1261,Mayogo,Africa,Atlantic-Congo,2.79827,27.8282,46,33,10,3,False,True,3,0.7174,0.2174
+maza1291,Mazanderani,Eurasia,Indo-European,36.241,52.3009,29,22,7,0,False,False,2,0.7586,0.2414
+mbaa1245,MBA-NE,Africa,Atlantic-Congo,1.06885,25.143,29,24,5,0,False,False,2,0.8276,0.1724
+mbab1239,Mbabaram,Australia,Pama-Nyungan,-20.1389,143.438,27,15,12,0,False,False,5,0.5556,0.4444
+mbal1255,Mbalanhu,Africa,Atlantic-Congo,-17.578884,16.027517,31,23,6,2,False,True,7,0.7419,0.1935
+mbar1253,Rimanggudinhma,Australia,Pama-Nyungan,-14.529,143.789,29,24,5,0,False,False,5,0.8276,0.1724
+mbar1254,Mbara,Australia,Pama-Nyungan,-19.29,142.475904,27,17,10,0,False,False,5,0.6296,0.3704
+mbay1241,Mbay,Africa,Central Sudanic,8.23066,15.7328,44,22,19,3,False,True,7,0.5,0.4318
+mbee1249,Mbe,Africa,Atlantic-Congo,6.57067,8.82998,57,48,7,2,False,True,7,0.8421,0.1228
+mbiy1238,Mbiywom,Australia,Pama-Nyungan,-12.89620501,142.2710997,29,23,6,0,False,False,5,0.7931,0.2069
+mboc1235,Mbo (Ngwatta),Africa,Atlantic-Congo,5.13981,9.92766,36,21,13,2,False,True,4,0.5833,0.3611
+mbuk1240,mbukushu,Africa,Atlantic-Congo,-17.6827,22.5026,29,22,7,0,False,False,4,0.7586,0.2414
+mbuk1243,Mbuko,Africa,Afro-Asiatic,10.7788,14.1677,45,34,8,3,False,True,2,0.7556,0.1778
+mbum1254,MBUM,Africa,Atlantic-Congo,7.5789,14.2722,36,28,8,0,False,False,6,0.7778,0.2222
+mbuu1238,Ajumbu,Africa,Atlantic-Congo,6.53792,10.2556,36,24,9,3,False,True,3,0.6667,0.25
+mbya1239,Mbyá,South America,Tupian,-26.0188,-52.711,26,14,12,0,False,False,11,0.5385,0.4615
+medu1238,Medumba,Africa,Atlantic-Congo,5.10901,10.6118,25,16,9,0,False,False,4,0.64,0.36
+meen1242,Me'en,Africa,Surmic,6.63207,35.6255,39,25,14,0,False,False,4,0.641,0.359
+mehi1240,Mehináku,South America,Arawakan,-12.5364,-53.521,23,13,10,0,False,False,7,0.5652,0.4348
+mehr1241,Mehri,Eurasia,Afro-Asiatic,16.793,52.473,45,31,14,0,False,False,3,0.6889,0.3111
+mend1266,Mende,Africa,Mande,7.90935,-10.9926,34,23,7,4,False,True,4,0.6765,0.2059
+mere1246,Mere,Africa,Afro-Asiatic,10.7458,14.09,44,33,8,3,False,True,3,0.75,0.1818
+merg1238,Myeik Burmese,Eurasia,Sino-Tibetan,14.1078,98.194,48,27,21,0,False,False,7,0.5625,0.4375
+meru1245,Kimeru,Africa,Atlantic-Congo,0.26484,37.7396,27,17,10,0,False,False,4,0.6296,0.3704
+mesc1238,Chiricahua Apache,North America,Athabaskan-Eyak-Tlingit,33.1291,-105.566,51,31,16,4,False,True,10,0.6078,0.3137
+mesq1240,Masqan,Africa,Afro-Asiatic,8.10617,38.3386,41,34,7,0,False,False,4,0.8293,0.1707
+meta1238,Metta,Africa,Atlantic-Congo,5.88942,9.87416,33,20,8,5,False,True,3,0.6061,0.2424
+mewa1250,Mewati,Eurasia,Indo-European,27.736,76.947,50,30,20,0,False,False,13,0.6,0.4
+mezq1235,Otomi,North America,Otomanguean,20.2274,-99.5564,58,42,13,3,False,True,10,0.7241,0.2241
+mfum1238,Mfumte,Africa,Atlantic-Congo,6.6,10.936386,84,69,10,5,False,True,5,0.8214,0.119
+mian1257,Mianmin,Papunesia,Nuclear Trans New Guinea,-4.70881,141.523,25,13,8,4,False,True,3,0.52,0.32
+mich1243,Michif,North America,Algic,49.1681,-99.9119,41,25,16,0,False,False,6,0.6098,0.3902
+mich1245,Michoacan Nahual,North America,Uto-Aztecan,18.3412,-103.361,20,15,5,0,False,False,2,0.75,0.25
+miju1243,Mishmi,Eurasia,Sino-Tibetan,28.4732,97.0444,54,34,16,4,False,True,7,0.6296,0.2963
+mina1268,Minangkabau,Papunesia,Austronesian,-0.896,100.44,29,19,10,0,False,False,4,0.6552,0.3448
+mind1253,Min Dong Chinese,Eurasia,Sino-Tibetan,26.0,119.5,35,15,20,0,False,False,3,0.4286,0.5714
+ming1252,Mingrelian,Eurasia,Kartvelian,42.5129,41.8719,37,31,6,0,False,False,2,0.8378,0.1622
+mini1256,"Huitoto, Minica",South America,Huitotoan,-1.54535,-73.1107,24,18,6,0,False,False,4,0.75,0.25
+minj1242,Minjungbal,Australia,Pama-Nyungan,-28.028726,153.286993,20,12,8,0,False,False,4,0.6,0.4
+minn1241,XIAMEN,Eurasia,Sino-Tibetan,24.5,118.17,25,19,6,0,False,False,3,0.76,0.24
+miny1240,Mising,Eurasia,Sino-Tibetan,27.418,94.69,46,34,9,3,False,True,5,0.7391,0.1957
+mira1251,Mirandese,Eurasia,Indo-European,41.5375,-6.38371,49,22,27,0,False,False,8,0.449,0.551
+mira1254,Miraña,South America,Boran,-2.000259,-72.257066,31,17,14,0,False,False,2,0.5484,0.4516
+miri1266,Miriwoong,Australia,Jarrakan,-16.3596,128.889,20,16,4,0,False,False,4,0.8,0.2
+mith1236,Mithaka,Australia,Pama-Nyungan,-25.13606725,139.598447,29,26,3,0,False,False,6,0.8966,0.1034
+miya1259,Miyako,Eurasia,Japonic,24.7564,125.363,19,14,5,0,False,False,4,0.7368,0.2632
+mmaa1238,Numala,Africa,Atlantic-Congo,4.52188,11.0599,32,21,9,2,False,True,4,0.6562,0.2812
+mman1238,Mmani,Africa,Atlantic-Congo,9.0,-13.16,36,22,14,0,False,False,11,0.6111,0.3889
+mmen1238,Mmen,Africa,Atlantic-Congo,6.43213,10.2541,41,27,9,5,False,True,4,0.6585,0.2195
+moch1256,Kimochi,Africa,Atlantic-Congo,-3.33743,37.3357,25,20,5,0,False,False,3,0.8,0.2
+moco1246,Mocoví,South America,Guaicuruan,-28.097,-60.4145,29,21,8,0,False,False,3,0.7241,0.2759
+mode1248,Greek,Eurasia,Indo-European,38.36,23.13,41,36,5,0,False,False,4,0.878,0.122
+mofu1248,Mofu-gudur,Africa,Afro-Asiatic,10.567,14.0314,44,35,7,2,False,True,3,0.7955,0.1591
+mogh1245,MOGHOL,Eurasia,Mongolic-Khitan,34.2504,62.2802,24,19,5,0,False,False,3,0.7917,0.2083
+mogh1246,Moghamo,Africa,Atlantic-Congo,5.88942,9.87416,50,33,14,3,False,True,12,0.66,0.28
+moke1242,Moken,Eurasia,Austronesian,10.1474,98.6765,38,20,18,0,False,False,4,0.5263,0.4737
+mokl1243,Moklen,Eurasia,Austronesian,8.16761,98.3176,46,19,27,0,False,False,4,0.413,0.587
+mokp1239,Mokpwe,Africa,Atlantic-Congo,4.24178,9.23887,31,22,7,2,False,True,3,0.7097,0.2258
+moks1248,Moksha,Eurasia,Uralic,54.1855,42.6728,41,35,6,0,False,False,3,0.8537,0.1463
+molo1266,Moloko,Africa,Afro-Asiatic,10.7933,14.2521,47,31,10,6,False,True,2,0.6596,0.2128
+mong1338,mongo-nkundu,Africa,Atlantic-Congo,-1.54228,20.4259,55,44,7,4,False,True,7,0.8,0.1273
+mono1269,Mono,Africa,Atlantic-Congo,8.78372,14.2254,62,35,24,3,False,True,16,0.5645,0.3871
+mono1270,Mono,Africa,Atlantic-Congo,4.57915,19.8264,41,30,8,3,False,True,2,0.7317,0.1951
+mori1268,Mori Bawah,Papunesia,Austronesian,-2.56016,121.37,27,22,5,0,False,False,3,0.8148,0.1852
+mori1278,Mauritian Creole,Africa,Indo-European,-20.2613,57.5517,27,19,8,0,False,False,5,0.7037,0.2963
+moro1284,Morokodo,Africa,Central Sudanic,5.5103,30.0229,54,42,10,2,False,True,4,0.7778,0.1852
+moro1285,MORO,Africa,Heibanic,10.9194,30.2138,27,20,7,0,False,False,4,0.7407,0.2593
+moro1292,Moroccan Arabic,Africa,Afro-Asiatic,32.5,-7.5,78,74,4,0,False,False,7,0.9487,0.0513
+moru1253,Moru,Africa,Central Sudanic,5.1232,30.3287,38,26,9,3,False,True,4,0.6842,0.2368
+moss1236,Moore,Africa,Atlantic-Congo,11.95,-1.32,43,17,24,2,False,True,10,0.3953,0.5581
+motl1237,Mwotlap,Papunesia,Austronesian,-13.655015,167.706277,22,15,7,0,False,False,4,0.6818,0.3182
+moyo1238,Moyon,Eurasia,Sino-Tibetan,24.4793,94.3421,40,24,13,3,False,True,4,0.6,0.325
+mpad1242,Kotoko,Africa,Afro-Asiatic,12.561391,14.446893,40,30,6,4,False,True,2,0.75,0.15
+mpal1238,Mpalitjanh,Australia,Pama-Nyungan,-12.16733589,142.4853284,26,22,4,0,False,False,5,0.8462,0.1538
+mpar1238,Central Arrernte,Australia,Pama-Nyungan,-23.3583,135.046,44,40,4,0,False,False,12,0.9091,0.0909
+mpon1254,Mpumpun,Africa,Atlantic-Congo,3.14015,14.866,38,29,7,2,False,True,3,0.7632,0.1842
+mudb1240,Mudburra,Australia,Pama-Nyungan,-16.7694,132.329,23,17,6,0,False,False,5,0.7391,0.2609
+mudh1235,Kon̩ekar Gadaba,Eurasia,Dravidian,18.276,83.378,31,19,12,0,False,False,10,0.6129,0.3871
+mufi1238,Muhiang,Papunesia,Nuclear Torricelli,-3.57932,142.955,22,17,5,0,False,False,2,0.7727,0.2273
+muin1242,MUINANE,South America,Boran,-0.8652,-72.4249,28,22,6,0,False,False,3,0.7857,0.2143
+mull1237,Malak-Malak,Australia,Northern Daly,-13.427,130.664,19,14,5,0,False,False,4,0.7368,0.2632
+mulu1243,Muluridji,Australia,Pama-Nyungan,-17.0601,145.329,16,13,3,0,False,False,4,0.8125,0.1875
+muna1247,Muna,Papunesia,Austronesian,-5.40419,122.541,30,25,5,0,False,False,3,0.8333,0.1667
+mund1320,Bhumij,Eurasia,Austroasiatic,23.03,85.85,54,33,21,0,False,False,11,0.6111,0.3889
+mund1325,Mundang,Africa,Atlantic-Congo,9.83195,14.4751,67,37,27,3,False,True,14,0.5522,0.403
+mund1326,Mündü,Africa,Atlantic-Congo,4.22755,29.9967,41,29,9,3,False,True,3,0.7073,0.2195
+mund1327,Mundani,Africa,Atlantic-Congo,5.68073,9.91533,41,23,14,4,False,True,11,0.561,0.3415
+mund1328,Mundabli,Africa,Atlantic-Congo,6.59969,10.2704,37,22,11,4,False,True,4,0.5946,0.2973
+mund1330,Mundurukú,South America,Tupian,-8.41095,-57.691,39,17,20,2,False,True,13,0.4359,0.5128
+mung1266,Mungaka,Africa,Atlantic-Congo,5.89752,10.0294,33,21,9,3,False,True,4,0.6364,0.2727
+munj1244,Munji,Eurasia,Indo-European,35.9321,70.9404,44,35,9,0,False,False,3,0.7955,0.2045
+mura1269,Kuninjku,Australia,Gunwinyguan,-12.3398,133.358,27,22,5,0,False,False,5,0.8148,0.1852
+murl1244,Murle,Africa,Surmic,6.69756,33.988,34,20,14,0,False,False,4,0.5882,0.4118
+murr1258,MURINHPATHA,Australia,Southern Daly,-14.74852,129.70152,25,21,4,0,False,False,5,0.84,0.16
+murr1259,Murrinh-patha,Australia,Southern Daly,-14.74852,129.70152,28,24,4,0,False,False,6,0.8571,0.1429
+murs1242,MURSI,Africa,Surmic,5.69801,36.0971,26,21,5,0,False,False,4,0.8077,0.1923
+muru1266,Muruwari,Australia,Pama-Nyungan,-28.9618,146.546,25,19,6,0,False,False,6,0.76,0.24
+muru1274,"Huitoto, Murui",South America,Huitotoan,-1.13669,-73.8331,20,14,6,0,False,False,3,0.7,0.3
+muya1243,Muyang,Africa,Afro-Asiatic,10.86047,14.21246,46,27,14,5,False,True,2,0.587,0.3043
+mvum1238,Mvumbo,Africa,Atlantic-Congo,2.39354,10.0812,53,45,8,0,False,False,5,0.8491,0.1509
+mwag1236,Mwaghavul,Africa,Afro-Asiatic,9.47205,8.96522,37,25,12,0,False,False,6,0.6757,0.3243
+mwal1237,Mwali,Africa,Atlantic-Congo,-12.3164,43.741,24,19,5,0,False,False,3,0.7917,0.2083
+mwan1247,Kimwani,Africa,Atlantic-Congo,-12.5821,40.4601,26,21,5,0,False,False,3,0.8077,0.1923
+mwan1250,Muan,Africa,Mande,7.87533,-5.94577,39,21,12,6,False,True,6,0.5385,0.3077
+myen1241,myene,Africa,Atlantic-Congo,-1.48741,9.50247,36,29,7,0,False,False,4,0.8056,0.1944
+naas1242,Nasioi,Papunesia,South Bougainville,-6.46022,155.632,18,8,10,0,False,False,2,0.4444,0.5556
+nade1244,Nadëb,South America,Naduhup,-1.24449,-66.3068,34,17,17,0,False,False,11,0.5,0.5
+nafa1258,Nafaanra,Africa,Atlantic-Congo,8.00522,-2.51001,44,25,19,0,False,False,10,0.5682,0.4318
+naga1394,Nagamese,Eurasia,Indo-European,25.2508,93.4438,47,26,21,0,False,False,3,0.5532,0.4468
+naia1238,Mayali,Australia,Gunwinyguan,-12.3398,133.358,27,22,5,0,False,False,5,0.8148,0.1852
+naik1250,Naiki,Eurasia,Dravidian,19.6908,78.5936,46,36,10,0,False,False,4,0.7826,0.2174
+najd1235,Najdi Arabic,Eurasia,Afro-Asiatic,30.3371,42.1773,33,25,8,0,False,False,0,0.7576,0.2424
+naka1260,Nakara,Australia,Maningrida,-12.07653,134.32729,25,20,5,0,False,False,5,0.8,0.2
+naki1238,Naki,Africa,Atlantic-Congo,6.62784,10.2378,44,36,8,0,False,False,5,0.8182,0.1818
+nama1264,NAMA,Africa,Khoe-Kwadi,-25.0747,17.9767,41,32,9,0,True,False,17,0.7805,0.2195
+nama1265,Nama,Africa,Khoe-Kwadi,-25.0747,17.9767,33,19,8,6,True,True,5,0.5758,0.2424
+nami1256,Namia,Papunesia,Sepik,-3.85538,141.788,15,9,6,0,False,False,2,0.6,0.4
+nana1257,NANAI,Eurasia,Tungusic,48.4343,134.797,24,18,6,0,False,False,4,0.75,0.25
+nand1266,Nandi,Africa,Nilotic,0.793737,35.408478,23,13,10,0,False,False,4,0.5652,0.4348
+nang1259,Nganikurungkurr,Australia,Southern Daly,-14.268,131.237,28,20,8,0,False,False,4,0.7143,0.2857
+nank1250,Nankina,Papunesia,Nuclear Trans New Guinea,-5.80804,146.464,20,14,6,0,False,False,3,0.7,0.3
+nant1250,Nanti,South America,Arawakan,-12.1018,-72.3507,27,18,9,0,False,False,4,0.6667,0.3333
+napo1242,Napo Quichua,South America,Quechuan,-0.072525,-76.3889,23,20,3,0,False,False,3,0.8696,0.1304
+nari1240,Laarim,Africa,Surmic,4.80331,33.3312,34,22,9,3,False,True,4,0.6471,0.2647
+nari1241,Nari Nari,Australia,Pama-Nyungan,-34.13829932,143.6694397,23,18,5,0,False,False,6,0.7826,0.2174
+narp1239,Nar-Phu,Eurasia,Sino-Tibetan,28.76714,84.22852,49,25,24,0,False,False,6,0.5102,0.4898
+narr1259,Yaraldi,Australia,Pama-Nyungan,-36.2301,140.158,25,20,5,0,False,False,6,0.8,0.2
+naru1238,Narrungga,Australia,Pama-Nyungan,-34.69,137.535,27,21,6,0,False,False,6,0.7778,0.2222
+nate1242,Nateni,Africa,Atlantic-Congo,10.5191,1.21879,40,13,24,3,False,True,10,0.325,0.6
+natu1246,NAMBAKAENGO,Papunesia,Austronesian,-10.6771,165.835,46,29,17,0,False,False,13,0.6304,0.3696
+nauk1242,Naukan Yupik,Eurasia,Eskimo-Aleut,65.5184,-171.755,22,18,4,0,False,False,3,0.8182,0.1818
+nava1243,Navaho,North America,Athabaskan-Eyak-Tlingit,36.33,-109.38,54,36,16,2,False,True,12,0.6667,0.2963
+nawd1238,Nawdm,Africa,Atlantic-Congo,7.17037,0.58553,35,21,14,0,False,False,4,0.6,0.4
+nawu1242,Nawuri,Africa,Atlantic-Congo,8.45116,0.04947,38,27,9,2,False,True,5,0.7105,0.2368
+naxi1245,NAXI,Eurasia,Sino-Tibetan,27.5,100.0,49,38,11,0,False,False,3,0.7755,0.2245
+ncan1245,Nchane,Africa,Atlantic-Congo,6.50696,10.5312,41,17,18,6,False,True,10,0.4146,0.439
+ndai1238,Galke,Africa,Atlantic-Congo,8.09039,14.2888,57,32,22,3,False,True,12,0.5614,0.386
+ndal1241,Chindali,Africa,Atlantic-Congo,-9.88948,33.6118,30,16,10,4,False,True,4,0.5333,0.3333
+ndam1239,Ndamba,Africa,Atlantic-Congo,-8.40485,36.0271,24,19,5,0,False,False,3,0.7917,0.2083
+ndem1249,Ndemli,Africa,Atlantic-Congo,4.58061,10.2197,45,28,12,5,False,True,4,0.6222,0.2667
+ndog1248,Ndogo,Africa,Atlantic-Congo,7.73028,27.5588,38,29,5,4,False,True,2,0.7632,0.1316
+ndon1254,Ndonga (Kolonkadhi),Africa,Atlantic-Congo,-17.22,17.35,36,29,5,2,False,True,7,0.8056,0.1389
+ndra1239,Ndra'ngith,Australia,Pama-Nyungan,-12.544,141.984,23,19,4,0,False,False,5,0.8261,0.1739
+ndut1239,NDUT,Africa,Atlantic-Congo,14.925,-16.9811,34,27,7,0,False,False,4,0.7941,0.2059
+ndzw1235,"Comorian, Ndzwani",Africa,Atlantic-Congo,-12.2123,44.3709,39,32,5,2,False,True,3,0.8205,0.1282
+nene1249,Tundra Nenets,Eurasia,Uralic,66.1775,71.0234,35,26,9,0,False,False,5,0.7429,0.2571
+nepa1253,Dhangar,Eurasia,Dravidian,26.72057,86.00255,39,34,5,0,False,False,4,0.8718,0.1282
+nepa1254,Nepali,Eurasia,Indo-European,28.0,85.0,74,53,21,0,False,False,11,0.7162,0.2838
+newa1246,NEWARI,Eurasia,Sino-Tibetan,27.67,85.326,32,24,8,0,False,False,8,0.75,0.25
+nezp1238,Nez Perce,North America,Sahaptian,46.3073,-116.408,36,26,10,0,False,False,4,0.7222,0.2778
+ngaa1240,Ngaanyatjarra,Australia,Pama-Nyungan,-25.7514,127.602,23,17,6,0,False,False,5,0.7391,0.2609
+ngad1258,Mirrniny,Australia,Pama-Nyungan,-32.02447,124.46601,26,20,6,0,False,False,6,0.7692,0.2308
+ngad1261,Ngad''a; Ngadha',Papunesia,Austronesian,-8.79508,120.976,27,21,6,0,False,False,3,0.7778,0.2222
+ngal1292,Dalabon,Australia,Gunwinyguan,-13.9783,133.936,29,23,6,0,False,False,5,0.7931,0.2069
+ngal1293,Ngalakgan,Australia,Gunwinyguan,-14.4281,134.716,27,22,5,0,False,False,5,0.8148,0.1852
+ngal1294,Ngaliwurru,Australia,Mirndi,-15.0558,130.06,21,17,4,0,False,False,5,0.8095,0.1905
+ngam1268,Ngambai,Africa,Central Sudanic,8.57051,15.414,34,18,13,3,False,True,7,0.5294,0.3824
+ngam1284,Ngamini,Australia,Pama-Nyungan,-27.1797,138.701,25,22,3,0,False,False,6,0.88,0.12
+ngan1291,Nganasan,Eurasia,Uralic,73.1354,86.2106,30,20,10,0,False,False,4,0.6667,0.3333
+ngan1295,Ngandi,Australia,Gunwinyguan,-12.8448,134.649,35,26,9,0,False,False,6,0.7429,0.2571
+ngan1296,Nganyaywana,Australia,Pama-Nyungan,-29.581,151.313,17,14,3,0,False,False,4,0.8235,0.1765
+ngan1299,Gangam,Africa,Atlantic-Congo,10.2523,0.70509,39,22,14,3,False,True,12,0.5641,0.359
+ngan1300,Ngandjera,Africa,Atlantic-Congo,-16.6359,21.1928,37,30,5,2,False,True,7,0.8108,0.1351
+ngar1235,Ngarinyman,Australia,Pama-Nyungan,-15.4661,130.651,23,17,6,0,False,False,5,0.7391,0.2609
+ngar1283,Ngarnka,Australia,Mirndi,-17.42,134.73,21,17,4,0,False,False,5,0.8095,0.1905
+ngar1284,NGARINJIN,Australia,Worrorran,-16.4006,126.433,24,18,6,0,False,False,5,0.75,0.25
+ngar1287,Ngarluma,Australia,Pama-Nyungan,-20.9235,117.203,23,20,3,0,False,False,6,0.8696,0.1304
+ngar1288,Ngardi,Australia,Pama-Nyungan,-21.0231,129.0308,24,18,6,0,False,False,5,0.75,0.25
+ngar1296,Ngarlawangka,Australia,Pama-Nyungan,-20.20748,119.30579,23,17,6,0,False,False,5,0.7391,0.2609
+ngar1297,Ngarigu,Australia,Pama-Nyungan,-36.23,149.13,18,15,3,0,False,False,4,0.8333,0.1667
+ngas1238,Ongamo,Africa,Nilotic,-2.97716,37.528,31,22,9,0,False,False,4,0.7097,0.2903
+ngas1240,Angas,Africa,Afro-Asiatic,9.32042,9.46146,44,30,11,3,False,True,4,0.6818,0.25
+ngaw1240,Wunumara,Australia,Pama-Nyungan,-19.4484,141.471,22,19,3,0,False,False,6,0.8636,0.1364
+ngaz1238,Shindazidja,Africa,Atlantic-Congo,-11.6129,43.36,44,37,5,2,False,True,3,0.8409,0.1136
+ngba1285,Ngbaka,Africa,Atlantic-Congo,2.98887,18.994,34,22,12,0,False,False,9,0.6471,0.3529
+ngem1255,Ngemba,Africa,Atlantic-Congo,5.97864,10.1469,40,29,9,2,False,True,4,0.725,0.225
+ngie1241,Ngiemboon,Africa,Atlantic-Congo,5.56777,10.1266,30,19,7,4,False,True,3,0.6333,0.2333
+ngin1247,Ngintait,Australia,Pama-Nyungan,-34.098823177692,140.99932761004,23,20,3,0,False,False,6,0.8696,0.1304
+ngit1239,Ngiti,Africa,Central Sudanic,1.30455,30.2242,56,44,5,7,False,True,3,0.7857,0.0893
+ngiz1242,NGIZIM,Africa,Afro-Asiatic,12.1051,11.0178,40,34,6,0,False,False,3,0.85,0.15
+ngko1236,Ngkoth,Australia,Pama-Nyungan,-12.740575,141.886762,26,19,7,0,False,False,5,0.7308,0.2692
+ngom1271,Ngombale,Africa,Atlantic-Congo,5.70306,10.1446,59,37,19,3,False,True,7,0.6271,0.322
+ngom1272,Ngomba,Africa,Atlantic-Congo,5.63067,10.237,32,21,7,4,False,True,4,0.6562,0.2188
+ngos1238,Ngishe,Africa,Atlantic-Congo,6.04616,9.83193,34,26,6,2,False,True,4,0.7647,0.1765
+ngum1253,Ngumbarl,Australia,Nyulnyulan,-17.491239,122.230025,20,17,3,0,False,False,5,0.85,0.15
+ngwe1238,ngwe,Africa,Atlantic-Congo,5.49787,9.9028,37,23,14,0,False,False,4,0.6216,0.3784
+nhan1238,Nhanda,Australia,Pama-Nyungan,-27.42523643,114.2680442,33,27,6,0,False,False,6,0.8182,0.1818
+nhen1239,Nheengatú,South America,Tupian,1.04503,-66.9646,23,19,4,0,False,False,3,0.8261,0.1739
+nhir1234,Nhirrpi,Australia,Pama-Nyungan,-28.4744,140.583,29,26,3,0,False,False,6,0.8966,0.1034
+nhuw1239,Nhuwala,Australia,Pama-Nyungan,-21.38154,115.74542,26,20,6,0,False,False,6,0.7692,0.2308
+nias1242,Nias,Papunesia,Austronesian,0.90691,97.4961,25,19,6,0,False,False,2,0.76,0.24
+niel1243,Lwaa,Africa,Atlantic-Congo,9.70362,17.81346,59,25,31,3,False,True,15,0.4237,0.5254
+nige1253,fulfulde (NGA),Africa,Atlantic-Congo,10.9972,11.1188,57,47,10,0,False,False,8,0.8246,0.1754
+nige1255,Mambila,Africa,Atlantic-Congo,6.69736,11.3161,43,25,16,2,False,True,4,0.5814,0.3721
+nige1257,Nigerian Pidgin,Africa,Indo-European,9.65873,4.21068,32,23,7,2,False,True,3,0.7188,0.2188
+nija1241,Palyku,Australia,Pama-Nyungan,-22.8558,120.831,26,20,6,0,False,False,6,0.7692,0.2308
+nima1245,Nimanburu,Australia,Nyulnyulan,-17.374,123.228,23,17,6,0,False,False,5,0.7391,0.2609
+nina1238,Ninam,South America,Yanomamic,4.03894,-62.7801,18,12,6,0,False,False,2,0.6667,0.3333
+ning1273,Ningil,Papunesia,Nuclear Torricelli,-3.49733,142.251,20,14,6,0,False,False,3,0.7,0.3
+nisg1240,Nishgha,North America,Tsimshian,55.199,-129.192,42,32,10,0,False,False,4,0.7619,0.2381
+niva1238,Chulupí,South America,Matacoan,-22.8557,-61.7606,28,22,6,0,False,False,3,0.7857,0.2143
+njeb1242,Nzɛbi,Africa,Atlantic-Congo,-2.18115,12.7063,33,23,8,2,False,True,3,0.697,0.2424
+njye1238,Njem,Africa,Atlantic-Congo,2.30483,14.1175,38,16,20,2,False,True,3,0.4211,0.5263
+nkon1248,Nkonya,Africa,Atlantic-Congo,7.20316,0.3209,32,18,14,0,False,False,12,0.5625,0.4375
+nobi1240,Mahas-Fiyadikka,Africa,Nubian,22.8142,31.8376,45,33,10,2,False,True,6,0.7333,0.2222
+noma1260,Nɔmaa,Africa,Atlantic-Congo,4.5893,10.9157,30,14,14,2,False,True,4,0.4667,0.4667
+noma1263,Nomatsigenga,South America,Arawakan,-11.5349,-74.4371,25,16,9,0,False,False,4,0.64,0.36
+nonu1241,Nonuya,South America,Huitotoan,-1.25,-72.5,26,20,6,0,False,False,3,0.7692,0.2308
+noon1243,NONI,Africa,Atlantic-Congo,6.37256,10.5707,31,17,14,0,False,False,4,0.5484,0.4516
+nort2626,Frisian,Eurasia,Indo-European,54.6409,8.58489,40,21,19,0,False,False,4,0.525,0.475
+nort2627,Low German,Eurasia,Indo-European,53.115373,12.391439,37,23,14,0,False,False,4,0.6216,0.3784
+nort2641,KURDISH,Eurasia,Indo-European,37.0,43.0,47,30,17,0,False,False,3,0.6383,0.3617
+nort2646,Yousafzai Pashto,Eurasia,Indo-European,34.0,71.33,33,22,11,0,False,False,3,0.6667,0.3333
+nort2647,Northwestern Pashto,Eurasia,Indo-European,34.0,71.33,36,25,11,0,False,False,3,0.6944,0.3056
+nort2671,Northern Saami,Eurasia,Uralic,68.725,22.1113,74,63,11,0,False,False,14,0.8514,0.1486
+nort2684,Northern Khmer,Eurasia,Austroasiatic,14.4674,103.863,43,24,19,0,False,False,7,0.5581,0.4419
+nort2686,Northern Altai,Eurasia,Turkic,50.8998,88.0672,34,18,16,0,False,False,4,0.5294,0.4706
+nort2690,UZBEK,Eurasia,Turkic,40.886,69.211,29,23,6,0,False,False,3,0.7931,0.2069
+nort2697,North Azerbaijani,Eurasia,Turkic,40.9777,46.4737,39,24,15,0,False,False,2,0.6154,0.3846
+nort2699,Kolami,Eurasia,Dravidian,20.1022,78.4934,34,21,13,0,False,False,3,0.6176,0.3824
+nort2722,Northern Qiang,Eurasia,Sino-Tibetan,32.2766,103.192,73,39,34,0,False,False,4,0.5342,0.4658
+nort2735,KAM,Eurasia,Tai-Kadai,26.9944,109.204,27,20,7,0,False,False,6,0.7407,0.2593
+nort2740,Northern Thai,Eurasia,Tai-Kadai,18.857495,100.20739,33,21,12,0,False,False,4,0.6364,0.3636
+nort2741,Northeastern Thai,Eurasia,Tai-Kadai,16.03,103.67,33,21,12,0,False,False,4,0.6364,0.3636
+nort2745,Tundra Yukaghir,Eurasia,Yukaghir,70.498,157.853,39,20,19,0,False,False,4,0.5128,0.4872
+nort2765,Kisiei,Africa,Atlantic-Congo,8.7283,-10.4063,42,22,20,0,False,False,9,0.5238,0.4762
+nort2774,Ngbandi,Africa,Atlantic-Congo,3.56357,21.85251,31,19,12,0,False,False,8,0.6129,0.3871
+nort2775,Gbaya,Africa,Atlantic-Congo,5.9503,15.2569,53,30,19,4,False,True,10,0.566,0.3585
+nort2780,Dagara,Africa,Atlantic-Congo,11.0441,-3.0124,41,29,9,3,False,True,5,0.7073,0.2195
+nort2784,Nʋni,Africa,Atlantic-Congo,12.131,-2.98206,54,21,30,3,False,True,14,0.3889,0.5556
+nort2787,Toussian,Africa,Atlantic-Congo,11.133,-4.88274,35,16,14,5,False,True,9,0.4571,0.4
+nort2795,Ndebele,Africa,Atlantic-Congo,-20.2513,27.4096,68,61,5,2,True,True,7,0.8971,0.0735
+nort2810,Grebo,Africa,Atlantic-Congo,5.17103,-8.1409,36,19,13,4,False,True,10,0.5278,0.3611
+nort2815,DINKA,Africa,Nilotic,9.27995,31.8392,32,19,13,0,False,False,5,0.5938,0.4062
+nort2819,Bobo,Africa,Mande,12.4182,-4.47538,40,20,18,2,False,True,9,0.5,0.45
+nort2828,North Maluku Malay,Papunesia,Austronesian,-0.86437,128.323,22,17,5,0,False,False,4,0.7727,0.2273
+nort2845,North Marquesan,Papunesia,Austronesian,-8.89412,-140.108,20,10,10,0,False,False,2,0.5,0.5
+nort2943,Iñupiaq; Iñupiat; Inupiat; Inupiaq,North America,Eskimo-Aleut,69.582,-143.77,27,24,3,0,False,False,4,0.8889,0.1111
+nort2952,Maidu,North America,Maiduan,40.4102,-120.645,24,18,6,0,False,False,2,0.75,0.25
+nort2954,Northern Paiute,North America,Uto-Aztecan,40.0799,-119.536,24,14,10,0,False,False,3,0.5833,0.4167
+nort2957,NAHUATL,North America,Uto-Aztecan,20.1356,-97.9814,20,16,4,0,False,False,2,0.8,0.2
+nort2966,Northern Pomo,North America,Pomoan,39.1084,-123.209,39,29,10,0,False,False,2,0.7436,0.2564
+nort2972,Northern Emberá,South America,Chocoan,7.12761,-77.574,32,20,12,0,False,False,8,0.625,0.375
+nort2976,Bolivian Quechua,South America,Quechuan,-14.4014,-68.7894,28,25,3,0,False,False,3,0.8929,0.1071
+nort2979,Huaylas-Conchucos Quechua,South America,Quechuan,-8.97356,-77.4146,23,17,6,0,False,False,3,0.7391,0.2609
+nort2980,North Junín Quechua,South America,Quechuan,-11.2132,-75.8128,25,19,6,0,False,False,4,0.76,0.24
+nort2984,Northern Pame,North America,Otomanguean,22.0968,-99.6434,54,40,12,2,False,True,15,0.7407,0.2222
+nort3047,Gisiga,Africa,Afro-Asiatic,10.6755,14.219,37,29,3,5,False,True,2,0.7838,0.0811
+norw1258,Norwegian,Eurasia,Indo-European,59.92,10.71,40,24,16,0,False,False,4,0.6,0.4
+norw1259,Norwegian,Eurasia,Indo-European,61.112,8.886,48,27,19,2,False,True,5,0.5625,0.3958
+ntch1242,N'cam,Africa,Atlantic-Congo,9.23971,0.599275,43,21,19,3,False,True,13,0.4884,0.4419
+ntom1248,Bokala-Nkole,Africa,Atlantic-Congo,-1.99062,18.265,23,16,7,0,False,False,3,0.6957,0.3043
+nubi1253,Nubi,Africa,Afro-Asiatic,-0.183215,34.7552,26,21,5,0,False,False,3,0.8077,0.1923
+nucl1235,Armenian,Eurasia,Indo-European,40.0,45.0,37,30,7,0,False,False,2,0.8108,0.1892
+nucl1240,MUMUYE,Africa,Atlantic-Congo,8.90347,11.71545,33,22,11,0,False,False,8,0.6667,0.3333
+nucl1290,Wa,Eurasia,Austroasiatic,23.1024,99.108,49,27,22,0,False,False,7,0.551,0.449
+nucl1301,Turkish,Eurasia,Turkic,39.8667,32.8667,40,24,16,0,False,False,2,0.6,0.4
+nucl1302,Georgian,Eurasia,Kartvelian,41.850397,43.78613,35,29,6,0,False,False,2,0.8286,0.1714
+nucl1305,Kannada,Eurasia,Dravidian,13.5878,76.1198,47,36,11,0,False,False,5,0.766,0.234
+nucl1310,Burmese,Eurasia,Sino-Tibetan,20.7926,93.9665,56,33,19,4,False,True,11,0.5893,0.3393
+nucl1327,Limilngan,Australia,Limilngan-Wulna,-12.4294,131.845,25,22,3,0,False,False,5,0.88,0.12
+nucl1339,TEMEIN,Africa,Temeinic,11.8275,29.3898,25,18,7,0,False,False,4,0.72,0.28
+nucl1347,Wolof,Africa,Atlantic-Congo,15.2534,-15.383,54,38,16,0,False,False,8,0.7037,0.2963
+nucl1417,Igbo,Africa,Atlantic-Congo,4.62705,7.23441,65,46,16,3,False,True,14,0.7077,0.2462
+nucl1418,Bassa,Africa,Atlantic-Congo,7.27501,-11.543,36,22,7,7,False,True,3,0.6111,0.1944
+nucl1440,Masalit,Africa,Maban,13.2733,22.1752,35,21,10,4,False,True,5,0.6,0.2857
+nucl1454,YAWA,Papunesia,Yawa-Saweru,-1.77196,136.263,19,14,5,0,False,False,3,0.7368,0.2632
+nucl1460,Madurese,Papunesia,Austronesian,-7.0,113.0,31,23,8,0,False,False,4,0.7419,0.2581
+nucl1620,WAHGI,Papunesia,Nuclear Trans New Guinea,-6.11629,144.665,23,17,6,0,False,False,4,0.7391,0.2609
+nucl1632,Sentani,Papunesia,Sentanic,-2.6013,140.512,17,10,7,0,False,False,2,0.5882,0.4118
+nucl1633,NIMBORAN,Papunesia,Nimboranic,-2.5803,140.179,18,12,6,0,False,False,3,0.6667,0.3333
+nucl1634,Skou,Papunesia,Sko,-2.64378,140.902,23,13,7,3,False,True,2,0.5652,0.3043
+nucl1643,Japanese,Eurasia,Japonic,35.0,135.0,40,27,11,2,False,True,4,0.675,0.275
+nucl1649,TSIMSHIAN,North America,Tsimshian,52.59103,-128.544545,41,38,3,0,False,False,4,0.9268,0.0732
+nucl1668,Katukína,South America,Bookkeeping,-8.19121,-70.3822,20,12,8,0,False,False,3,0.6,0.4
+nucl1683,Daba,Africa,Afro-Asiatic,10.3521,13.6318,47,36,6,5,False,True,3,0.766,0.1277
+nucl1695,Bole,Africa,Afro-Asiatic,11.4839,11.2322,38,28,10,0,False,False,3,0.7368,0.2632
+nucl1696,Tangale,Africa,Afro-Asiatic,9.75444,11.3228,60,40,18,2,False,True,3,0.6667,0.3
+nuer1246,Nuer,Africa,Nilotic,8.13911,32.3829,48,20,28,0,False,False,5,0.4167,0.5833
+nugu1241,Nukunu,Australia,Pama-Nyungan,-31.9899,133.908,28,22,6,0,False,False,6,0.7857,0.2143
+nugu1242,Nugunu,Africa,Atlantic-Congo,4.63103,11.1837,34,23,7,4,False,True,4,0.6765,0.2059
+nuka1242,Nukak,South America,Kakua-Nukak,2.65939,-71.4629,24,12,12,0,False,False,6,0.5,0.5
+nuku1263,Nukini,South America,Pano-Tacanan,-7.339,-73.5044,20,14,6,0,False,False,6,0.7,0.3
+nung1283,LUNGCHOW,Eurasia,Tai-Kadai,20.8965,104.286,32,21,11,0,False,False,3,0.6562,0.3438
+nung1290,Wubuy,Australia,Gunwinyguan,-14.2623,135.753,25,19,6,0,False,False,6,0.76,0.24
+nung1291,Nungali,Australia,Mirndi,-14.9109,131.641,17,14,3,0,False,False,4,0.8235,0.1765
+nupe1254,Nupe,Africa,Atlantic-Congo,9.18404,5.40031,38,25,8,5,False,True,2,0.6579,0.2105
+nuuc1236,Nootka,North America,Wakashan,49.67,-126.67,47,37,10,0,False,False,4,0.7872,0.2128
+nyab1255,Niaboua,Africa,Atlantic-Congo,6.87615,-6.84428,44,24,16,4,False,True,11,0.5455,0.3636
+nyah1250,NYAH KUR,Eurasia,Austroasiatic,15.8909,101.515,49,25,24,0,False,False,6,0.5102,0.4898
+nyam1271,Nyamal,Australia,Pama-Nyungan,-21.6092,119.693,23,17,6,0,False,False,5,0.7391,0.2609
+nyam1276,Kinyamwezi,Africa,Atlantic-Congo,-5.08559,32.94452,52,35,14,3,False,True,8,0.6731,0.2692
+nyam1277,Kinyambo,Africa,Atlantic-Congo,-1.6096,30.9156,33,20,10,3,False,True,5,0.6061,0.303
+nyam1285,Nyam,Africa,Afro-Asiatic,9.18024,10.83652,56,39,14,3,False,True,4,0.6964,0.25
+nyan1301,Nyangumata,Australia,Pama-Nyungan,-20.6271,121.391,27,20,7,0,False,False,6,0.7407,0.2593
+nyan1307,Runyankore,Africa,Atlantic-Congo,-0.46364,30.548,28,20,8,0,False,False,4,0.7143,0.2857
+nyan1313,NYANGI,Africa,Kuliak,3.4997,33.73651,25,18,7,0,False,False,4,0.72,0.28
+nyaw1245,Nyaw,Eurasia,Tai-Kadai,17.1213,104.151,31,19,12,0,False,False,4,0.6129,0.3871
+nyaw1247,Nyawaygi,Australia,Pama-Nyungan,-18.8743,146.216,18,12,6,0,False,False,4,0.6667,0.3333
+nyeu1238,Nyeu,Eurasia,Austroasiatic,14.8817,104.33,36,16,20,0,False,False,4,0.4444,0.5556
+nyig1240,Nyikina,Australia,Nyulnyulan,-17.9594,124.348,20,17,3,0,False,False,5,0.85,0.15
+nyis1236,Dafla,Eurasia,Sino-Tibetan,27.278263,93.675529,27,16,9,2,False,True,3,0.5926,0.3333
+nyol1238,Nyole,Africa,Atlantic-Congo,0.88072,33.9181,36,24,10,2,False,True,4,0.6667,0.2778
+nyon1241,Bali-Kumbat,Africa,Atlantic-Congo,7.274185,11.061485,42,23,14,5,False,True,5,0.5476,0.3333
+nyul1247,Nyulnyul,Australia,Nyulnyulan,-16.9129,122.851,20,17,3,0,False,False,5,0.85,0.15
+nyun1247,Balardung,Australia,Pama-Nyungan,-33.1199,118.151,22,17,5,0,False,False,5,0.7727,0.2273
+nzim1238,Nzema,Africa,Atlantic-Congo,5.1785,-2.81123,40,24,14,2,False,True,10,0.6,0.35
+obol1243,Obolo,Africa,Atlantic-Congo,4.62851,7.81985,37,22,12,3,False,True,5,0.5946,0.3243
+ocai1244,Ocaina,South America,Huitotoan,-2.159,-72.1422,38,27,9,2,False,True,10,0.7105,0.2368
+occi1239,Occitan,Eurasia,Indo-European,44.1415,6.82979,58,27,31,0,False,False,3,0.4655,0.5345
+ofay1240,Ofayé,South America,Nuclear-Macro-Je,-22.278,-53.7227,24,14,10,0,False,False,5,0.5833,0.4167
+ogbi1239,OGBIA,Africa,Atlantic-Congo,4.75352,6.34034,34,24,10,0,False,False,4,0.7059,0.2941
+okoo1245,Oko,Africa,Atlantic-Congo,7.53908,6.15725,30,18,7,5,False,True,2,0.6,0.2333
+okuu1243,Oku,Africa,Atlantic-Congo,6.23712,10.5096,29,18,7,4,False,True,3,0.6207,0.2414
+olub1238,Lulubo,Africa,Central Sudanic,4.6242,31.9103,46,34,9,3,False,True,4,0.7391,0.1957
+olut1240,Oluta Popoluca; Olutec,North America,Mixe-Zoque,17.8937,-94.8863,24,12,12,0,False,False,2,0.5,0.5
+omag1248,Omagua,South America,Tupian,-3.526,-69.1667,18,13,5,0,False,False,2,0.7222,0.2778
+onaa1245,Chon,South America,Chonan,-54.0,-68.5,29,21,8,0,False,False,2,0.7241,0.2759
+onei1249,Oneida,North America,Iroquoian,43.438742,-75.708106,22,10,12,0,False,False,5,0.4545,0.5455
+onge1236,Öñge; Ong; Onge,Eurasia,Jarawa-Onge,10.6926,92.4707,24,16,8,0,False,False,4,0.6667,0.3333
+opuu1239,Opo,Africa,Koman,8.47526,33.853,25,20,5,0,False,False,2,0.8,0.2
+orej1242,Máíhɨki,South America,Tucanoan,-2.86315,-72.4926,20,14,6,0,False,False,0,0.7,0.3
+oriy1255,Oriya,Eurasia,Indo-European,21.0,85.0,43,31,12,0,False,False,10,0.7209,0.2791
+orma1241,Orma,Africa,Afro-Asiatic,-1.79489,39.60749,33,23,10,0,False,False,3,0.697,0.303
+ormu1247,ORMURI,Eurasia,Indo-European,32.6819,69.3444,29,23,6,0,False,False,2,0.7931,0.2069
+orok1266,Lukundu,Africa,Atlantic-Congo,4.89504,9.15209,29,22,7,0,False,False,4,0.7586,0.2414
+orok1269,Orokaiva,Papunesia,Nuclear Trans New Guinea,-8.79019,148.09,17,12,5,0,False,False,3,0.7059,0.2941
+orow1243,Oro Win,South America,Chapacuran,-10.737,-64.0299,18,12,6,0,False,False,2,0.6667,0.3333
+osse1243,Iron Ossetic,Eurasia,Indo-European,42.98,44.61,47,40,7,0,False,False,2,0.8511,0.1489
+otor1240,Otoro,Africa,Heibanic,11.1187,30.573,44,30,14,0,False,False,5,0.6818,0.3182
+otuh1238,Otuho,Africa,Nilotic,4.16379,32.6641,55,32,20,3,False,True,5,0.5818,0.3636
+oyka1239,Oykangand,Australia,Pama-Nyungan,-16.6807,143.53,28,23,5,0,False,False,5,0.8214,0.1786
+paca1246,Pacahuara,South America,Pano-Tacanan,-11.9968,-65.5568,20,16,4,0,False,False,2,0.8,0.2
+paco1243,PACOH,Eurasia,Austroasiatic,16.3353,107.094,33,18,15,0,False,False,4,0.5455,0.4545
+pagi1243,Pagibete; Apakabeti; Apakibeti; Apagibete;Apagibeti; Pagabete,Africa,Atlantic-Congo,3.15636,22.1212,51,42,7,2,False,True,3,0.8235,0.1373
+pait1244,Paite,Eurasia,Sino-Tibetan,24.0381,93.6136,30,19,6,5,False,True,2,0.6333,0.2
+pait1247,Pai Tavytera,South America,Tupian,-23.15945,-56.11758,27,15,12,0,False,False,11,0.5556,0.4444
+paiw1248,Paiwan,Papunesia,Austronesian,22.3271,120.806,25,21,4,0,False,False,3,0.84,0.16
+paka1251,Bakanh,Australia,Pama-Nyungan,-15.0908,142.74,31,21,10,0,False,False,5,0.6774,0.3226
+pala1344,Palauan,Papunesia,Austronesian,7.34138,134.476678,22,10,12,0,False,False,2,0.4545,0.5455
+pali1279,Palikúr,South America,Arawakan,3.63993,-51.6246,24,14,10,0,False,False,7,0.5833,0.4167
+pall1243,Pallanganmiddang,Australia,Pama-Nyungan,-36.08,146.91,25,20,5,0,False,False,6,0.8,0.2
+palo1243,Ndut-Falor,Africa,Atlantic-Congo,14.8628,-16.9557,43,26,17,0,False,False,4,0.6047,0.3953
+pamp1243,Kapampangan,Papunesia,Austronesian,14.9603,120.502,22,17,5,0,False,False,3,0.7727,0.2273
+pana1294,Pana,Africa,Atlantic-Congo,8.71518,13.6009,66,34,28,4,False,True,19,0.5152,0.4242
+pana1305,Panamint,North America,Uto-Aztecan,36.0007,-117.901,36,23,13,0,False,False,8,0.6389,0.3611
+pana1307,Panará,South America,Nuclear-Macro-Je,-10.58,-53.0,26,11,15,0,False,False,8,0.4231,0.5769
+pand1265,Pandikeri,Africa,Central Sudanic,3.62499,31.8471,38,24,10,4,False,True,4,0.6316,0.2632
+pang1287,Pangwa,Africa,Atlantic-Congo,-9.96782,34.8039,35,23,12,0,False,False,4,0.6571,0.3429
+pang1290,Pagasinan,Papunesia,Austronesian,15.9377,120.365,21,16,5,0,False,False,3,0.7619,0.2381
+panj1256,Punjabi,Eurasia,Indo-European,30.0368,75.6702,73,50,20,3,False,True,17,0.6849,0.274
+pano1254,Katukína,South America,Pano-Tacanan,-7.97456,-71.56151,19,15,4,0,False,False,2,0.7895,0.2105
+pano1255,Panobo,South America,Pano-Tacanan,-7.16666,-75.0,18,14,4,0,False,False,2,0.7778,0.2222
+pany1241,Panyjima,Australia,Pama-Nyungan,-22.7816,118.723,25,20,5,0,False,False,6,0.8,0.2
+paok1235,"Pa-O, Taungthu",Eurasia,Sino-Tibetan,20.211,97.5969,34,20,11,3,False,True,3,0.5882,0.3235
+papa1238,Totonac,North America,Totonacan,20.5671,-97.2554,26,20,6,0,False,False,2,0.7692,0.2308
+para1301,PARAUK,Eurasia,Austroasiatic,22.8658,99.375,77,34,43,0,False,False,8,0.4416,0.5584
+para1310,"Arára, Pará",South America,Cariban,-3.71263,-53.0657,17,11,6,0,False,False,3,0.6471,0.3529
+para1311,Guarani,South America,Tupian,-25.60551,-57.08816,36,24,12,0,False,False,11,0.6667,0.3333
+para1312,Parakanã,South America,Tupian,-4.64681,-50.0621,17,12,5,0,False,False,3,0.7059,0.2941
+para1315,Parkateje,South America,Nuclear-Macro-Je,-4.91161,-49.0217,26,10,16,0,False,False,8,0.3846,0.6154
+para1316,Paraujano,South America,Arawakan,10.8427,-71.8399,25,13,12,0,False,False,3,0.52,0.48
+pare1266,Gorum,Eurasia,Austroasiatic,19.075,83.9723,26,16,10,0,False,False,9,0.6154,0.3846
+pare1272,Paresí,South America,Arawakan,-14.5929,-57.4059,19,15,4,0,False,False,2,0.7895,0.2105
+park1239,Podoko,Africa,Afro-Asiatic,11.0206,14.0964,35,31,4,0,False,False,4,0.8857,0.1143
+pate1247,Patep,Papunesia,Austronesian,-6.91988,146.639,44,30,14,0,False,False,7,0.6818,0.3182
+patt1248,Pat̩t̩an̩i,Eurasia,Sino-Tibetan,32.6963,76.5966,44,38,6,0,False,False,7,0.8636,0.1364
+paum1247,Paumarí,South America,Arawan,-5.78403,-64.2803,28,22,6,0,False,False,2,0.7857,0.2143
+pech1241,PAYA,North America,Chibchan,15.8033,-85.558,27,17,10,0,False,False,9,0.6296,0.3704
+pemo1245,Pémono,South America,Cariban,5.248,-66.082,19,12,7,0,False,False,3,0.6316,0.3684
+pemo1248,Pemon,South America,Cariban,4.97031,-61.4033,21,10,11,0,False,False,2,0.4762,0.5238
+peng1244,Pengo,Eurasia,Dravidian,19.3435,83.6552,32,22,10,0,False,False,4,0.6875,0.3125
+pero1241,Pero,Africa,Afro-Asiatic,9.62092,11.044,30,18,10,2,False,True,3,0.6,0.3333
+peta1245,Petats,Papunesia,Austronesian,-5.34068,154.593,30,15,15,0,False,False,3,0.5,0.5
+peve1243,LAME,Africa,Afro-Asiatic,9.16111,14.441,38,30,8,0,False,False,3,0.7895,0.2105
+phai1238,Pray,Eurasia,Austroasiatic,19.0383,101.218,35,17,18,0,False,False,4,0.4857,0.5143
+phal1254,Palula (Phalura),Eurasia,Indo-European,35.5096,71.8421,38,28,10,0,False,False,3,0.7368,0.2632
+phut1244,Phu Tai,Eurasia,Tai-Kadai,17.7544966667,104.684233333,30,21,9,0,False,False,4,0.7,0.3
+piap1246,Piapoco,South America,Arawakan,4.37718,-68.5953,19,15,4,0,False,False,2,0.7895,0.2105
+piar1243,Piaroa,South America,Jodi-Saliban,4.41805,-67.7574,30,23,7,0,False,False,2,0.7667,0.2333
+pich1237,Ashéninka,South America,Arawakan,-10.47249,-74.60281,30,22,8,0,False,False,5,0.7333,0.2667
+picu1248,Tiwa,North America,Kiowa-Tanoan,37.083011,-105.267144,41,26,12,3,False,True,8,0.6341,0.2927
+pila1245,Pilagá,South America,Guaicuruan,-25.0058,-60.1537,22,18,4,0,False,False,3,0.8182,0.1818
+pinj1244,Pinjarup,Australia,Pama-Nyungan,-33.1199,118.151,22,17,5,0,False,False,5,0.7727,0.2273
+pint1250,Pintupi,Australia,Pama-Nyungan,-23.2963,130.643,23,17,6,0,False,False,5,0.7391,0.2609
+piny1238,Pinyin,Africa,Atlantic-Congo,5.7991,10.0682,66,42,19,5,False,True,9,0.6364,0.2879
+pira1254,Piratapuyo,South America,Tucanoan,0.50714,-69.5032,24,12,12,0,False,False,6,0.5,0.5
+pirl1238,Pirlatapa,Australia,Pama-Nyungan,-29.524,139.77,25,22,3,0,False,False,6,0.88,0.12
+pirr1240,Pirriya,Australia,Pama-Nyungan,-25.48006595,142.5485119,24,19,5,0,False,False,6,0.7917,0.2083
+pisa1245,Pisamira,South America,Tucanoan,1.1017,-70.502483,17,11,6,0,False,False,0,0.6471,0.3529
+pite1240,Pite Saami,Eurasia,Uralic,66.4011,17.4261,54,45,9,0,False,False,8,0.8333,0.1667
+pitj1243,Pitjantjatjara,Australia,Pama-Nyungan,-26.9704,131.357,25,17,8,0,False,False,5,0.68,0.32
+pitt1247,Pitta Pitta,Australia,Pama-Nyungan,-22.7952,139.983,26,21,5,0,False,False,6,0.8077,0.1923
+plat1254,Malagasy,Africa,Austronesian,-19.5907,47.1211,36,31,5,0,False,False,2,0.8611,0.1389
+plau1238,Mennonite Plautdietsch,North America,Indo-European,49.578028,-109.353868,54,28,26,0,False,False,4,0.5185,0.4815
+pnar1238,Pnar,Eurasia,Austroasiatic,24.8237,92.2628,39,24,15,0,False,False,5,0.6154,0.3846
+pohn1238,POHNPEIAN,Papunesia,Austronesian,6.87212,158.223,18,12,6,0,False,False,4,0.6667,0.3333
+poko1263,Pokot,Africa,Nilotic,1.57023,35.2318,37,15,19,3,False,True,4,0.4054,0.5135
+poli1260,Polish,Eurasia,Indo-European,51.8439,18.6255,37,31,6,0,False,False,4,0.8378,0.1622
+popt1235,JACALTEC,North America,Mayan,15.6609,-91.6633,32,27,5,0,False,False,3,0.8438,0.1562
+port1283,Portuguese (European),Eurasia,Indo-European,39.91,-8.1,47,19,28,0,False,False,8,0.4043,0.5957
+pott1240,Gadaba,Eurasia,Dravidian,18.5968,82.7586,39,19,20,0,False,False,14,0.4872,0.5128
+poya1241,Poyanáwa,South America,Pano-Tacanan,-7.46909,-73.0758,21,14,7,0,False,False,3,0.6667,0.3333
+prin1242,Principense,Africa,Indo-European,1.614,7.392,31,22,7,2,False,True,3,0.7097,0.2258
+pudi1238,Putijarra,Australia,Pama-Nyungan,-23.350911655789,123.66842240336,23,20,3,0,False,False,6,0.8696,0.1304
+pula1262,Pular,Africa,Atlantic-Congo,12.1826,-12.7338,38,28,10,0,False,False,4,0.7368,0.2632
+pula1263,Pulaar,Africa,Atlantic-Congo,13.8694,-13.4482,38,28,10,0,False,False,4,0.7368,0.2632
+punt1240,Punthamara,Australia,Pama-Nyungan,-27.33,143.0,21,18,3,0,False,False,5,0.8571,0.1429
+puoc1238,Ksingmul,Eurasia,Austroasiatic,20.8862,103.931,38,20,18,0,False,False,4,0.5263,0.4737
+pure1242,Tarascan,North America,Tarascan,19.2467,-101.631,32,26,6,0,False,False,3,0.8125,0.1875
+puri1258,Purki,Eurasia,Sino-Tibetan,34.3386,76.0127,37,31,6,0,False,False,4,0.8378,0.1622
+puri1262,Puri,South America,Puri-Coroado,-22.175627,-44.711336,18,12,6,0,False,False,3,0.6667,0.3333
+puxi1242,Puxi,Eurasia,Sino-Tibetan,32.225,102.63,66,36,30,0,False,False,7,0.5455,0.4545
+pwon1235,Pwo Karen,Eurasia,Sino-Tibetan,18.016,98.2709,52,23,24,5,False,True,5,0.4423,0.4615
+qaqe1238,BAINING,Papunesia,Baining,-4.45258,151.702,22,14,8,0,False,False,3,0.6364,0.3636
+qaua1234,GELAO,Eurasia,Tai-Kadai,26.155438,106.16455,41,30,11,0,False,False,4,0.7317,0.2683
+qawa1238,Alacalufe,South America,Kawesqar,-49.303195,-74.707536,24,18,6,0,False,False,1,0.75,0.25
+qima1242,Agaw,Africa,Afro-Asiatic,12.8119,37.0542,39,28,7,4,False,True,4,0.7179,0.1795
+quec1382,Yuma,North America,Cochimi-Yuman,32.7859,-114.599,38,28,10,0,False,False,4,0.7368,0.2632
+quil1240,QUILEUTE,North America,Chimakuan,47.9106,-124.603,35,32,3,0,False,False,0,0.9143,0.0857
+quio1240,HIGHLAND CHINANTEC,North America,Otomanguean,17.5621,-96.602,37,25,12,0,False,False,14,0.6757,0.3243
+rajb1243,Rājbanshi,Eurasia,Indo-European,26.521945,88.038582,43,34,9,0,False,False,9,0.7907,0.2093
+rama1270,Rama,North America,Chibchan,11.5007,-83.8571,23,17,6,0,False,False,4,0.7391,0.2609
+ravu1237,Yerava,Eurasia,Dravidian,12.3231,75.6265,39,23,16,0,False,False,6,0.5897,0.4103
+rawa1265,Rawang,Eurasia,Sino-Tibetan,27.1027,97.0738,34,20,14,0,False,False,3,0.5882,0.4118
+reel1238,Thok Reel,Africa,Nilotic,6.32234,30.49451,63,20,40,3,False,True,5,0.3175,0.6349
+remb1249,Rembarrnga,Australia,Gunwinyguan,-12.9608,134.308,28,22,6,0,False,False,5,0.7857,0.2143
+rend1243,Rendille,Africa,Afro-Asiatic,2.27065,37.3608,33,21,10,2,False,True,4,0.6364,0.303
+resi1247,Resígaro,South America,Arawakan,-1.169535,-71.60524,37,32,5,0,False,False,6,0.8649,0.1351
+reun1238,Reunionnais,Africa,Indo-European,-21.1131,55.5321,42,30,12,0,False,False,8,0.7143,0.2857
+reye1240,Reyesano,South America,Pano-Tacanan,-14.8333,-67.0833,22,18,4,0,False,False,2,0.8182,0.1818
+rikb1245,Rikbaktsa,South America,Nuclear-Macro-Je,-11.1887,-58.1942,28,14,14,0,False,False,9,0.5,0.5
+rita1239,Ritharrngu,Australia,Pama-Nyungan,-13.4559,135.259,31,25,6,0,False,False,6,0.8065,0.1935
+roma1326,Vallader Romansh,Eurasia,Indo-European,46.5538,9.92812,46,27,19,0,False,False,3,0.587,0.413
+roma1327,Romanian,Eurasia,Indo-European,46.3913,24.2256,51,40,11,0,False,False,4,0.7843,0.2157
+rong1268,Ronga,Africa,Atlantic-Congo,-26.7329,32.6167,69,64,5,0,True,False,9,0.9275,0.0725
+roto1249,ROTOKAS,Papunesia,North Bougainville,-5.94339,155.154,11,6,5,0,False,False,0,0.5455,0.4545
+ruka1240,RUKAI,Papunesia,Austronesian,22.7738,120.844,27,23,4,0,False,False,3,0.8519,0.1481
+rund1242,Rundi,Africa,Atlantic-Congo,-2.94,29.97,29,22,5,2,False,True,3,0.7586,0.1724
+russ1263,Russian,Eurasia,Indo-European,59.0,50.0,42,36,6,0,False,False,4,0.8571,0.1429
+russ1264,Buriat,Eurasia,Mongolic-Khitan,50.8533,105.564,45,27,18,0,False,False,5,0.6,0.4
+rusy1239,Rusyn,Eurasia,Indo-European,48.7171,22.9579,44,37,7,0,False,False,4,0.8409,0.1591
+rutu1240,RUTUL,Eurasia,Nakh-Daghestanian,41.6187,47.3244,59,54,5,0,False,False,2,0.9153,0.0847
+saam1283,Lusaamia,Africa,Atlantic-Congo,0.3652,34.0335,34,20,10,4,False,True,4,0.5882,0.2941
+saan1246,Saanich,North America,Salishan,48.51614,-123.757114,38,34,4,0,False,False,6,0.8947,0.1053
+saba1262,Sabaot,Africa,Nilotic,1.01297,34.6664,31,13,18,0,False,False,4,0.4194,0.5806
+saba1265,Sa'ban,Papunesia,Austronesian,3.58723,115.664,46,38,8,0,False,False,12,0.8261,0.1739
+saba1268,Sabane,South America,Nambiquaran,-12.9857,-60.335,18,13,5,0,False,False,2,0.7222,0.2778
+saek1240,Saek,Eurasia,Tai-Kadai,17.4558,104.787,44,23,21,0,False,False,4,0.5227,0.4773
+saki1248,Sakirabiá; Mekens,South America,Tupian,-13.054,-62.0927,35,15,20,0,False,False,14,0.4286,0.5714
+sala1264,Salar,Eurasia,Turkic,35.5457,102.819,43,31,12,0,False,False,3,0.7209,0.2791
+sala1272,Salasaca Quichua,South America,Quechuan,-1.35447,-78.3953,26,23,3,0,False,False,3,0.8846,0.1154
+sali1298,SALIBA,South America,Jodi-Saliban,5.30115,-69.3843,32,22,10,0,False,False,8,0.6875,0.3125
+samb1305,Samba Leko,Africa,Atlantic-Congo,8.19236,11.7366,34,22,9,3,False,True,4,0.6471,0.2647
+samo1303,Samo,Papunesia,East Strickland,-6.15496,142.195,18,12,6,0,False,False,1,0.6667,0.3333
+samr1245,Samre,Eurasia,Bookkeeping,13.479,103.978,41,20,21,0,False,False,4,0.4878,0.5122
+sang1328,Sango,Africa,Atlantic-Congo,6.78584,20.1702,44,26,12,6,False,True,9,0.5909,0.2727
+sanj1284,"Tlacolula Valley Zapotec; Western Tlacolula Zapotec; Zapotec, San Juan Guelavía",North America,Otomanguean,17.0332,-96.5967,45,27,18,0,False,False,6,0.6,0.4
+sanm1287,HUAVE,North America,Huavean,16.2129,-95.0077,28,22,6,0,False,False,2,0.7857,0.2143
+sanm1289,San Martin Quechua,South America,Quechuan,-6.9582,-76.6608,18,15,3,0,False,False,3,0.8333,0.1667
+sanm1295,Mixtec,North America,Otomanguean,17.046881,-97.622482,32,19,10,3,False,True,9,0.5938,0.3125
+sanm1298,Itunyoso Trique,North America,Otomanguean,17.2428,-97.9202,48,31,8,9,False,True,7,0.6458,0.1667
+sans1269,Sanskrit,Eurasia,Indo-European,20.0,77.0,45,37,8,0,False,False,5,0.8222,0.1778
+sant1410,Santali,Eurasia,Austroasiatic,25.0317,87.8185,57,26,31,0,False,False,10,0.4561,0.5439
+sant1432,Santiago del Estero Quechua,South America,Quechuan,-27.821,-63.2466,25,20,5,0,False,False,3,0.8,0.2
+sanu1240,Sanömá of Kolulu,South America,Yanomamic,4.5,-64.5,31,10,21,0,False,False,9,0.3226,0.6774
+saop1235,"Kaingáng, São Paulo",South America,Nuclear-Macro-Je,-21.771882,-50.429849,27,13,14,0,False,False,9,0.4815,0.5185
+saot1239,Saotomense,Africa,Indo-European,0.28332,6.61935,29,17,12,0,False,False,7,0.5862,0.4138
+sasa1249,Sasak,Papunesia,Austronesian,-8.58349,116.284,30,19,11,0,False,False,4,0.6333,0.3667
+sata1237,Satawalese,Papunesia,Austronesian,7.36084,147.038,42,29,13,0,False,False,8,0.6905,0.3095
+sate1243,Sateré-Mawé,South America,Tupian,-3.63897,-56.8749,27,12,15,0,False,False,7,0.4444,0.5556
+saur1248,Kanigke:rgotti,Eurasia,Indo-European,9.99172,77.9427,42,32,10,0,False,False,4,0.7619,0.2381
+saur1249,Malto,Eurasia,Dravidian,24.8124,87.6432,34,24,10,0,False,False,4,0.7059,0.2941
+saxw1241,"Saxwe, Gbe",Africa,Atlantic-Congo,6.58269,1.92015,38,24,12,2,False,True,8,0.6316,0.3158
+saya1246,Syan,Africa,Afro-Asiatic,9.69441,9.71748,54,39,12,3,False,True,7,0.7222,0.2222
+sayu1241,Popoluca de Sayula,North America,Mixe-Zoque,17.8606,-94.9531,25,19,6,0,False,False,2,0.76,0.24
+scot1243,Scots,Eurasia,Indo-European,55.886945,-3.710133,37,24,13,0,False,False,3,0.6486,0.3514
+scot1245,Scottish Gaelic,Eurasia,Indo-European,56.7574,-5.24366,82,33,49,0,False,False,20,0.4024,0.5976
+seba1251,Gyeto,Africa,Afro-Asiatic,8.11879,37.9891,45,39,6,0,False,False,6,0.8667,0.1333
+seco1241,Secoya,South America,Tucanoan,-0.459785,-75.5547,26,14,12,0,False,False,8,0.5385,0.4615
+seda1262,SEDANG,Eurasia,Austroasiatic,14.7793,108.027,55,41,14,0,False,False,12,0.7455,0.2545
+seim1238,Seimat,Papunesia,Austronesian,-1.2666667,144.25,28,11,17,0,False,False,8,0.3929,0.6071
+sekp1241,Likpe,Africa,Atlantic-Congo,7.16751,0.5886,31,19,9,3,False,True,9,0.6129,0.2903
+sela1259,Selaru,Papunesia,Austronesian,-8.18376,130.961,19,14,5,0,False,False,2,0.7368,0.2632
+sele1249,Sele,Africa,Atlantic-Congo,7.17462,0.42458,33,18,12,3,False,True,12,0.5455,0.3636
+sele1250,Selepet,Papunesia,Nuclear Trans New Guinea,-6.03532,147.234,21,15,6,0,False,False,3,0.7143,0.2857
+selk1253,Taz Selkup,Eurasia,Uralic,59.9409,82.3004,41,16,25,0,False,False,4,0.3902,0.6098
+seme1247,Semelai,Eurasia,Austroasiatic,2.82799,102.806,50,32,18,0,False,False,18,0.64,0.36
+sena1262,Senoufo,Africa,Atlantic-Congo,10.4987,-5.28216,51,19,28,4,False,True,15,0.3725,0.549
+sene1264,Seneca,North America,Iroquoian,42.56,-77.53,27,11,16,0,False,False,6,0.4074,0.5926
+sera1259,Siraiki,Eurasia,Indo-European,29.5534,71.906,82,48,34,0,False,False,17,0.5854,0.4146
+serb1264,Serbian,Eurasia,Indo-European,44.3238,21.9192,34,24,10,0,False,False,3,0.7059,0.2941
+sere1260,Sereer,Africa,Atlantic-Congo,13.8941,-16.3916,43,33,10,0,False,False,4,0.7674,0.2326
+serr1255,Serrano,North America,Uto-Aztecan,33.9479,-116.772,39,30,9,0,False,False,6,0.7692,0.2308
+sgaw1245,Karen,Eurasia,Sino-Tibetan,17.9872,97.7126,39,27,9,3,False,True,4,0.6923,0.2308
+shan1277,Shan,Eurasia,Tai-Kadai,21.5995,98.0342,34,24,10,0,False,False,3,0.7059,0.2941
+shan1282,Shanga,Africa,Mande,11.2752,4.41464,37,22,12,3,False,True,9,0.5946,0.3243
+shan1283,Shanenawa,South America,Pano-Tacanan,-8.00919,-73.3264,18,14,4,0,False,False,2,0.7778,0.2222
+shar1245,Sharanawa,South America,Pano-Tacanan,-9.8626,-71.1232,23,15,8,0,False,False,6,0.6522,0.3478
+shas1239,SHASTA,North America,Shastan,41.7587,-122.738,21,17,4,0,False,False,2,0.8095,0.1905
+shaw1249,Shawnee,North America,Algic,40.0,-83.0,19,13,6,0,False,False,2,0.6842,0.3158
+sheh1240,Jibbali,Eurasia,Afro-Asiatic,17.29154,53.99526,38,30,8,0,False,False,2,0.7895,0.2105
+sher1255,Solu Sherpa,Eurasia,Sino-Tibetan,27.674,86.9994,50,34,16,0,False,False,12,0.68,0.32
+sher1258,Sherbro,Africa,Atlantic-Congo,7.77585,-12.7405,31,24,7,0,False,False,4,0.7742,0.2258
+shil1265,Shilluk,Africa,Nilotic,9.85472,31.7926,54,25,26,3,False,True,5,0.463,0.4815
+shin1264,Shina,Eurasia,Indo-European,34.6515,75.287,48,35,13,0,False,False,4,0.7292,0.2708
+ship1255,Shipibo,South America,Pano-Tacanan,-7.17105,-74.8219,24,16,8,0,False,False,2,0.6667,0.3333
+shix1238,Shixing,Eurasia,Sino-Tibetan,28.3895,100.4,88,51,37,0,False,False,16,0.5795,0.4205
+shon1251,Shona,Africa,Atlantic-Congo,-17.20849,29.75725,42,37,5,0,False,False,4,0.881,0.119
+shua1257,Jivaro,South America,Chicham,-3.45136,-78.1892,24,16,8,0,False,False,7,0.6667,0.3333
+shum1243,Labrang Tibetan,Eurasia,Sino-Tibetan,31.6862,78.3865,50,44,6,0,False,False,4,0.88,0.12
+shus1248,SHUSWAP,North America,Salishan,50.8734,-119.667,42,37,5,0,False,False,4,0.881,0.119
+shwa1239,Cwaya,Africa,Heibanic,11.2708,30.3533,38,25,10,3,False,True,4,0.6579,0.2632
+siar1238,Siar-Lak,Papunesia,Austronesian,-4.62059,152.892,22,15,7,0,False,False,3,0.6818,0.3182
+sich1238,Nuosu,Eurasia,Sino-Tibetan,28.1947,102.121,74,58,16,0,False,False,8,0.7838,0.2162
+sida1246,Sidaama; Sidamo; Sidamic,Africa,Afro-Asiatic,6.74176,38.3729,35,25,10,0,False,False,3,0.7143,0.2857
+sikk1242,Denjongka,Eurasia,Sino-Tibetan,27.85795,88.59153,65,37,28,0,False,False,15,0.5692,0.4308
+siks1238,Blackfoot,North America,Algic,49.0669,-113.109,23,11,12,0,False,False,2,0.4783,0.5217
+silt1240,Silt'i,Africa,Afro-Asiatic,7.77004,38.1449,56,46,10,0,False,False,6,0.8214,0.1786
+sind1272,Sindhi,Eurasia,Indo-European,26.0,69.0,64,47,17,0,False,False,14,0.7344,0.2656
+sinh1246,Sinhalese,Eurasia,Indo-European,8.0,81.0,53,37,16,0,False,False,9,0.6981,0.3019
+sion1247,SIONA,South America,Tucanoan,0.31733,-76.0237,30,18,12,0,False,False,8,0.6,0.4
+sipa1247,Sipakapense Maya,North America,Mayan,15.23054,-91.7041,32,22,10,0,False,False,2,0.6875,0.3125
+siri1273,Sirionó,South America,Tupian,-15.5298,-63.9688,30,18,12,0,False,False,11,0.6,0.4
+siri1274,Siriano,South America,Tucanoan,0.436515,-70.184,23,11,12,0,False,False,6,0.4783,0.5217
+siss1242,Sissala,Africa,Atlantic-Congo,11.0916,-2.38217,51,22,27,2,False,True,13,0.4314,0.5294
+siwi1239,Siwi,Africa,Afro-Asiatic,29.200415,25.519627,38,26,12,0,False,False,3,0.6842,0.3158
+siwu1238,Siwu,Africa,Atlantic-Congo,7.23811,0.44362,37,20,14,3,False,True,10,0.5405,0.3784
+skol1241,Skolt Saami,Eurasia,Uralic,68.8326,29.7204,75,51,24,0,False,False,6,0.68,0.32
+slov1268,Slovene,Eurasia,Indo-European,46.2543,14.7766,37,21,16,0,False,False,2,0.5676,0.4324
+slov1269,Slovak,Eurasia,Indo-European,48.545705,18.78479,45,30,15,0,False,False,3,0.6667,0.3333
+soch1239,Sochiapan Chinantec,North America,Otomanguean,17.7985,-96.6079,37,16,14,7,False,True,10,0.4324,0.3784
+sodd1242,Soddo,Africa,Afro-Asiatic,8.33561,38.4763,40,33,7,0,False,False,4,0.825,0.175
+soma1255,Somali,Africa,Afro-Asiatic,4.778704,45.152856,52,30,20,2,False,True,3,0.5769,0.3846
+soni1259,Sooninke,Africa,Mande,13.1273,-11.7178,52,34,14,4,False,True,11,0.6538,0.2692
+sooo1256,Soo,Africa,Kuliak,2.58367,34.7595,27,17,10,0,False,False,4,0.6296,0.3704
+soqo1240,SOCOTRI,Eurasia,Afro-Asiatic,12.4892,53.9168,33,27,6,0,False,False,2,0.8182,0.1818
+sora1254,Soːra,Eurasia,Austroasiatic,19.1213,84.19,31,21,10,0,False,False,6,0.6774,0.3226
+sout2436,Southwestern Pashto,Eurasia,Indo-European,37.17,68.25,33,26,7,0,False,False,3,0.7879,0.2121
+sout2642,Southern Balochi,Eurasia,Indo-European,26.0,64.0,32,24,8,0,False,False,2,0.75,0.25
+sout2672,Southeastern Pashayi,Eurasia,Indo-European,34.43099,70.30351,38,27,11,0,False,False,3,0.7105,0.2895
+sout2674,SAAMI,Eurasia,Uralic,62.8801,13.7006,45,39,6,0,False,False,7,0.8667,0.1333
+sout2679,Võro,Eurasia,Uralic,57.85,27.0,44,26,18,0,False,False,4,0.5909,0.4091
+sout2697,South Azerbaijani,Eurasia,Turkic,36.5137,48.4302,33,24,9,0,False,False,2,0.7273,0.2727
+sout2729,Southern Pumi,Eurasia,Sino-Tibetan,27.8408,100.622,60,43,17,0,False,False,8,0.7167,0.2833
+sout2746,Southern Tai,Eurasia,Tai-Kadai,6.85668,99.7031,35,22,13,0,False,False,3,0.6286,0.3714
+sout2750,Kolyma Yukaghir,Eurasia,Yukaghir,64.218,154.375,36,20,16,0,False,False,4,0.5556,0.4444
+sout2770,Ngunawal,Australia,Pama-Nyungan,-36.30008261,148.7238073,25,19,6,0,False,False,6,0.76,0.24
+sout2771,Djirringany,Australia,Pama-Nyungan,-37.06227181,149.7169306,25,19,6,0,False,False,6,0.76,0.24
+sout2774,Ijo de l'est; Eastern Ijo,Africa,Ijoid,4.44235,6.32192,44,24,18,2,False,True,12,0.5455,0.4091
+sout2789,Dagaare,Africa,Atlantic-Congo,10.4226,-2.52265,54,24,27,3,False,True,14,0.4444,0.5
+sout2790,Birifor,Africa,Atlantic-Congo,9.2873,-2.72672,47,20,27,0,False,False,12,0.4255,0.5745
+sout2795,Nouni,Africa,Atlantic-Congo,11.5186,-2.14385,60,38,18,4,False,True,14,0.6333,0.3
+sout2807,Sesotho,Africa,Atlantic-Congo,-28.78,27.89,44,35,9,0,True,False,4,0.7955,0.2045
+sout2828,Madi,Africa,Central Sudanic,2.8735,31.25,56,44,9,3,False,True,5,0.7857,0.1607
+sout2832,Luanyjang Dinka,Africa,Nilotic,8.81115,28.0613,63,20,39,4,False,True,5,0.3175,0.619
+sout2833,"Dinka, South Central",Africa,Nilotic,6.7307,30.3021,60,20,37,3,False,True,5,0.3333,0.6167
+sout2840,Bobo,Africa,Mande,11.5409,-4.26497,38,19,19,0,False,False,9,0.5,0.5
+sout2844,Samo de Toma,Africa,Mande,12.713,-2.9052,22,14,8,0,False,False,2,0.6364,0.3636
+sout2856,South Efate,Papunesia,Austronesian,-17.7006,168.377,20,15,5,0,False,False,4,0.75,0.25
+sout2895,Southern Nuautl,Papunesia,Austronesian,-3.23411,129.148,17,12,5,0,False,False,2,0.7059,0.2941
+sout2918,Southern Sama,Papunesia,Austronesian,4.755836,119.483887,23,17,6,0,False,False,4,0.7391,0.2609
+sout2949,SOUTHERN KIWAI,Papunesia,Kiwaian,-8.64889,143.244,19,12,7,0,False,False,2,0.6316,0.3684
+sout2956,Haida,North America,Haida,53.2616,-132.008,50,47,3,0,False,False,6,0.94,0.06
+sout2965,Salish,North America,Salishan,47.263,-122.141,43,36,7,0,False,False,2,0.8372,0.1628
+sout2982,Pomo,North America,Pomoan,38.9354,-122.599,38,27,11,0,False,False,2,0.7105,0.2895
+sout2985,SIERRA MIWOK,North America,Miwok-Costanoan,38.2363,-120.507,21,15,6,0,False,False,3,0.7143,0.2857
+sout2991,Quechua,South America,Quechuan,-20.9201,-66.3331,37,32,5,0,False,False,3,0.8649,0.1351
+sout2994,SOUTHERN NAMBIQUARA,South America,Nambiquaran,-14.3707,-59.5187,42,24,18,0,False,False,10,0.5714,0.4286
+spit1240,Spiti Tibetan,Eurasia,Sino-Tibetan,32.526,77.833,40,33,7,0,False,False,4,0.825,0.175
+spok1245,Spokan,North America,Salishan,47.9087,-118.062,39,34,5,0,False,False,4,0.8718,0.1282
+squa1248,Squamish,North America,Salishan,49.3231,-123.014,37,30,7,0,False,False,2,0.8108,0.1892
+stan1288,Spanish,Eurasia,Indo-European,40.4414,-1.11788,45,19,26,0,False,False,3,0.4222,0.5778
+stan1289,Catalan,Eurasia,Indo-European,41.453,1.569,39,23,16,0,False,False,4,0.5897,0.4103
+stan1290,French,Eurasia,Indo-European,48.0,2.0,40,23,17,0,False,False,8,0.575,0.425
+stan1293,English (New Zealand),Eurasia,Indo-European,53.0,-1.0,45,24,21,0,False,False,3,0.5333,0.4667
+stan1295,GERMAN,Eurasia,Indo-European,48.649,12.4676,40,21,19,0,False,False,3,0.525,0.475
+stan1306,Malay,Eurasia,Austronesian,3.08896,101.699,27,21,6,0,False,False,4,0.7778,0.2222
+stan1318,Arabic,Eurasia,Afro-Asiatic,27.9625,43.8525,37,29,8,0,False,False,2,0.7838,0.2162
+stan1325,Latvian,Eurasia,Indo-European,57.0,24.0,42,26,16,0,False,False,3,0.619,0.381
+stod1241,Tod Tibetan,Eurasia,Sino-Tibetan,32.497,77.116,41,35,6,0,False,False,4,0.8537,0.1463
+suba1252,Kisimbiti,Africa,Atlantic-Congo,-1.103296,34.268,39,23,14,2,False,True,4,0.5897,0.359
+subi1246,Subiya,Africa,Atlantic-Congo,-17.5696,24.8867,51,46,5,0,False,False,8,0.902,0.098
+suda1236,Arabe,Africa,Afro-Asiatic,17.8021,33.3179,60,52,8,0,False,False,4,0.8667,0.1333
+suen1241,SUENA,Papunesia,Nuclear Trans New Guinea,-7.76339,147.534,18,13,5,0,False,False,2,0.7222,0.2778
+suga1248,Nizaa,Africa,Atlantic-Congo,7.12906,12.3779,90,58,23,9,False,True,16,0.6444,0.2556
+suii1243,Sui,Eurasia,Tai-Kadai,24.0488,106.563,61,46,15,0,False,False,12,0.7541,0.2459
+suku1261,Sukuma,Africa,Atlantic-Congo,-3.16082,32.8765,55,36,14,5,False,True,8,0.6545,0.2545
+sumb1240,Sisumbwa,Africa,Atlantic-Congo,-3.47335,31.9457,29,17,10,2,False,True,2,0.5862,0.3448
+sumi1235,Sema,Eurasia,Sino-Tibetan,25.9996,94.4235,49,35,11,3,False,True,8,0.7143,0.2245
+sund1252,Sundanese,Papunesia,Austronesian,-6.89708,107.106,26,19,7,0,False,False,4,0.7308,0.2692
+suri1267,Suri,Africa,Surmic,6.03205,35.0823,31,22,7,2,False,True,4,0.7097,0.2258
+surs1246,Sursurunga,Papunesia,Austronesian,-3.99078,152.768,21,15,6,0,False,False,3,0.7143,0.2857
+suru1262,Suruí,South America,Tupian,-11.0989,-61.2818,29,19,10,0,False,False,9,0.6552,0.3448
+suru1263,Suruahá,South America,Arawan,-6.82525,-66.3146,23,18,5,0,False,False,3,0.7826,0.2174
+susu1250,Soso,Africa,Mande,10.4046,-13.3628,35,21,14,0,False,False,4,0.6,0.4
+suya1243,Tapayuna,South America,Nuclear-Macro-Je,-11.5178,-53.0743,31,15,16,0,False,False,10,0.4839,0.5161
+svan1243,Svan,Eurasia,Kartvelian,42.9134,42.5915,47,30,17,0,False,False,2,0.6383,0.3617
+swah1253,Swahili,Africa,Atlantic-Congo,-8.25605,37.624,36,31,5,0,False,False,6,0.8611,0.1389
+swed1254,Swedish,Eurasia,Indo-European,59.800634,17.389526,35,18,17,0,False,False,3,0.5143,0.4857
+swis1247,Swiss German,Eurasia,Indo-European,47.0516,8.46419,55,26,29,0,False,False,3,0.4727,0.5273
+sydn1236,Eora,Australia,Pama-Nyungan,-33.52925837,150.3490464,19,16,3,0,False,False,5,0.8421,0.1579
+taba1266,Chontal,North America,Mayan,18.1713,-92.7367,37,25,12,0,False,False,8,0.6757,0.3243
+taca1256,TACANA,South America,Pano-Tacanan,-13.39249,-68.04056,22,18,4,0,False,False,2,0.8182,0.1818
+tach1250,Tashlhiyt Berber,Africa,Afro-Asiatic,29.7854,-7.77879,69,66,3,0,False,False,4,0.9565,0.0435
+tada1238,Tadaksahak,Africa,Songhay,16.685,2.32653,70,59,11,0,False,False,8,0.8429,0.1571
+taga1270,Tagalog,Papunesia,Austronesian,14.06,121.747,28,18,10,0,False,False,3,0.6429,0.3571
+tagw1240,Tagwana,Africa,Atlantic-Congo,8.67053,-5.17372,45,23,22,0,False,False,15,0.5111,0.4889
+taha1241,TAMASHEQ,Africa,Afro-Asiatic,22.5908,8.73169,37,25,12,0,False,False,3,0.6757,0.3243
+taid1248,Tay Yo,Eurasia,Tai-Kadai,19.1801,104.938,34,21,13,0,False,False,4,0.6176,0.3824
+taid1249,Tay Daeng,Eurasia,Tai-Kadai,20.4559,104.625,35,20,15,0,False,False,4,0.5714,0.4286
+tain1252,Tai Nuea,Eurasia,Tai-Kadai,21.7837,99.722,29,19,10,0,False,False,3,0.6552,0.3448
+taji1245,Tajik,Eurasia,Indo-European,38.8213,68.5549,29,23,6,0,False,False,2,0.7931,0.2069
+talo1250,JOMANG,Africa,Narrow Talodi,10.6453,30.4815,21,14,7,0,False,False,4,0.6667,0.3333
+tama1331,TAMA,Africa,Tamaic,14.332,21.9951,29,20,9,0,False,False,4,0.6897,0.3103
+tama1365,Tamasheq,Africa,Afro-Asiatic,14.2038,-2.41269,43,22,21,0,False,False,10,0.5116,0.4884
+tami1289,Tamil,Eurasia,Dravidian,10.520219,78.825989,43,32,11,0,False,False,6,0.7442,0.2558
+tamn1235,Asmat,Papunesia,Nuclear Trans New Guinea,-5.57962,139.233,19,14,5,0,False,False,2,0.7368,0.2632
+tamp1252,TAMPULMA,Africa,Atlantic-Congo,9.75577,-1.35467,33,24,9,0,False,False,5,0.7273,0.2727
+tana1290,Tanacross,North America,Athabaskan-Eyak-Tlingit,63.4046,-143.338,54,35,14,5,False,True,7,0.6481,0.2593
+tang1336,Tangkul Naga,Eurasia,Sino-Tibetan,25.0489,94.3567,40,27,13,0,False,False,3,0.675,0.325
+tani1257,Tanimuca-Retuarã,South America,Tucanoan,-0.59023,-70.3853,21,11,10,0,False,False,5,0.5238,0.4762
+tapi1253,Tapieté,South America,Tupian,-21.4169,-62.684,27,15,12,0,False,False,6,0.5556,0.4444
+tapi1254,Tapirapé,South America,Tupian,-10.5373,-50.5438,23,13,10,0,False,False,8,0.5652,0.4348
+tari1256,Tariana,South America,Arawakan,0.440205,-68.9042,38,23,15,0,False,False,11,0.6053,0.3947
+taro1263,Tarok,Africa,Atlantic-Congo,8.98356,10.0288,37,27,7,3,False,True,4,0.7297,0.1892
+taro1264,Sedik,Papunesia,Austronesian,23.9032,121.358,43,33,10,0,False,False,4,0.7674,0.2326
+tase1235,Tangsa,Eurasia,Sino-Tibetan,27.2572,96.3855,29,23,6,0,False,False,3,0.7931,0.2069
+tata1255,Tatar,Eurasia,Turkic,55.0,50.0,43,29,14,0,False,False,3,0.6744,0.3256
+tata1257,Tatana''; Tatanaq; Tatana',Papunesia,Austronesian,5.49808,115.553,21,17,4,0,False,False,4,0.8095,0.1905
+tatu1247,Tatuyo,South America,Tucanoan,0.55582,-70.5327,17,11,6,0,False,False,0,0.6471,0.3529
+taus1251,Tausug,Papunesia,Austronesian,5.12236,118.88,23,20,3,0,False,False,4,0.8696,0.1304
+tawa1286,Tamajaq,Africa,Afro-Asiatic,13.9878,4.47692,37,23,14,0,False,False,3,0.6216,0.3784
+teda1241,Teda,Africa,Saharan,18.0426,14.7717,35,24,11,0,False,False,4,0.6857,0.3143
+tedi1235,TIDDIM CHIN,Eurasia,Sino-Tibetan,23.6079,93.519,26,21,5,0,False,False,3,0.8077,0.1923
+teee1242,Tee,Africa,Atlantic-Congo,4.73213,7.37553,38,23,12,3,False,True,9,0.6053,0.3158
+teen1242,Téén,Africa,Atlantic-Congo,9.84556,-3.71183,38,28,10,0,False,False,4,0.7368,0.2632
+tehu1242,TEHUELCHE,South America,Chonan,-47.5796,-68.3235,35,28,7,0,False,False,2,0.8,0.2
+teke1280,TEKE,Africa,Atlantic-Congo,-2.27122,14.4407,27,20,7,0,False,False,5,0.7407,0.2593
+tele1256,Telefol,Papunesia,Nuclear Trans New Guinea,-5.07444,141.731,27,17,8,2,False,True,3,0.6296,0.2963
+telu1262,Telugu,Eurasia,Dravidian,16.4529,78.7024,68,47,21,0,False,False,5,0.6912,0.3088
+temb1276,Tembé,South America,Tupian,-2.6123,-48.2359,21,14,7,0,False,False,4,0.6667,0.3333
+temi1246,Temiar,Eurasia,Austroasiatic,4.974,101.438,49,19,30,0,False,False,16,0.3878,0.6122
+temm1241,Tem,Africa,Atlantic-Congo,8.967,1.136,36,25,9,2,False,True,5,0.6944,0.25
+tena1240,Tena Quechua,South America,Quechuan,-0.76271,-77.5404,24,21,3,0,False,False,3,0.875,0.125
+teng1272,Tengger,Papunesia,Austronesian,-7.89069,113.037,42,20,22,0,False,False,4,0.4762,0.5238
+tenh1241,Tenharim,South America,Tupian,-7.92626,-61.936,26,14,12,0,False,False,11,0.5385,0.4615
+tepo1239,Kroumen Tépo,Africa,Atlantic-Congo,5.16267,-7.66346,39,17,18,4,False,True,9,0.4359,0.4615
+tera1251,Tera,Africa,Afro-Asiatic,11.0376,11.80953,53,35,15,3,False,True,4,0.6604,0.283
+tere1279,Terêna,South America,Arawakan,-20.6614,-56.0329,23,13,10,0,False,False,2,0.5652,0.4348
+tern1247,Ternate,Papunesia,North Halmahera,0.80562,127.333,24,19,5,0,False,False,4,0.7917,0.2083
+ters1235,Ter Saami,Eurasia,Uralic,67.2458,38.5061,69,51,18,0,False,False,6,0.7391,0.2609
+tese1238,These,Africa,Temeinic,11.3885,29.5803,47,24,18,5,False,True,7,0.5106,0.383
+tetu1245,Tetun,Papunesia,Austronesian,-9.11217,125.528,18,13,5,0,False,False,2,0.7222,0.2778
+tewa1260,Tewa,North America,Kiowa-Tanoan,35.9053,-106.124,57,34,19,4,False,True,11,0.5965,0.3333
+texi1237,Texistepec Popoluca,North America,Mixe-Zoque,17.8926,-94.8076,27,17,10,0,False,False,4,0.6296,0.3704
+thad1238,Thaadou,Eurasia,Sino-Tibetan,24.096,93.722,34,23,8,3,False,True,3,0.6765,0.2353
+thai1261,Thai,Eurasia,Tai-Kadai,14.192,100.671,47,21,21,5,False,True,3,0.4468,0.4468
+thak1245,Thakali,Eurasia,Sino-Tibetan,28.7014,83.6466,29,19,10,0,False,False,3,0.6552,0.3448
+thay1248,Awu Alaya,Australia,Pama-Nyungan,-14.8292,143.324,31,23,8,0,False,False,5,0.7419,0.2581
+thay1249,Thaayorre,Australia,Pama-Nyungan,-14.8159,142.034,26,16,10,0,False,False,5,0.6154,0.3846
+thii1234,Thiin,Australia,Pama-Nyungan,-23.71156576435,116.68011572516,26,20,6,0,False,False,6,0.7692,0.2308
+thul1246,Thulung; Thulung Rai,Eurasia,Sino-Tibetan,27.5389,87.6063,34,26,8,0,False,False,3,0.7647,0.2353
+thur1254,Dharumba,Australia,Pama-Nyungan,-34.634,150.721,25,19,6,0,False,False,6,0.76,0.24
+tiag1235,"Aizi, Tiagba",Africa,Atlantic-Congo,5.28022,-4.62352,30,22,8,0,False,False,4,0.7333,0.2667
+tibe1272,Shigatse Tibetan,Eurasia,Sino-Tibetan,28.3681,90.1872,56,27,29,0,False,False,18,0.4821,0.5179
+ticu1245,Ticuna,South America,Ticuna-Yuri,-3.66289,-69.8723,38,18,11,9,False,True,9,0.4737,0.2895
+tiey1235,Tigemaxo Bozo,Africa,Mande,14.1223,-5.08609,36,19,14,3,False,True,11,0.5278,0.3889
+tiga1245,TIGAK,Papunesia,Austronesian,-2.70951,150.893,17,12,5,0,False,False,3,0.7059,0.2941
+tigo1236,Mbembe,Africa,Atlantic-Congo,6.983995,10.70849,116,99,12,5,False,True,8,0.8534,0.1034
+tigr1270,Tigre,Africa,Afro-Asiatic,17.3494,38.2233,54,47,7,0,False,False,4,0.8704,0.1296
+tigr1271,Tigrinya,Africa,Afro-Asiatic,15.3359,38.9266,65,58,7,0,False,False,6,0.8923,0.1077
+tika1246,Tikar,Africa,Atlantic-Congo,5.87004,11.6104,46,27,14,5,False,True,4,0.587,0.3043
+tilq1235,Tilquiapan Zapotec,North America,Otomanguean,16.8529,-96.6321,28,20,6,2,False,True,2,0.7143,0.2143
+timn1235,Temne,Africa,Atlantic-Congo,8.90294,-12.3331,36,19,15,2,False,True,3,0.5278,0.4167
+tinp1237,Tinputz,Papunesia,Austronesian,-5.58358,154.972,26,12,14,0,False,False,2,0.4615,0.5385
+tira1254,Tira,Africa,Heibanic,11.0963,30.8092,42,26,16,0,False,False,4,0.619,0.381
+tiru1241,TIRURAY,Papunesia,Austronesian,6.77321,124.127,22,16,6,0,False,False,3,0.7273,0.2727
+tivv1240,Tiv,Africa,Atlantic-Congo,6.88039,9.26287,40,31,6,3,False,True,4,0.775,0.15
+tlac1235,Tepehua,North America,Totonacan,20.704,-98.1947,31,21,10,0,False,False,2,0.6774,0.3226
+tlin1245,TLINGIT,North America,Athabaskan-Eyak-Tlingit,59.4447,-135.29,48,43,5,0,False,False,1,0.8958,0.1042
+toar1246,TAORIPI,Papunesia,Eleman,-8.07231,146.206,14,8,6,0,False,False,1,0.5714,0.4286
+toba1269,Toba,South America,Guaicuruan,-23.77,-61.96,28,20,8,0,False,False,3,0.7143,0.2857
+toca1235,Asuriní do Tocantins,South America,Tupian,-3.59359,-49.8991,16,11,5,0,False,False,3,0.6875,0.3125
+toch1257,Tocco,Africa,Narrow Talodi,10.8828,30.1567,26,14,10,2,False,True,5,0.5385,0.3846
+toda1252,Toda,Eurasia,Dravidian,11.4184,77.0168,53,38,15,0,False,False,3,0.717,0.283
+tofi1235,Tɔfin,Africa,Atlantic-Congo,6.51774,2.43226,40,22,14,4,False,True,10,0.55,0.35
+toho1245,Pima,North America,Uto-Aztecan,31.7973,-111.995,29,19,10,0,False,False,3,0.6552,0.3448
+toll1241,TOL,North America,Jicaquean,14.6686,-87.0372,28,22,6,0,False,False,3,0.7857,0.2143
+tolo1259,Chasta Costa,North America,Athabaskan-Eyak-Tlingit,41.9192,-124.1,44,29,15,0,False,False,10,0.6591,0.3409
+tong1318,Shanjo,Africa,Atlantic-Congo,-17.422325,27.103495,39,31,5,3,False,True,4,0.7949,0.1282
+tong1325,Tongan; Tonga,Papunesia,Austronesian,-21.17,-175.25,17,12,5,0,False,False,3,0.7059,0.2941
+topo1242,Toposa,Africa,Nilotic,5.15904,34.2159,27,17,9,1,False,True,4,0.6296,0.3333
+toro1252,Dogon,Africa,Dogon,14.40749,-3.10006,42,21,21,0,False,False,11,0.5,0.5
+torw1241,Torwali,Eurasia,Indo-European,35.3101,72.5316,47,34,13,0,False,False,9,0.7234,0.2766
+tosk1239,Tosk Albanian,Eurasia,Indo-European,41.0,20.0,38,29,9,0,False,False,3,0.7632,0.2368
+tote1238,Totela,Africa,Atlantic-Congo,-16.9575,24.3751,54,44,10,0,False,False,8,0.8148,0.1852
+toto1305,MIXE,North America,Mixe-Zoque,17.2157,-96.0179,23,14,9,0,False,False,2,0.6087,0.3913
+tour1242,Toura,Africa,Mande,7.76747,-7.33105,50,19,27,4,False,True,10,0.38,0.54
+trin1274,Trinitario,South America,Arawakan,-15.3331,-65.4096,30,18,12,0,False,False,3,0.6,0.4
+trio1238,Trió,South America,Cariban,2.53616,-55.7599,24,10,14,0,False,False,2,0.4167,0.5833
+tsam1247,Ts'amakko,Africa,Afro-Asiatic,5.3097,36.9139,68,56,10,2,False,True,6,0.8235,0.1471
+tsha1245,Tshangla,Eurasia,Sino-Tibetan,27.3694,91.7741,39,32,7,0,False,False,4,0.8205,0.1795
+tsot1241,Lutsootso,Africa,Atlantic-Congo,0.2975,34.6961,31,19,10,2,False,True,4,0.6129,0.3226
+tsou1248,TSOU,Papunesia,Austronesian,23.216,120.787,21,15,6,0,False,False,3,0.7143,0.2857
+tsuv1239,Tsuvaɗi,Africa,Atlantic-Congo,10.8421,5.22095,55,28,24,3,False,True,17,0.5091,0.4364
+tuca1252,Tucano,South America,Tucanoan,0.579755,-69.5763,27,15,12,0,False,False,6,0.5556,0.4444
+tuka1248,Tukang Besi,Papunesia,Austronesian,-5.30994,123.578,27,22,5,0,False,False,3,0.8148,0.1852
+tuki1240,Tuki,Africa,Atlantic-Congo,4.64348,11.5353,38,25,9,4,False,True,4,0.6579,0.2368
+tuli1249,Tulishi,Africa,Kadugli-Krongo,11.4507,29.108,57,35,19,3,False,True,7,0.614,0.3333
+tulu1258,TULU,Eurasia,Dravidian,12.8114,75.2651,37,24,13,0,False,False,5,0.6486,0.3514
+tumt1243,Talasa,Africa,Kadugli-Krongo,10.6378,30.4128,52,36,14,2,False,True,8,0.6923,0.2692
+tune1261,Nen,Africa,Atlantic-Congo,4.75,10.67,26,17,7,2,False,True,4,0.6538,0.2692
+tuni1251,Tounia,Africa,Atlantic-Congo,9.42506,18.2059,39,24,12,3,False,True,9,0.6154,0.3077
+tupa1250,Tuparí,South America,Tupian,-11.8884,-62.2544,29,14,15,0,False,False,8,0.4828,0.5172
+tupi1273,Tupinambá,South America,Tupian,-22.807778,-42.106389,25,13,12,0,False,False,9,0.52,0.48
+tupu1244,Tupuri,Africa,Atlantic-Congo,10.0144,14.8697,56,28,24,4,False,True,14,0.5,0.4286
+turk1304,Turkmen,Eurasia,Turkic,37.0872,59.1757,37,21,16,0,False,False,3,0.5676,0.4324
+tuuu1240,Mongghul,Eurasia,Mongolic-Khitan,36.8177,102.117,35,25,10,0,False,False,3,0.7143,0.2857
+tuvi1240,Tuvan,Eurasia,Turkic,51.7,94.36667,52,28,24,0,False,False,3,0.5385,0.4615
+tuyu1244,Tuyuca,South America,Tucanoan,0.39441,-70.043515,23,11,12,0,False,False,6,0.4783,0.5217
+twee1234,BANDJALANG,Australia,Pama-Nyungan,-28.028726,153.286993,15,12,3,0,False,False,4,0.8,0.2
+tyan1235,Thaynakwithi,Australia,Pama-Nyungan,-12.544,141.984,29,19,10,0,False,False,5,0.6552,0.3448
+tzel1254,Tzeltal,North America,Mayan,16.6384,-92.2786,30,25,5,0,False,False,2,0.8333,0.1667
+tzot1259,"Tzotzil, Chamula",North America,Mayan,16.6362,-92.7388,26,21,5,0,False,False,2,0.8077,0.1923
+tzut1248,Tzutujil,North America,Mayan,14.6351,-91.2012,32,22,10,0,False,False,2,0.6875,0.3125
+ucay1237,Ashéninka,South America,Arawakan,-9.49424,-73.1836,32,24,8,0,False,False,5,0.75,0.25
+udih1248,Udihe,Eurasia,Tungusic,46.6309,135.678,40,19,21,0,False,False,4,0.475,0.525
+udmu1245,Udmurt,Eurasia,Uralic,56.12921,52.63548,37,28,9,0,False,False,4,0.7568,0.2432
+uduk1239,Twampa,Africa,Koman,9.16012,34.2293,28,23,5,0,False,False,2,0.8214,0.1786
+uigh1240,Uyghur,Eurasia,Turkic,43.88,87.38,43,28,15,0,False,False,3,0.6512,0.3488
+ukra1253,Ukrainian,Eurasia,Indo-European,49.796,29.945,41,35,6,0,False,False,3,0.8537,0.1463
+ulku1238,Olkol,Australia,Pama-Nyungan,-16.6807,143.53,28,23,5,0,False,False,5,0.8214,0.1786
+ulwa1239,Sumo,North America,Misumalpan,12.932292,-83.581467,27,21,6,0,False,False,6,0.7778,0.2222
+umbu1256,Umbuygamu,Australia,Pama-Nyungan,-14.25876,143.6305,32,27,5,0,False,False,5,0.8438,0.1562
+umbu1257,umbundu,Africa,Atlantic-Congo,-12.4763,14.4148,30,20,10,0,False,False,14,0.6667,0.3333
+umii1236,Umiida,Australia,Worrorran,-16.615461,124.079216,25,20,5,0,False,False,6,0.8,0.2
+umot1240,Umotína,South America,Bororoan,-15.5929,-57.4192,20,12,8,0,False,False,2,0.6,0.4
+umpi1239,Umpila,Australia,Pama-Nyungan,-13.1528,143.467,22,16,6,0,False,False,5,0.7273,0.2727
+unam1242,Delaware,North America,Algic,35.0264,-98.3201,39,22,17,0,False,False,10,0.5641,0.4359
+ungg1243,Unggumi,Australia,Worrorran,-15.65,124.67,24,19,5,0,False,False,6,0.7917,0.2083
+uppe1395,Upper Sorbian,Eurasia,Indo-European,51.2403,14.4098,42,33,9,0,False,False,4,0.7857,0.2143
+uppe1400,Upper Saxon,Eurasia,Indo-European,51.152,12.692,35,15,20,0,False,False,3,0.4286,0.5714
+uppe1439,UPPER CHEHALIS,North America,Salishan,46.7981,-123.169,31,27,4,0,False,False,2,0.871,0.129
+uppe1455,Kriyol,Africa,Indo-European,13.2335066667,-15.33254,22,17,5,0,False,False,3,0.7727,0.2273
+ural1274,Urali,Eurasia,Dravidian,10.8519,76.8007,46,26,20,0,False,False,4,0.5652,0.4348
+urdu1245,Urdu,Eurasia,Indo-European,25.0,67.0,58,37,21,0,False,False,12,0.6379,0.3621
+urii1240,Urii,Papunesia,Nuclear Trans New Guinea,-6.41993,146.608,24,16,8,0,False,False,3,0.6667,0.3333
+urni1239,Urningangg,Australia,Giimbiyu,-13.4766,133.023,23,18,5,0,False,False,5,0.7826,0.2174
+urub1250,Kaapor,South America,Tupian,-2.46455,-46.2204,26,15,11,0,False,False,9,0.5769,0.4231
+urue1240,Uru-Eu-Wau-Wau,South America,Tupian,-10.9176,-63.8086,26,14,12,0,False,False,11,0.5385,0.4615
+uruu1244,Uru,South America,Uru-Chipaya,-16.72547,-68.97119,33,23,10,0,False,False,3,0.697,0.303
+usan1239,USAN,Papunesia,Nuclear Trans New Guinea,-4.84265,145.362,20,14,6,0,False,False,2,0.7,0.3
+usar1243,Usarufa,Papunesia,Nuclear Trans New Guinea,-6.38898,145.633,22,17,5,0,False,False,6,0.7727,0.2273
+utes1238,Southern Ute; Ute; Ute-Southern Paiute,North America,Uto-Aztecan,40.0965,-110.305,37,19,18,0,False,False,2,0.5135,0.4865
+vaag1238,Vaagri Boli,Eurasia,Indo-European,12.215,79.5335,37,23,14,0,False,False,8,0.6216,0.3784
+vach1239,Eastern Khanty,Eurasia,Uralic,60.10378,79.873651,30,18,12,0,False,False,5,0.6,0.4
+vagl1239,Vagala,Africa,Atlantic-Congo,9.33848,-2.31333,54,24,30,0,False,False,15,0.4444,0.5556
+vaii1241,Vai,Africa,Mande,7.05085,-11.3262,43,28,11,4,False,True,8,0.6512,0.2558
+vame1236,Vame,Africa,Afro-Asiatic,10.9481,14.2131,46,38,5,3,False,True,4,0.8261,0.1087
+vani1248,VANIMO,Papunesia,Sko,-2.68501,141.258,28,12,16,0,False,False,11,0.4286,0.5714
+varl1238,Varli,Eurasia,Indo-European,20.5635,73.2975,46,28,18,0,False,False,11,0.6087,0.3913
+veng1238,Babungo,Africa,Atlantic-Congo,6.11403,10.4137,82,56,17,9,False,True,8,0.6829,0.2073
+veps1250,Veps,Eurasia,Uralic,60.3353,34.7865,44,34,10,0,False,False,4,0.7727,0.2273
+viet1252,Vietnamese,Eurasia,Austroasiatic,20.681188,105.774071,45,21,16,8,False,True,4,0.4667,0.3556
+vlax1238,Vlax Romani,Eurasia,Indo-European,46.09,18.16,34,27,7,0,False,False,2,0.7941,0.2059
+voti1245,Votic,Eurasia,Uralic,59.3802,28.6235,55,35,20,0,False,False,4,0.6364,0.3636
+vute1244,Vute,Africa,Atlantic-Congo,6.13603,11.8839,59,30,24,5,False,True,12,0.5085,0.4068
+waal1238,Waalubal,Australia,Pama-Nyungan,-29.042737,152.780249,20,12,8,0,False,False,4,0.6,0.4
+waam1244,Waama,Africa,Atlantic-Congo,10.5956,1.65318,41,13,25,3,False,True,13,0.3171,0.6098
+wadi1260,Wathi Wathi,Australia,Pama-Nyungan,-34.13829932,143.6694397,21,17,4,0,False,False,6,0.8095,0.1905
+wadi1261,Wadikali,Australia,Pama-Nyungan,-29.49049805,140.9591946,27,21,6,0,False,False,6,0.7778,0.2222
+waga1260,Western Wakaya,Australia,Pama-Nyungan,-20.329,137.623,26,20,6,0,False,False,6,0.7692,0.2308
+waim1251,RORO,Papunesia,Austronesian,-8.67145,146.544,14,9,5,0,False,False,2,0.6429,0.3571
+waim1253,Waimiri-Atroarí,South America,Cariban,-0.61832,-60.4259,27,16,11,0,False,False,3,0.5926,0.4074
+waim1255,Barasano,South America,Tucanoan,0.30416,-70.1644,25,11,12,2,False,True,6,0.44,0.48
+waiw1244,Waiwai,South America,Cariban,1.50881,-59.1417,20,14,6,0,False,False,3,0.7,0.3
+waja1257,Watjarri,Australia,Pama-Nyungan,-28.1761,117.153,26,20,6,0,False,False,6,0.7692,0.2308
+waju1234,Wajuk,Australia,Pama-Nyungan,-33.1199,118.151,22,17,5,0,False,False,5,0.7727,0.2273
+waka1274,Waka Waka,Australia,Pama-Nyungan,-26.248,151.868,23,13,10,0,False,False,4,0.5652,0.4348
+wakh1245,Wakhi,Eurasia,Indo-European,37.1768,73.9777,50,38,12,0,False,False,2,0.76,0.24
+wala1263,Walangama,Australia,Pama-Nyungan,-17.60243295,142.4891266,28,19,9,0,False,False,5,0.6786,0.3214
+walm1241,Walmajarri,Australia,Pama-Nyungan,-19.7229,126.113,23,17,6,0,False,False,5,0.7391,0.2609
+walu1241,Walungge,Eurasia,Sino-Tibetan,27.695,87.2374,46,32,14,0,False,False,4,0.6957,0.3043
+wamb1258,Wambaya,Australia,Mirndi,-17.496,135.683,23,17,6,0,False,False,5,0.7391,0.2609
+wamb1259,Wambon,Papunesia,Nuclear Trans New Guinea,-5.44334,140.48,26,16,10,0,False,False,2,0.6154,0.3846
+wame1240,KONYAGI,Africa,Atlantic-Congo,12.5421,-13.177,44,37,7,0,False,False,7,0.8409,0.1591
+wami1239,Agwamin,Australia,Pama-Nyungan,-18.3727,143.943,21,15,6,0,False,False,5,0.7143,0.2857
+wand1263,Warndarrang,Australia,Mangarrayi-Maran,-14.2996,135.705,20,17,3,0,False,False,5,0.85,0.15
+wand1278,Mandara,Africa,Afro-Asiatic,11.3169,13.8996,52,45,5,2,False,True,5,0.8654,0.0962
+wane1241,Waneci,Eurasia,Indo-European,30.0501,67.8327,30,23,7,0,False,False,3,0.7667,0.2333
+wang1288,Wangkajunga,Australia,Pama-Nyungan,-23.350911655789,123.66842240336,23,17,6,0,False,False,5,0.7391,0.2609
+wang1289,Wangkayutyuru,Australia,Pama-Nyungan,-24.7022,137.433,26,21,5,0,False,False,6,0.8077,0.1923
+wang1290,Wangkangurru,Australia,Pama-Nyungan,-25.8148,135.941,24,21,3,0,False,False,6,0.875,0.125
+wang1291,Ngiyambaa,Australia,Pama-Nyungan,-30.6481,146.18,21,15,6,0,False,False,5,0.7143,0.2857
+wanm1242,Warnman,Australia,Pama-Nyungan,-22.7078,122.325,23,17,6,0,False,False,5,0.7391,0.2609
+wann1242,Wan,Africa,Mande,7.88773,-5.82092,36,21,12,3,False,True,6,0.5833,0.3333
+want1252,WANTOAT,Papunesia,Nuclear Trans New Guinea,-6.15216,146.513,21,14,7,0,False,False,4,0.6667,0.3333
+wany1244,Wanyjirra,Australia,Pama-Nyungan,-17.0329,130.379,21,17,4,0,False,False,5,0.8095,0.1905
+wany1247,Waanyi,Australia,Garrwan,-18.6529,137.608,20,14,6,0,False,False,4,0.7,0.3
+wapi1253,Wapishana,South America,Arawakan,2.58744,-59.8021,29,17,12,0,False,False,6,0.5862,0.4138
+wapp1239,WAPPO,North America,Yuki-Wappo,38.25,-122.5,29,24,5,0,False,False,4,0.8276,0.1724
+wara1290,WARAY,Australia,Gunwinyguan,-13.0941,131.236,21,16,5,0,False,False,4,0.7619,0.2381
+ward1246,Wardaman,Australia,Yangmanic,-15.4155,132.604,22,17,5,0,False,False,5,0.7727,0.2273
+ward1248,Wardandi,Australia,Pama-Nyungan,-33.1199,118.151,22,17,5,0,False,False,5,0.7727,0.2273
+wari1262,Warriyangga,Australia,Pama-Nyungan,-24.353,116.927,26,20,6,0,False,False,6,0.7692,0.2308
+wari1266,WARIS,Papunesia,Border,-3.139,140.931,22,13,9,0,False,False,0,0.5909,0.4091
+wari1268,Wari',South America,Chapacuran,-10.69948,-64.56152,21,15,6,0,False,False,4,0.7143,0.2857
+warl1254,Warlpiri,Australia,Pama-Nyungan,-20.1008,131.05,24,18,6,0,False,False,5,0.75,0.25
+warl1255,Warlmanpa,Australia,Pama-Nyungan,-18.949,133.862,28,22,6,0,False,False,5,0.7857,0.2143
+warl1256,Warluwarra,Australia,Pama-Nyungan,-22.2909,138.738,33,29,4,0,False,False,6,0.8788,0.1212
+warr1255,Warrgamay,Australia,Pama-Nyungan,-18.5468,146.179,19,13,6,0,False,False,4,0.6842,0.3158
+warr1257,Warrnambool,Australia,Pama-Nyungan,-38.155612905976,141.53965852318,26,20,6,0,False,False,6,0.7692,0.2308
+warr1258,Warrwa,Australia,Nyulnyulan,-17.0965,123.971,20,17,3,0,False,False,5,0.85,0.15
+waru1264,Warungu,Australia,Pama-Nyungan,-18.2496,144.37,17,13,4,0,False,False,4,0.7647,0.2353
+waru1265,Warumungu,Australia,Pama-Nyungan,-20.6479,134.375,28,22,6,0,False,False,5,0.7857,0.2143
+wath1238,Wathawurrung,Australia,Pama-Nyungan,-37.68777565,144.1013148,23,20,3,0,False,False,6,0.8696,0.1304
+waur1244,Waurá,South America,Arawakan,-13.296,-53.6971,26,16,10,0,False,False,7,0.6154,0.3846
+wawa1246,Wawa,Africa,Atlantic-Congo,6.68974,11.7802,49,30,16,3,False,True,5,0.6122,0.3265
+waya1269,Wayana,South America,Cariban,2.77537,-54.4429,16,9,7,0,False,False,2,0.5625,0.4375
+waya1270,Wayampi,South America,Tupian,1.73817,-52.6887,26,14,12,0,False,False,10,0.5385,0.4615
+wayi1238,Wayilwan,Australia,Pama-Nyungan,-30.6481,146.18,21,15,6,0,False,False,5,0.7143,0.2857
+wayu1241,Hayu,Eurasia,Sino-Tibetan,27.3047,86.1227,54,26,28,0,False,False,17,0.4815,0.5185
+wayu1243,Goajiro,South America,Arawakan,11.395566,-72.199791,46,28,18,0,False,False,11,0.6087,0.3913
+wehh1238,Weh,Africa,Atlantic-Congo,6.46164,10.121,45,35,7,3,False,True,4,0.7778,0.1556
+wels1247,Welsh,Eurasia,Indo-European,52.0,-4.0,48,29,19,0,False,False,6,0.6042,0.3958
+wemb1241,Wemba Wemba,Australia,Pama-Nyungan,-35.445,144.09,22,16,6,0,False,False,5,0.7273,0.2727
+weno1238,Wobé,Africa,Atlantic-Congo,7.40391,-7.24617,48,15,27,6,False,True,9,0.3125,0.5625
+werg1234,Piangil,Australia,Pama-Nyungan,-34.13829932,143.6694397,21,17,4,0,False,False,6,0.8095,0.1905
+west2354,Frisian,Eurasia,Indo-European,53.143,5.86091,51,19,32,0,False,False,3,0.3725,0.6275
+west2368,Western Balochi,Eurasia,Indo-European,37.83,62.17,44,24,20,0,False,False,11,0.5455,0.4545
+west2369,FARSI,Eurasia,Indo-European,32.9,53.3,30,24,6,0,False,False,2,0.8,0.2
+west2392,Hill Mari,Eurasia,Uralic,56.22,46.569,34,24,10,0,False,False,4,0.7059,0.2941
+west2397,BRUU,Eurasia,Austroasiatic,16.4906,104.754,42,20,22,0,False,False,4,0.4762,0.5238
+west2408,Muria Gondi,Eurasia,Dravidian,20.2384,80.7006,26,21,5,0,False,False,3,0.8077,0.1923
+west2437,Ngardily,Australia,Pama-Nyungan,-20.1008,131.05,24,18,6,0,False,False,5,0.75,0.25
+west2441,Western Arrernte,Australia,Pama-Nyungan,-24.05052,133.24621,44,40,4,0,False,False,12,0.9091,0.0909
+west2442,Western Anmatyerre,Australia,Pama-Nyungan,-22.2853,133.286,44,40,4,0,False,False,12,0.9091,0.0909
+west2443,East Djadjawurung,Australia,Pama-Nyungan,-34.13829932,143.6694397,21,17,4,0,False,False,5,0.8095,0.1905
+west2450,Limba,Africa,Atlantic-Congo,9.52392,-12.3138,24,17,7,0,False,False,3,0.7083,0.2917
+west2454,Fulfulde,Africa,Atlantic-Congo,14.2471,-0.52004,32,27,5,0,False,False,4,0.8438,0.1562
+west2456,western xwla,Africa,Atlantic-Congo,6.33455,2.03904,45,29,13,3,False,True,12,0.6444,0.2889
+west2458,"Banda, West Central",Africa,Atlantic-Congo,6.81435,24.1012,46,31,10,5,False,True,3,0.6739,0.2174
+west2466,Karaboro,Africa,Atlantic-Congo,10.6298,-4.76482,45,20,21,4,False,True,10,0.4444,0.4667
+west2500,Mande,Africa,Mande,13.5677,-12.8009,27,20,7,0,False,False,4,0.7407,0.2593
+west2560,"Bajau, West Coast; Land Bajaw; West Coast Bajao",Papunesia,Austronesian,6.00631,116.124,23,17,6,0,False,False,4,0.7391,0.2609
+west2600,WEST MAKIAN,Papunesia,North Halmahera,0.45332,127.63,22,17,5,0,False,False,4,0.7727,0.2273
+west2632,ACOMA,North America,Keresan,34.9733,-107.517,51,39,12,0,False,False,4,0.7647,0.2353
+west2644,CHATINO,North America,Otomanguean,16.2495,-97.3244,25,16,9,0,False,False,6,0.64,0.36
+wich1260,Wichita,North America,Caddoan,35.0665,-98.1831,29,21,8,0,False,False,2,0.7241,0.2759
+wich1264,Wichí,South America,Matacoan,-23.1633,-62.1757,28,23,5,0,False,False,2,0.8214,0.1786
+wikm1247,Wik Mungkan,Australia,Pama-Nyungan,-13.98051,141.81611,26,16,10,0,False,False,5,0.6154,0.3846
+wikn1245,Wik-Ngathan,Australia,Pama-Nyungan,-13.8691,141.532,28,16,12,0,False,False,5,0.5714,0.4286
+wikn1246,Kugu Nganhcara,Australia,Pama-Nyungan,-13.4957,141.599,30,20,10,0,False,False,5,0.6667,0.3333
+wint1259,WINTU,North America,Wintuan,39.7176,-122.445,35,30,5,0,False,False,2,0.8571,0.1429
+wira1262,Wiradjuri,Australia,Pama-Nyungan,-34.0742,145.994,21,15,6,0,False,False,5,0.7143,0.2857
+wira1265,Wirangu,Australia,Pama-Nyungan,-32.0,134.0,23,19,4,0,False,False,6,0.8261,0.1739
+wirr1237,Wiriyaraay,Australia,Pama-Nyungan,-29.9037,149.543,21,15,6,0,False,False,5,0.7143,0.2857
+wiyo1248,WIYOT,North America,Algic,39.2492,-122.952,29,24,5,0,False,False,2,0.8276,0.1724
+woge1237,Wogeo,Papunesia,Austronesian,-3.20238,144.089,20,15,5,0,False,False,4,0.75,0.25
+woiw1237,Woiwurrung,Australia,Pama-Nyungan,-37.64264501,145.5879962,23,20,3,0,False,False,6,0.8696,0.1304
+wola1242,Welamo,Africa,Ta-Ne-Omotic,6.32668,37.7537,48,38,10,0,False,False,1,0.7917,0.2083
+wong1246,Wangkumara,Australia,Pama-Nyungan,-29.2411,143.216,30,26,4,0,False,False,6,0.8667,0.1333
+wong1247,Wongo,Africa,Atlantic-Congo,-5.73837,20.5054,24,15,7,2,False,True,4,0.625,0.2917
+wori1245,Katthang,Australia,Pama-Nyungan,-32.4806,152.107,19,13,6,0,False,False,4,0.6842,0.3158
+worr1237,Worrorra,Australia,Worrorran,-15.612781,124.881218,25,17,8,0,False,False,5,0.68,0.32
+wotj1234,Wotjobaluk,Australia,Pama-Nyungan,-34.13829932,143.6694397,19,15,4,0,False,False,5,0.7895,0.2105
+woun1238,Woun Meu,South America,Chocoan,8.5,-78.0,33,19,14,0,False,False,9,0.5758,0.4242
+wuch1236,Wu,Eurasia,Sino-Tibetan,29.8621,119.682,41,29,9,3,False,True,8,0.7073,0.2195
+wulg1239,Wulguru,Australia,Pama-Nyungan,-19.85103121,146.3453957,21,15,6,0,False,False,5,0.7143,0.2857
+wuli1242,Wuli Wuli,Australia,Pama-Nyungan,-24.415,149.843,23,13,10,0,False,False,4,0.5652,0.4348
+wuna1249,Wunambal,Australia,Worrorran,-14.8347,125.72,28,17,11,0,False,False,5,0.6071,0.3929
+wurr1238,Wurrugu,Australia,Marrku-Wurrugu,-11.364,132.303,23,20,3,0,False,False,5,0.8696,0.1304
+wuzl1236,Ouldeme,Africa,Afro-Asiatic,10.955,14.1378,42,34,5,3,False,True,3,0.8095,0.119
+wymy1235,Wymysorys,Eurasia,Indo-European,49.91617,19.15195,35,20,15,0,False,False,3,0.5714,0.4286
+xamt1239,Xamtanga,Africa,Afro-Asiatic,12.4479,38.8352,31,24,7,0,False,False,0,0.7742,0.2258
+xava1240,Xavánte,South America,Nuclear-Macro-Je,-14.3017,-52.4367,24,11,13,0,False,False,4,0.4583,0.5417
+xere1240,Xerénte,South America,Nuclear-Macro-Je,-9.59426,-48.2629,27,13,14,0,False,False,7,0.4815,0.5185
+xeta1241,Xetá,South America,Tupian,-24.9408,-52.2266,24,13,11,0,False,False,8,0.5417,0.4583
+xhos1239,Xhosa,Africa,Atlantic-Congo,-31.0389,28.0769,84,75,7,2,True,True,15,0.8929,0.0833
+xing1248,Asurini do Xingú,South America,Tupian,-4.13463,-52.321,27,16,11,0,False,False,8,0.5926,0.4074
+xipa1240,Xipaya,South America,Tupian,-4.133,-49.948,23,14,9,0,False,False,6,0.6087,0.3913
+xiri1243,SHIRIANA,South America,Arawakan,0.83868,-63.452927,25,13,12,0,False,False,8,0.52,0.48
+xokl1240,Xokleng,South America,Nuclear-Macro-Je,-26.9217,-49.5886,37,19,18,0,False,False,12,0.5135,0.4865
+xwel1235,xwela,Africa,Atlantic-Congo,6.41342,2.02985,45,29,13,3,False,True,12,0.6444,0.2889
+yaba1248,Yabarana,South America,Cariban,5.32692,-66.276,18,11,7,0,False,False,3,0.6111,0.3889
+yadh1237,Yadhaykenu,Australia,Pama-Nyungan,-11.314,142.725,26,18,8,0,False,False,5,0.6923,0.3077
+yaga1260,YAGARIA,Papunesia,Nuclear Trans New Guinea,-6.32432,145.388,23,14,9,0,False,False,2,0.6087,0.3913
+yaga1262,Turubul,Australia,Pama-Nyungan,-27.87647555,152.4602773,19,13,6,0,False,False,4,0.6842,0.3158
+yagn1238,Yaghnobi,Eurasia,Indo-European,39.1486,69.2422,36,27,9,0,False,False,2,0.75,0.25
+yagu1244,Yagua,South America,Peba-Yagua,-3.42913,-72.2186,23,11,12,0,False,False,8,0.4783,0.5217
+yaku1245,Yakut,Eurasia,Turkic,61.6974,133.98,49,33,16,0,False,False,9,0.6735,0.3265
+yala1262,Yalarnnga,Australia,Pama-Nyungan,-21.731,139.511,24,20,4,0,False,False,6,0.8333,0.1667
+yala1263,yala,Africa,Atlantic-Congo,6.73852,8.60748,38,28,7,3,False,True,5,0.7368,0.1842
+yalu1240,Jalonke,Africa,Mande,9.97186,-11.2836,31,17,14,0,False,False,4,0.5484,0.4516
+yamb1251,Yamba,Africa,Atlantic-Congo,6.535505,11.07711,38,26,8,4,False,True,3,0.6842,0.2105
+yamb1252,Yambɛta,Africa,Atlantic-Congo,4.83615,10.9369,28,18,8,2,False,True,4,0.6429,0.2857
+yame1242,Yameo,South America,Peba-Yagua,-4.16666,-73.6667,18,10,8,0,False,False,6,0.5556,0.4444
+yami1256,Yaminawa,South America,Pano-Tacanan,-9.8846,-71.5964,22,14,8,0,False,False,6,0.6364,0.3636
+yand1251,Yanda,Australia,Pama-Nyungan,-21.23270508,140.5134756,24,21,3,0,False,False,6,0.875,0.125
+yand1253,Yandruwandha,Australia,Pama-Nyungan,-28.4744,140.583,30,26,4,0,False,False,6,0.8667,0.1333
+yane1238,Yánesha,South America,Arawakan,-10.5454,-75.315,33,24,9,0,False,False,4,0.7273,0.2727
+yang1288,Yangman,Australia,Yangmanic,-14.4964,132.52,22,17,5,0,False,False,5,0.7727,0.2273
+yank1247,Yankunytjatjara,Australia,Pama-Nyungan,-26.4064,133.577,23,17,6,0,False,False,5,0.7391,0.2609
+yann1237,Nhangu,Australia,Pama-Nyungan,-12.0853,134.877,31,25,6,0,False,False,6,0.8065,0.1935
+yano1261,Yanomamɨ of Venezuela,South America,Yanomamic,1.67967,-64.8781,33,12,21,0,False,False,9,0.3636,0.6364
+yano1262,Yanomae of Demini/Tototopi,South America,Yanomamic,2.48999,-62.8522,34,13,21,0,False,False,9,0.3824,0.6176
+yans1239,Yanzi,Africa,Atlantic-Congo,-3.8231,18.2341,42,17,22,3,False,True,3,0.4048,0.5238
+yany1243,YANYUWA,Australia,Pama-Nyungan,-15.7621,136.055,32,29,3,0,False,False,7,0.9062,0.0938
+yaoo1241,yao,Africa,Atlantic-Congo,-13.6119,35.2387,28,17,7,4,False,True,4,0.6071,0.25
+yaou1238,Yaouré,Africa,Mande,6.95282,-5.57851,45,23,18,4,False,True,12,0.5111,0.4
+yape1248,Yapese,Papunesia,Austronesian,9.55811,138.125,44,28,16,0,False,False,6,0.6364,0.3636
+yaqu1251,YAQUI,North America,Uto-Aztecan,29.9446,-110.681,19,14,5,0,False,False,2,0.7368,0.2632
+yard1234,Yardliyawarra,Australia,Pama-Nyungan,-29.49049805,140.9591946,27,21,6,0,False,False,6,0.7778,0.2222
+yare1248,YAREBA,Papunesia,Yareban,-9.50651,148.605,18,13,5,0,False,False,2,0.7222,0.2778
+yari1243,Yari-Yari,Australia,Pama-Nyungan,-34.190056,142.273631,23,20,3,0,False,False,6,0.8696,0.1304
+yaro1235,Yãroamë of Serra do Pacu/Ajarani,South America,Yanomamic,1.720201,-62.230225,29,11,18,0,False,False,9,0.3793,0.6207
+yavi1244,Yavitero,South America,Arawakan,2.924844,-67.438886,21,17,4,0,False,False,3,0.8095,0.1905
+yawa1258,Yawarrawarrka,Australia,Pama-Nyungan,-26.7334,140.871,30,26,4,0,False,False,6,0.8667,0.1333
+yawa1260,Yawanawa,South America,Pano-Tacanan,-8.87563,-71.8199,19,15,4,0,False,False,2,0.7895,0.2105
+yawa1261,Yawalapití,South America,Arawakan,-12.5104,-53.4236,21,17,4,0,False,False,3,0.8095,0.1905
+yawi1239,Yawijibaya,Australia,Worrorran,-15.348087,124.529665,25,20,5,0,False,False,6,0.8,0.2
+yawu1244,Yawuru,Australia,Nyulnyulan,-18.004,122.693,28,22,6,0,False,False,5,0.7857,0.2143
+yayg1236,Yaygir,Australia,Pama-Nyungan,-29.686722970453,153.18784362556,20,14,6,0,False,False,4,0.7,0.3
+yekh1238,Etsako,Africa,Atlantic-Congo,7.10204,6.44919,36,26,7,3,False,True,3,0.7222,0.1944
+yemb1246,Yemba,Africa,Atlantic-Congo,5.47421,10.0214,35,21,8,6,False,True,3,0.6,0.2286
+yems1235,Yemsa,Africa,Ta-Ne-Omotic,7.79821,37.4412,40,25,10,5,False,True,4,0.625,0.25
+yeru1240,Yerukala,Eurasia,Dravidian,17.3702,81.9748,38,20,18,0,False,False,10,0.5263,0.4737
+yess1239,YESSAN-MAYO,Papunesia,Sepik,-4.15721,142.574,20,16,4,0,False,False,2,0.8,0.2
+yeyi1239,Yeyi,Africa,Atlantic-Congo,-18.9178,23.6088,90,77,13,0,True,False,13,0.8556,0.1444
+yidi1250,Yidiny,Australia,Pama-Nyungan,-17.1332,145.876,19,13,6,0,False,False,4,0.6842,0.3158
+yill1241,Yil,Papunesia,Nuclear Torricelli,-3.46501,142.178,23,12,11,0,False,False,3,0.5217,0.4783
+yind1247,Yinhawangka,Australia,Pama-Nyungan,-21.5379,117.001,26,20,6,0,False,False,6,0.7692,0.2308
+yine1238,Yine,South America,Arawakan,-11.1086,-73.3087,26,16,10,0,False,False,3,0.6154,0.3846
+ying1247,Yingkarta,Australia,Pama-Nyungan,-25.4446,115.58,26,20,6,0,False,False,6,0.7692,0.2308
+yinh1234,Ngarla,Australia,Pama-Nyungan,-22.9178,117.5628,23,17,6,0,False,False,5,0.7391,0.2609
+yinw1236,Yinwum,Australia,Pama-Nyungan,-12.52068956,142.7036225,27,23,4,0,False,False,5,0.8519,0.1481
+yiry1245,Yir Yoront,Australia,Pama-Nyungan,-15.1117,141.767,26,20,6,0,False,False,6,0.7692,0.2308
+yith1234,Yitha Yitha,Australia,Pama-Nyungan,-33.89,144.22,23,20,3,0,False,False,6,0.8696,0.1304
+yomm1242,Yom,Africa,Atlantic-Congo,9.87186,1.81099,38,25,9,4,False,True,5,0.6579,0.2368
+yong1270,Yongning Na,Eurasia,Sino-Tibetan,27.8,100.9,47,37,10,0,False,False,4,0.7872,0.2128
+yora1241,Yora,South America,Pano-Tacanan,-11.3704,-72.0409,22,14,8,0,False,False,6,0.6364,0.3636
+yort1237,Yabula-Yabula,Australia,Pama-Nyungan,-35.9,145.01,20,15,5,0,False,False,5,0.75,0.25
+yoru1245,Yorouba,Africa,Atlantic-Congo,7.15345,3.67225,32,18,11,3,False,True,6,0.5625,0.3438
+yuca1254,YUCATEC,North America,Mayan,18.7757,-88.9567,29,19,10,0,False,False,2,0.6552,0.3448
+yucu1253,Yucuna,South America,Arawakan,-0.76075,-71.0033,21,16,5,0,False,False,3,0.7619,0.2381
+yuec1235,Chinese,Eurasia,Sino-Tibetan,23.0,113.0,47,20,21,6,False,True,3,0.4255,0.4468
+yuga1244,Yugambal,Australia,Pama-Nyungan,-27.803,153.082,16,13,3,0,False,False,4,0.8125,0.1875
+yugu1249,Bundjalung,Australia,Pama-Nyungan,-28.028726,153.286993,20,12,8,0,False,False,4,0.6,0.4
+yuhu1238,Yuhup,South America,Naduhup,0.2485,-69.8079,35,20,15,0,False,False,6,0.5714,0.4286
+yuki1243,Yuki,North America,Yuki-Wappo,39.8389,-123.296,30,24,6,0,False,False,3,0.8,0.2
+yukp1241,Yukpa,South America,Cariban,9.67534,-73.0557,21,15,6,0,False,False,3,0.7143,0.2857
+yulp1239,Yulparija,Australia,Pama-Nyungan,-18.923519,122.370316,23,17,6,0,False,False,5,0.7391,0.2609
+yulu1243,YULU,Africa,Central Sudanic,8.04124,23.6166,42,35,7,0,False,False,4,0.8333,0.1667
+yuqu1240,Yuqui,South America,Tupian,-16.7875,-64.9438,40,20,20,0,False,False,13,0.5,0.5
+yuro1248,Yurok,North America,Algic,41.3262,-123.824,35,23,12,0,False,False,2,0.6571,0.3429
+yuru1263,Yurutí,South America,Tucanoan,0.735585,-69.6955,17,11,6,0,False,False,0,0.6471,0.3529
+yuwa1242,Yuwaalaraay,Australia,Pama-Nyungan,-29.758184,147.923684,21,15,6,0,False,False,5,0.7143,0.2857
+yuwa1243,Yuwaliyaay,Australia,Pama-Nyungan,-29.9037,149.543,21,15,6,0,False,False,5,0.7143,0.2857
+yuwa1244,Hoti,South America,Jodi-Saliban,5.63879,-65.4267,35,21,14,0,False,False,7,0.6,0.4
+zagh1240,Beria,Africa,Saharan,17.4842,23.4626,30,18,9,3,False,True,4,0.6,0.3
+zaiw1241,Zaiwa,Eurasia,Sino-Tibetan,24.1726,98.3643,32,21,8,3,False,True,3,0.6562,0.25
+zand1248,AZANDE,Africa,Atlantic-Congo,4.62047,26.7157,35,19,16,0,False,False,11,0.5429,0.4571
+zapa1253,Záparo,South America,Zaparoan,-1.99871,-76.364,22,14,8,0,False,False,2,0.6364,0.3636
+zarm1239,Zarma,Africa,Songhay,12.8554,2.41173,40,20,16,4,False,True,10,0.5,0.4
+zays1236,Zayse,Africa,Ta-Ne-Omotic,5.83747,37.3409,32,27,5,0,False,False,2,0.8438,0.1562
+zayy1238,Zway,Africa,Afro-Asiatic,8.01148,38.8258,37,23,14,0,False,False,3,0.6216,0.3784
+zhon1235,Zhongu Tibetan,Eurasia,Sino-Tibetan,32.43582,103.44179,68,59,9,0,False,False,8,0.8676,0.1324
+zinz1238,Luzinza,Africa,Atlantic-Congo,-2.64132,32.1755,30,20,10,0,False,False,3,0.6667,0.3333
+zoee1240,Zo'é,South America,Tupian,-1.77208,-55.50746,26,14,12,0,False,False,6,0.5385,0.4615
+zoog1238,San Bartolomé Zoogocho Zapotec,North America,Otomanguean,17.2016,-96.3433,65,28,32,5,False,True,4,0.4308,0.4923
+zulg1242,Zulgo,Africa,Afro-Asiatic,10.827,14.0578,34,29,2,3,False,True,3,0.8529,0.0588
+zulu1248,Zulu,Africa,Atlantic-Congo,-28.9,30.2,43,35,5,3,True,True,5,0.814,0.1163

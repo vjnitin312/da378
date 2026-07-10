@@ -1,0 +1,164 @@
+============================================================
+STEP 1 — Loading data
+============================================================
+  Total languages : 2,176
+  Total phonemes  : 2,703
+
+============================================================
+STEP 2 — Selecting phonemes for matrix (frequency >= 5%)
+============================================================
+  Phonemes with freq >= 5%: 103
+
+============================================================
+STEP 3 — Building language × phoneme binary matrix
+============================================================
+  Matrix shape: 2176 languages × 103 phonemes
+  Memory usage: 404.5 KB
+
+============================================================
+STEP 4 — Computing co-occurrence matrix (P^T × P)
+============================================================
+  Co-occurrence matrix shape: (103, 103)
+  Diagonal (self-count) max : 2103 (= /m/ count)
+  Diagonal (self-count) min : 111
+
+============================================================
+STEP 5 — Computing Jaccard similarity matrix
+============================================================
+  Jaccard matrix shape  : (103, 103)
+  Max off-diagonal value: 0.9603
+  Min value             : 0.0000
+
+============================================================
+STEP 6 — Computing Phi coefficient matrix
+============================================================
+  Phi matrix shape      : (103, 103)
+  Max phi (off-diagonal): 0.1299
+  Min phi               : -0.1323
+
+============================================================
+STEP 7 — Top strongly associated phoneme pairs
+============================================================
+
+  Phoneme A    Phoneme B     Jaccard      Phi   Co-occur Type                
+  ------------ ------------ -------- -------- ---------- --------------------
+  ˦            ˨              0.9603  -0.0089        459 tone-tone           
+  i            u              0.9300   0.0132      1,925 vowel-vowel         
+  m            i              0.9085  -0.0254      1,975 consonant-vowel     
+  k            p              0.8929   0.0623      1,793 consonant-consonant 
+  iː           uː             0.8867  -0.0191        689 vowel-vowel         
+  m            j              0.8764   0.0629      1,894 consonant-consonant 
+  m            k              0.8747  -0.0093      1,898 consonant-consonant 
+  mb           nd             0.8694  -0.0299        233 consonant-consonant 
+  m            u              0.8673  -0.0135      1,882 consonant-vowel     
+  i            k              0.8664   0.0943      1,862 vowel-consonant     
+  i            a              0.8633   0.0099      1,838 vowel-vowel         
+  j            w              0.8626  -0.0455      1,752 consonant-consonant 
+  e            o              0.8582   0.0144      1,277 vowel-vowel         
+  m            a              0.8510  -0.0520      1,850 consonant-vowel     
+  mb           ŋɡ             0.8507  -0.0503        228 consonant-consonant 
+  kʰ           pʰ             0.8473   0.0047        333 consonant-consonant 
+  ɡb           kp             0.8469  -0.0394        271 consonant-consonant 
+  i            j              0.8449  -0.0280      1,831 vowel-consonant     
+  eː           oː             0.8420   0.0232        453 vowel-vowel         
+  m            n              0.8362   0.0925      1,772 consonant-consonant 
+
+============================================================
+STEP 8 — Top mutually exclusive phoneme pairs (lowest phi)
+============================================================
+
+  Phoneme A    Phoneme B         Phi  Jaccard   Co-occur Type                
+  ------------ ------------ -------- -------- ---------- --------------------
+  tʼ           pʼ            -0.1323   0.5430         82 consonant-consonant 
+  ˦˨           n̠d̠ʒ         -0.1302   0.1038         22 tone-consonant      
+  m            ẽ            -0.1189   0.1049        223 consonant-vowel     
+  χ            tsʰ           -0.1145   0.0972         24 consonant-consonant 
+  kʼ           tʼ            -0.1111   0.6686        115 consonant-consonant 
+  ɖ            tsʰ           -0.1095   0.0933         25 consonant-consonant 
+  o̞           t̠ʃʼ          -0.1082   0.0962         25 vowel-consonant     
+  i            t̠ʃʰ          -0.1074   0.0532        110 vowel-consonant     
+  e̞           pʼ            -0.1067   0.1000         25 vowel-consonant     
+  ɑ            ɯ             -0.1067   0.1012         25 vowel-vowel         
+  o̞           pʼ            -0.1066   0.1004         25 vowel-consonant     
+  tsʰ          ɬ             -0.1042   0.1121         25 consonant-consonant 
+  q            ʂ             -0.1030   0.0952         26 consonant-consonant 
+  m            kʷ            -0.1013   0.1237        263 consonant-consonant 
+  dz           n̠d̠ʒ         -0.1009   0.0863         27 consonant-consonant 
+  e̞           t̠ʃʼ          -0.1007   0.1000         26 vowel-consonant     
+  i            t̠ʃʼ          -0.0987   0.0499        103 vowel-consonant     
+  ɗ            ˦˨            -0.0984   0.0928         27 consonant-tone      
+  ɡʷ           tʼ            -0.0982   0.1074         26 consonant-consonant 
+  tsʰ          tʼ            -0.0964   0.1140         26 consonant-consonant 
+
+============================================================
+STEP 9 — Conditional frequency P(B|A) for top 30 phonemes
+============================================================
+
+  Sample — P(B | /m/) for top phonemes:
+    P(i | m) = 0.939
+    P(k | m) = 0.902
+    P(j | m) = 0.901
+    P(u | m) = 0.895
+    P(a | m) = 0.880
+    P(p | m) = 0.846
+    P(n | m) = 0.843
+    P(w | m) = 0.840
+    P(t | m) = 0.727
+    P(l | m) = 0.716
+
+  Sample — P(B | /a/) for top phonemes:
+    P(m | a) = 0.963
+    P(i | a) = 0.957
+    P(k | a) = 0.912
+    P(u | a) = 0.909
+    P(j | a) = 0.898
+    P(w | a) = 0.872
+    P(p | a) = 0.848
+    P(n | a) = 0.832
+    P(t | a) = 0.752
+    P(l | a) = 0.703
+
+============================================================
+STEP 10 — Implicational universals (P(B|A) >= 0.90)
+============================================================
+  Pairs with P(B|A) >= 0.90: 138
+
+  Given A      →  B           P(B|A)     n(A)   n(A,B)
+  ------------ ------------ -------- -------- --------
+  ŋ            → m               0.994    1,394    1,386
+  r            → m               0.992    1,018    1,010
+  n            → m               0.991    1,788    1,772
+  ɲ            → m               0.989      921      911
+  u            → i               0.988    1,949    1,925
+  l            → m               0.987    1,526    1,506
+  e            → i               0.983    1,399    1,375
+  aː           → m               0.982      723      710
+  iː           → m               0.980      763      748
+  uː           → iː              0.980      703      689
+  uː           → m               0.980      703      689
+  ʃ            → m               0.979      721      706
+  f            → m               0.979      905      886
+  o            → i               0.978    1,366    1,336
+  p            → k               0.977    1,836    1,793
+  t            → k               0.975    1,588    1,548
+  j            → m               0.970    1,952    1,894
+  aː           → a               0.970      723      701
+  p            → m               0.970    1,836    1,780
+  ɔ            → m               0.969      779      755
+  s            → m               0.969    1,483    1,437
+  ɛ            → m               0.968      800      774
+  k            → m               0.966    1,965    1,898
+  u            → m               0.966    1,949    1,882
+  i            → m               0.965    2,046    1,975
+
+============================================================
+STEP 11 — Saving outputs
+============================================================
+  Saved: cooccurrence_matrix.csv
+  Saved: jaccard_matrix.csv
+  Saved: phi_matrix.csv
+  Saved: top_associated_pairs.csv
+  Saved: top_exclusive_pairs.csv
+  Saved: conditional_frequency.csv
+  Saved: conditional_frequency_pivot.csv
+  Saved: implicational_universals.csv

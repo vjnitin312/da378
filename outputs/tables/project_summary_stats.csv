@@ -1,0 +1,18 @@
+Metric,Value
+Total languages analysed,2103
+Total unique phonemes,2703
+Language families,177
+Macroareas,6
+Global avg inventory size,35.2
+Largest inventory (phonemes),161
+Smallest inventory (phonemes),11
+Phonemes in 50%+ languages,18
+Phonemes in only 1 language,1426
+Click languages in dataset,16
+Tonal languages in dataset,530
+% Africa tonal,64.6%
+% Australia tonal,0.0%
+Implicational pairs P(B|A)>=0.90,138
+Strongest implication,P(m|ng) = 0.994
+Highest Jaccard pair,tone hi & tone lo = 0.960
+Most exclusive pair (phi),tone-contour & retroflex = -0.130

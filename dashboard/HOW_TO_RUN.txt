@@ -1,0 +1,65 @@
+# HOW TO RUN THE PHONEME DASHBOARD
+# ==================================
+
+# STEP 1 — Open terminal and go to your project root
+cd path/to/phoneme_project
+
+# STEP 2 — Install all dependencies (only once)
+pip install -r requirements.txt
+
+# STEP 3 — Run the Streamlit dashboard
+streamlit run dashboard/app.py
+
+# The dashboard will open automatically in your browser at:
+# http://localhost:8501
+
+# ── WHAT EACH TAB DOES ────────────────────────────────────────────────────────
+#
+# Tab 1 — Overview
+#   - 5 summary metric cards (languages, phonemes, families, macroareas, avg inventory)
+#   - Top 10 phonemes globally (horizontal bar chart)
+#   - Phoneme class pie chart (consonant / vowel / tone)
+#   - Full frequency distribution histogram (log scale)
+#
+# Tab 2 — Frequency Explorer
+#   - Adjustable top-N bar chart (5 to 50 phonemes)
+#   - Top 5 per class (consonant / vowel / tone)
+#   - Rank vs frequency scatter (Zipfian curve)
+#   - Full searchable frequency table
+#
+# Tab 3 — Regional Analysis
+#   - Per-region metric cards (avg inventory + language count)
+#   - Avg inventory bar chart with error bars
+#   - Stacked phoneme class % chart
+#   - Tone & click grouped bar chart
+#   - Inventory size box plot (spread per region)
+#   - Regional statistics table
+#
+# Tab 4 — Language Families
+#   - Top 20 families by avg inventory (horizontal bar)
+#   - Bottom 10 families
+#   - Top 5 largest single inventories
+#   - Phoneme profile heatmap (25 families × consonants/vowels/tones)
+#   - Full family table (sortable)
+#
+# Tab 5 — World Maps
+#   - Map 1: Plotly scatter geo — inventory size per language (coloured + sized)
+#   - Map 2: Folium — tonal vs non-tonal languages (red/blue dots, clickable)
+#   - Map 3: Folium — click languages highlighted (all in southern Africa)
+#
+# ── SIDEBAR FILTERS (apply across all tabs) ───────────────────────────────────
+#   - Macroarea multiselect
+#   - Phoneme class multiselect
+#   - Min frequency % slider
+#   - Min languages per family slider
+#
+# ── TROUBLESHOOTING ───────────────────────────────────────────────────────────
+# If you get ModuleNotFoundError:
+#   pip install streamlit streamlit-folium plotly folium pandas numpy
+#
+# If maps do not load:
+#   Make sure you have an internet connection (Folium loads map tiles online)
+#
+# If data not found error:
+#   Make sure you are running from inside phoneme_project/ folder
+#   and all CSV files exist in outputs/tables/ and data/processed/

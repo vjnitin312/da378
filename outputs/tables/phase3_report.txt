@@ -1,0 +1,140 @@
+============================================================
+STEP 1 — Loading phoible_dedup.csv
+============================================================
+  Rows    : 76,327
+  Languages : 2,176
+  Macroareas: 6
+  Families  : 177
+
+============================================================
+STEP 2 — Computing inventory size per language
+============================================================
+  Languages with inventory data: 2,103
+  Global avg inventory size    : 35.2
+  Global min inventory size    : 11 (ROTOKAS)
+  Global max inventory size    : 161 (!Xóõ)
+
+============================================================
+STEP 3 — Inventory statistics by macroarea
+============================================================
+
+    macroarea  n_languages  avg_inventory  avg_consonants  avg_vowels  avg_tones  pct_with_clicks  pct_with_tones
+      Eurasia          446          44.43           29.58       14.53       0.32              0.0             8.7
+       Africa          710          41.38           27.32       11.91       2.15              2.3            64.6
+North America          133          34.25           24.23        9.44       0.57              0.0            15.0
+South America          301          25.86           16.21        9.60       0.06              0.0             1.7
+    Australia          337          24.57           19.29        5.28       0.00              0.0             0.0
+    Papunesia          176          23.77           16.27        7.36       0.14              0.0             4.0
+
+============================================================
+STEP 4 — Phoneme class distribution per region
+============================================================
+
+SegmentClass   consonant  tone  vowel
+macroarea                            
+Africa             66.04  5.22  28.74
+Australia          78.48   NaN  21.52
+Eurasia            66.59  0.72  32.69
+North America      70.94  1.59  27.47
+Papunesia          68.17  0.55  31.27
+South America      62.85  0.19  36.95
+
+============================================================
+STEP 5 — Click concentration by region
+============================================================
+
+    macroarea  total_languages  languages_w_click  click_pct
+       Africa              710                 16       2.25
+    Australia              337                  0       0.00
+      Eurasia              446                  0       0.00
+North America              133                  0       0.00
+    Papunesia              176                  0       0.00
+South America              301                  0       0.00
+
+============================================================
+STEP 6 — Tone segment concentration by region
+============================================================
+
+    macroarea  total_languages  languages_w_tone  tone_pct
+       Africa              710               459     64.65
+North America              133                20     15.04
+      Eurasia              446                39      8.74
+    Papunesia              176                 7      3.98
+South America              301                 5      1.66
+    Australia              337                 0      0.00
+
+============================================================
+STEP 7 — Language family inventory statistics
+============================================================
+
+  Families with ≥5 languages: 54
+
+  TOP 15 FAMILIES BY AVG INVENTORY SIZE:
+            family_name  n_languages  avg_inventory  avg_consonants  avg_vowels
+      Nakh-Daghestanian           13           64.8            52.4        12.4
+         Kadugli-Krongo            7           56.6            37.3        17.1
+Athabaskan-Eyak-Tlingit           10           48.5            34.0        12.7
+           Sino-Tibetan           99           46.7            31.9        13.8
+        Central Sudanic           23           45.1            32.1        10.5
+                 Uralic           32           45.0            33.3        11.7
+          Indo-European          146           44.5            29.0        15.4
+          Austroasiatic           40           43.2            23.2        19.8
+           Afro-Asiatic          108           43.1            33.4         8.4
+              Dravidian           33           42.5            27.6        14.9
+                Nilotic           27           41.0            19.1        19.2
+         Atlantic-Congo          422           40.9            26.4        12.0
+           Ta-Ne-Omotic           10           40.4            31.4         7.8
+                  Mande           43           40.3            22.1        15.6
+            Otomanguean           17           40.3            26.2        11.7
+
+  BOTTOM 10 FAMILIES BY AVG INVENTORY SIZE:
+             family_name  n_languages  avg_inventory  avg_consonants  avg_vowels
+                   Sepik            7           20.0            14.0         6.0
+                  Mirndi            8           20.8            16.6         4.1
+            Pano-Tacanan           25           21.3            15.6         5.7
+Nuclear Trans New Guinea           28           21.6            13.8         7.4
+                 Cariban           24           22.2            12.6         9.6
+      Nuclear Torricelli            6           22.2            15.2         7.0
+              Nyulnyulan           10           22.3            18.0         4.3
+                  Arawan            5           22.6            17.2         5.4
+                Tucanoan           19           22.7            12.6        10.0
+         Iwaidjan Proper            5           23.8            20.4         3.4
+
+============================================================
+STEP 8 — Extreme languages (largest and smallest inventories)
+============================================================
+
+  TOP 10 LANGUAGES — LARGEST PHONEME INVENTORY:
+  LanguageName macroarea       family_name  total_phonemes  n_consonants  n_vowels  has_click
+        !Xóõ    Africa               Tuu             161           130        28       True
+           !XU    Africa               Kxa             140            94        46       True
+Soghpo Tibetan   Eurasia      Sino-Tibetan             133           100        33      False
+  Kildin Saami   Eurasia            Uralic             128           113        15      False
+          !Xun    Africa               Kxa             120            95        21       True
+        Mbembe    Africa    Atlantic-Congo             116            99        12      False
+       Lezgian   Eurasia Nakh-Daghestanian              96            88         8      False
+         Rigwe    Africa    Atlantic-Congo              95            79        12      False
+    Hindi-Urdu   Eurasia     Indo-European              94            71        23      False
+           Dan    Africa             Mande              92            44        40      False
+
+  BOTTOM 10 LANGUAGES — SMALLEST PHONEME INVENTORY:
+LanguageName macroarea              family_name  total_phonemes  n_consonants  n_vowels
+     ROTOKAS Papunesia       North Bougainville              11             6         5
+        Abau Papunesia                    Sepik              14             9         5
+     TAORIPI Papunesia                   Eleman              14             8         6
+        RORO Papunesia             Austronesian              14             9         5
+       EKARI Papunesia Nuclear Trans New Guinea              15            10         5
+       Isaka Papunesia                      Sko              15             6         5
+       Namia Papunesia                    Sepik              15             9         6
+  BANDJALANG Australia             Pama-Nyungan              15            12         3
+    Awabakal Australia             Pama-Nyungan              16            13         3
+    Bigambal Australia             Pama-Nyungan              16            13         3
+
+============================================================
+STEP 9 — Saving tables
+============================================================
+  Saved: region_inventory_stats.csv
+  Saved: region_class_distribution.csv
+  Saved: family_inventory_stats.csv
+  Saved: region_click_tone_nasal.csv
+  Saved: data/processed/language_inventory.csv

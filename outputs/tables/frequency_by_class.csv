@@ -1,0 +1,4 @@
+segment_class,total_unique_phonemes,avg_frequency_pct,median_frequency_pct,max_frequency_pct,min_frequency_pct,phonemes_above_50pct
+consonant,1719,1.38,0.05,96.65,0.05,13
+tone,54,1.55,0.09,21.6,0.05,0
+vowel,930,1.13,0.05,94.03,0.05,5

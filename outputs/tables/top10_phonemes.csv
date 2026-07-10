@@ -1,0 +1,11 @@
+Phoneme,language_count,segment_class,is_click,is_tone,is_nasal,frequency_pct,rank
+m,2103,consonant,False,False,True,96.65,1
+i,2046,vowel,False,False,False,94.03,2
+k,1965,consonant,False,False,False,90.3,3
+j,1952,consonant,False,False,False,89.71,4
+u,1949,vowel,False,False,False,89.57,5
+a,1921,vowel,False,False,False,88.28,6
+p,1836,consonant,False,False,False,84.38,7
+w,1831,consonant,False,False,False,84.15,8
+n,1788,consonant,False,False,True,82.17,9
+t,1588,consonant,False,False,False,72.98,10

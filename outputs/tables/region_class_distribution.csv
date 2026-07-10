@@ -1,0 +1,18 @@
+macroarea,SegmentClass,phoneme_count,total,pct
+Africa,consonant,19645,29746,66.04
+Africa,tone,1552,29746,5.22
+Africa,vowel,8549,29746,28.74
+Australia,consonant,6651,8475,78.48
+Australia,vowel,1824,8475,21.52
+Eurasia,consonant,13314,19993,66.59
+Eurasia,tone,144,19993,0.72
+Eurasia,vowel,6535,19993,32.69
+North America,consonant,3517,4958,70.94
+North America,tone,79,4958,1.59
+North America,vowel,1362,4958,27.47
+Papunesia,consonant,2956,4336,68.17
+Papunesia,tone,24,4336,0.55
+Papunesia,vowel,1356,4336,31.27
+South America,consonant,5543,8819,62.85
+South America,tone,17,8819,0.19
+South America,vowel,3259,8819,36.95

@@ -1,0 +1,393 @@
+======================================================================
+  PHONEME DISTRIBUTION ACROSS LANGUAGES
+  Typological Interpretation & Critical Analysis
+  Based on PHOIBLE v2.0 — 2,176 languages · 2,721 unique phonemes
+  IIT Guwahati — BSc Data Science & AI
+======================================================================
+
+======================================================================
+  1. DATASET OVERVIEW
+======================================================================
+
+  After deduplication (one inventory per Glottocode), the analysis covers:
+
+    Languages          : 2,103 across 6 macroareas
+    Unique phonemes    : 2,703
+    Language families  : 177
+    Avg inventory size : 35.2 phonemes per language
+    Largest inventory  : !Xóõ (161 phonemes)
+    Smallest inventory : ROTOKAS (11 phonemes)
+
+  Deduplication was necessary because PHOIBLE aggregates data from multiple
+  sources (UPSID, SAPHON, AA, RA, etc.) for the same language. Keeping one
+  inventory per language prevents high-resource languages from inflating counts.
+  The largest-inventory source per Glottocode was retained as the most complete.
+
+
+======================================================================
+  2. THE UNIVERSAL PHONEME CORE
+======================================================================
+
+  2.1 Top 10 Most Common Phonemes Globally
+  ─────────────────────────────────────────
+  Rank   Phoneme      Class         Languages    Freq%
+  1      m            consonant         2,103    96.7%
+  2      i            vowel             2,046    94.0%
+  3      k            consonant         1,965    90.3%
+  4      j            consonant         1,952    89.7%
+  5      u            vowel             1,949    89.6%
+  6      a            vowel             1,921    88.3%
+  7      p            consonant         1,836    84.4%
+  8      w            consonant         1,831    84.2%
+  9      n            consonant         1,788    82.2%
+  10     t            consonant         1,588    73.0%
+
+  2.2 Typological Interpretation — Why These Phonemes?
+  ──────────────────────────────────────────────────────
+
+  /m/ — The most universal consonant (96.7%). Bilabial nasal. The only
+  consonant produced with complete oral closure + nasal airflow. It is
+  the first consonant acquired by infants universally ("mama"). Its
+  articulatory simplicity makes avoidance extremely costly.
+
+  /i/, /u/, /a/ — The vowel triangle (88–94%). These three vowels maximally
+  exploit the acoustic vowel space. Any language selecting a minimal vowel
+  system (3 vowels) picks exactly these three. They are perceptually
+  maximally distinct, reducing confusion between phonemes — a pressure
+  documented across all phonological typology literature.
+
+  /k/ — The most common stop (90.2%). Velar stops are preferred cross-
+  linguistically because the velar closure point creates a large resonant
+  cavity, making /k/ acoustically salient.
+
+  /j/, /w/ — Approximants (89–84%). These are the consonantal counterparts
+  of the high vowels /i/ and /u/ respectively. Their near-universal presence
+  follows directly from the near-universality of /i/ and /u/.
+
+  2.3 The Phoneme Frequency Distribution is Zipfian
+  ──────────────────────────────────────────────────
+  Phonemes appearing in >= 50%  of languages :   18
+  Phonemes appearing in exactly 1  language  : 1426 (52.8%)
+
+  This extreme long tail is a Zipfian power-law distribution — the same
+  pattern seen in word frequencies, city populations, and website traffic.
+  Linguistically, it means the world's languages collectively explore a vast
+  space of possible sounds, but only a tiny core is universally selected.
+  The rare phonemes represent innovations unique to individual languages
+  or small geographic regions.
+
+
+======================================================================
+  3. GEOGRAPHIC PATTERNS & AREAL FEATURES
+======================================================================
+
+  3.1 Inventory Size Variation by Region
+  ────────────────────────────────────────
+  Eurasia has the largest average inventories (44.4 phonemes),
+  driven by the Caucasus languages (Nakh-Daghestanian avg 64.8) with their
+  massive consonant clusters, and Central Asian languages with complex
+  phonological systems.
+
+  Africa (41.4 avg) is the most phonologically diverse region —
+  it contains both the world's largest inventories (Khoisan click languages,
+  up to 161 phonemes) and small-inventory Bantu languages. The high variance
+  reflects Africa's status as the region with the greatest genetic linguistic
+  diversity.
+
+  Papunesia has the smallest inventories (23.8 avg). Polynesian
+  languages famously have as few as 11–13 phonemes (Rotokas: 11). This
+  reflects a typological tendency toward simpler syllable structures and
+  fewer phonemic contrasts in island language communities.
+
+  3.2 Click Phonemes — The Sharpest Geographic Restriction
+  ──────────────────────────────────────────────────────────
+  Click languages in dataset     : 16
+  All located in                 : Africa (100%)
+
+  Click phonemes are produced with a velaric airstream — a mechanism
+  entirely separate from the pulmonic egressive airstream used by all
+  other phonemes. They appear exclusively in:
+    - Khoisan families (e.g., !Xóõ, Juǀʼhoan)
+    - Bantu languages through contact (e.g., Zulu, Xhosa, Yeyi)
+
+  The geographic concentration is absolute — not a single non-African
+  language in 2,176 has a phonemic click. This is one of the strongest
+  areal restrictions in the PHOIBLE database.
+
+  Statistical implication: The phi coefficient between clicks and any
+  non-African phoneme feature is consistently negative, confirming
+  the complementary distribution.
+
+  3.3 Tone Segments — A Bimodal Distribution
+  ────────────────────────────────────────────
+  % tonal languages by region:
+    Africa        : 64.6%
+    North America : 15.0%
+    Papunesia     : 4.0%
+    South America : 1.7%
+    Eurasia       : 8.7%
+    Australia     : 0.0%
+
+  Africa's dominance (64.6%) is driven by Niger-Congo and Nilo-Saharan
+  families — the two largest African families are almost entirely tonal.
+
+  Australia's 0% is equally striking. Australian languages are almost
+  entirely non-tonal, non-click, and consonant-heavy with small vowel
+  inventories. This reflects the region's long isolation from both
+  African areal contact and the tonal spread of East/Southeast Asia.
+
+  3.4 Australia — The Consonant-Dominant Region
+  ───────────────────────────────────────────────
+  Australia avg consonant ratio : 78.0%
+  Global avg consonant ratio    : 69.0%
+
+  Australian languages have the highest proportion of consonants to vowels
+  of any region. Languages like Arrernte have fewer than 4 vowel phonemes
+  but up to 20+ consonants. This pattern is driven by the Pama-Nyungan
+  family which covers ~90% of the Australian continent.
+
+  3.5 South America — The Vowel-Rich Region
+  ───────────────────────────────────────────
+  South America avg vowel ratio : 36.0%
+  Global avg vowel ratio        : 29.7%
+
+  Andean and Amazonian languages often have rich vowel systems with fewer
+  consonant distinctions. Quechua languages are typologically notable for
+  their 3-vowel systems (/i/, /a/, /u/) with very high-frequency usage of
+  each vowel.
+
+
+======================================================================
+  4. LANGUAGE FAMILY PATTERNS
+======================================================================
+
+  4.1 Top 5 Families by Average Inventory
+  ─────────────────────────────────────────
+  Nakh-Daghestanian              avg=64.8  n=13 languages
+  Kadugli-Krongo                 avg=56.6  n=7 languages
+  Athabaskan-Eyak-Tlingit        avg=48.5  n=10 languages
+  Sino-Tibetan                   avg=46.7  n=99 languages
+  Central Sudanic                avg=45.1  n=23 languages
+
+  4.2 Bottom 5 Families by Average Inventory
+  ────────────────────────────────────────────
+  Sepik                          avg=20.0  n=7 languages
+  Mirndi                         avg=20.8  n=8 languages
+  Pano-Tacanan                   avg=21.3  n=25 languages
+  Nuclear Trans New Guinea       avg=21.6  n=28 languages
+  Cariban                        avg=22.2  n=24 languages
+
+  4.3 Typological Interpretation — Family Differences
+  ─────────────────────────────────────────────────────
+
+  Nakh-Daghestanian (Caucasus): Large inventories driven by a massive
+  system of uvular, pharyngeal, and ejective consonants. Languages like
+  Ubykh (now extinct) reportedly had 80+ consonant phonemes. This is an
+  areal feature of the Caucasus — a region of extreme phonological
+  complexity shared across unrelated families (Kartvelian, Abkhaz-Adyge).
+
+  Khoisan families: The largest inventories in the world due to click
+  phonemes. !Xóõ (Taa) has approximately 161 phonemes including ~130
+  consonants. This is not random — the click mechanism creates a separate
+  dimension of phonemic contrast unavailable to other languages.
+
+  Austronesian (Papunesia, Pacific): Small inventories. Most Austronesian
+  languages have simple CV (consonant-vowel) syllable structures, few
+  consonant clusters, and 5-vowel systems (a, e, i, o, u). Polynesian
+  subgroup is the most extreme case of inventory reduction.
+
+  Indo-European: Mid-range inventories (~33 avg). High internal diversity —
+  from Georgian neighbors (large inventories) to Polynesian-like simplicity
+  in some Celtic dialects. The Proto-Indo-European reconstruction suggests
+  a moderately complex inventory that has diverged significantly.
+
+
+======================================================================
+  5. CO-OCCURRENCE & PAIRWISE STATISTICAL PATTERNS
+======================================================================
+
+  5.1 Strongly Associated Pairs (High Jaccard Similarity)
+  ─────────────────────────────────────────────────────────
+
+  Pair                  Jaccard  Interpretation
+  ˦ & ˨                   0.960
+  i & u                   0.930
+  m & i                   0.908
+  k & p                   0.893
+  iː & uː                 0.887
+
+  The highest Jaccard pair is ˦ & ˨ (high tone & low tone, Jaccard=0.960).
+  This is a near-perfect co-occurrence: tonal languages almost always have
+  at least two contrasting tone levels. A language with only one tone level
+  is functionally non-tonal — tone only functions as a phonemic contrast
+  when two or more levels exist.
+
+  i & u (Jaccard=0.932): These are the two peripheral high vowels.
+  Their near-universal co-occurrence reflects the perceptual principle
+  that vowel systems are built to maximize acoustic distance.
+  A language with /i/ but not /u/ (or vice versa) creates an asymmetric
+  vowel space — typologically extremely rare.
+
+  5.2 Mutually Exclusive Pairs (Lowest Phi Coefficient)
+  ───────────────────────────────────────────────────────
+
+  Pair                           Phi  Interpretation
+  tʼ & pʼ                    -0.1323
+  ˦˨ & n̠d̠ʒ                 -0.1302
+  m & ẽ                     -0.1189
+  χ & tsʰ                    -0.1145
+  kʼ & tʼ                    -0.1111
+
+  The negative phi values are modest (max ≈ -0.13) compared to the
+  positive associations. This is expected — phonological avoidance is
+  rarely absolute. Languages don't strictly forbid combinations, they
+  just prefer or avoid them.
+
+  The tone-retroflex avoidance (˦˨ & n̠d̠ʒ, phi=-0.130) reflects the
+  geographic incompatibility of tone-heavy systems (Africa, East Asia)
+  and retroflex consonant systems (South Asia, Australian languages).
+  These features belong to different areal zones.
+
+  5.3 Implicational Universals — Empirical Test
+  ───────────────────────────────────────────────
+  Total pairs with P(B|A) >= 0.90: 138
+
+  The strongest implication: P(m | ŋ) = 0.994
+  Nearly every language with the velar nasal /ŋ/ also has /m/.
+
+  This is a classic markedness hierarchy:
+    /m/ (bilabial nasal) → less marked (simpler, more universal)
+    /ŋ/ (velar nasal)   → more marked (more complex, less universal)
+
+  Greenberg's Universal 9 states: "With well-defined exceptions, when
+  voiced stops occur in a series, there is also a series of voiceless
+  stops." Our data finds P(voiceless stop | voiced stop) consistently
+  above 0.90, providing empirical confirmation of this universal.
+
+  The directionality matters: P(ŋ | m) is much lower than P(m | ŋ).
+  Having /m/ does NOT imply /ŋ/. This asymmetry is exactly what
+  markedness theory predicts — marked sounds imply unmarked ones,
+  not the reverse.
+
+
+======================================================================
+  6. CRITICAL THINKING: STATISTICAL VS TYPOLOGICAL IMPLICATIONS
+======================================================================
+
+  6.1 What the Statistics Can Tell Us
+  ─────────────────────────────────────
+
+  ✓ Cross-linguistic frequency reliably identifies unmarked sounds.
+    Phonemes appearing in >80% of languages are articulatorily simple
+    and perceptually salient — this is not a coincidence.
+
+  ✓ Jaccard similarity captures vowel harmony and stop system coherence.
+    High Jaccard between /i/ and /u/, between /p/ and /k/, between tone
+    levels — these reflect real phonological system pressures.
+
+  ✓ Conditional frequency P(B|A) empirically tests Greenbergian universals.
+    The 139 pairs with P≥0.90 are a data-driven list of phonological
+    implications that hold across unrelated language families.
+
+  ✓ Geographic concentration of clicks and tones is statistically
+    unambiguous. The phi between "has click" and "region=Africa" would
+    be near +1.0 — one of the strongest effects in the dataset.
+
+  6.2 What the Statistics Cannot Tell Us
+  ────────────────────────────────────────
+
+  ✗ Correlation ≠ causation. The co-occurrence of /i/ and /u/ does not
+    CAUSE each other. They co-occur because both are driven by the same
+    underlying pressure: maximizing vowel space dispersion.
+
+  ✗ Statistical universals are not absolute universals. P(m|ŋ)=0.994
+    means 0.6% of languages with /ŋ/ lack /m/. These exceptions are
+    typologically significant — they are the languages that challenge
+    the universal and require explanation.
+
+  ✗ Phi coefficients are small (-0.13 to +0.13 range). This means no
+    two phonemes are strongly mutually exclusive at the global level.
+    Areal restrictions (clicks=Africa) appear as geographic effects,
+    not as direct phoneme-to-phoneme avoidance.
+
+  ✗ The dataset has sampling bias. Africa (710 languages) is well
+    represented relative to South America (301) and Papunesia (176).
+    Under-sampled regions may have patterns not yet captured.
+
+  ✗ Glottocode deduplication loses dialect variation. Some "language"
+    boundaries in PHOIBLE are contested — what counts as a dialect vs
+    a language affects frequency counts.
+
+  6.3 Statistical vs Typological Significance
+  ─────────────────────────────────────────────
+
+  A finding can be statistically significant but typologically trivial.
+  Example: P(m | i) = 0.965 is statistically robust across 2,176 languages.
+  But typologically, this simply reflects that both /m/ and /i/ are
+  independently near-universal — they co-occur because each individually
+  appears in ~95% of languages, not because they have any phonological
+  relationship to each other.
+
+  Conversely, a finding can be typologically profound but statistically
+  modest. The geographic restriction of clicks involves only 16 languages
+  out of 2,176 — a small sample. But the pattern is 100% geographically
+  consistent, making it one of the most robust areal universals in
+  phonological typology.
+
+  The correct approach: use statistics to identify patterns, use
+  linguistic theory to explain them. Neither alone is sufficient.
+
+  6.4 Greenberg's Universals — Empirical Confirmation & Challenges
+  ──────────────────────────────────────────────────────────────────
+
+  CONFIRMED by this data:
+  • Near-universal nasals (/m/ > /n/ > /ŋ/) confirm the markedness
+    hierarchy: bilabial < alveolar < velar for nasals.
+  • /i/, /u/, /a/ as the minimal vowel set confirms the vowel dispersion
+    principle.
+  • Stop systems co-occur as complete series (P(k|p)=0.977).
+
+  CHALLENGED or NUANCED:
+  • Tone is not simply a marked feature — it is areally structured.
+    64.6% of African languages are tonal, which means for African
+    languages, tone is the UNMARKED default, not a marked addition.
+  • The Zipfian tail (1,444 phonemes in 1 language) suggests that
+    phonological innovation is ongoing and language-specific,
+    not converging toward universals.
+
+  6.5 Key Takeaway
+  ─────────────────
+  This analysis demonstrates that the world's phonological systems are
+  simultaneously universal and diverse. A small core of ~18 phonemes
+  appears in over 50% of languages — a shared foundation likely
+  reflecting the articulatory and perceptual constraints of the human
+  vocal tract. Beyond this core, phonological diversity is vast,
+  geographically structured, family-dependent, and historically
+  contingent. No statistical model can capture this complexity in full —
+  but the patterns revealed here provide a rigorous empirical foundation
+  for deeper linguistic investigation.
+
+
+======================================================================
+  7. PROJECT SUMMARY — KEY NUMBERS
+======================================================================
+
+  Total languages analysed                      2103
+  Total unique phonemes                         2703
+  Language families                             177
+  Macroareas                                    6
+  Global avg inventory size                     35.2
+  Largest inventory (phonemes)                  161
+  Smallest inventory (phonemes)                 11
+  Phonemes in 50%+ languages                    18
+  Phonemes in only 1 language                   1426
+  Click languages in dataset                    16
+  Tonal languages in dataset                    530
+  % Africa tonal                                64.6%
+  % Australia tonal                             0.0%
+  Implicational pairs P(B|A)>=0.90              138
+  Strongest implication                         P(m|ng) = 0.994
+  Highest Jaccard pair                          tone hi & tone lo = 0.960
+  Most exclusive pair (phi)                     tone-contour & retroflex = -0.130
+
+  Saved: project_summary_stats.csv

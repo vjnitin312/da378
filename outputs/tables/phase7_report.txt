@@ -1,0 +1,141 @@
+============================================================
+STEP 1 — Loading data
+============================================================
+  Languages : 2,176
+  Phonemes  : 2,703
+
+============================================================
+STEP 2 — Selecting features (phonemes >= 5% frequency)
+============================================================
+  Features selected: 103 phonemes
+
+============================================================
+STEP 3 — Building language x phoneme binary matrix
+============================================================
+  Matrix shape : 2176 languages x 103 phonemes
+  After filtering to languages with metadata: 2103
+
+============================================================
+STEP 4 — Finding optimal K (Silhouette Score, K=2 to 10)
+============================================================
+  K= 2  Silhouette Score = 0.0917
+  K= 3  Silhouette Score = 0.0859
+  K= 4  Silhouette Score = 0.0905
+  K= 5  Silhouette Score = 0.0923
+  K= 6  Silhouette Score = 0.0949
+  K= 7  Silhouette Score = 0.0948
+  K= 8  Silhouette Score = 0.0836
+  K= 9  Silhouette Score = 0.0944
+  K=10  Silhouette Score = 0.0974
+
+  Optimal K = 10  (score = 0.0974)
+
+============================================================
+STEP 5 — K-Means clustering (K=10)
+============================================================
+  K-Means (K=10) cluster sizes:
+    Cluster 1: 197 languages
+    Cluster 2: 217 languages
+    Cluster 3: 155 languages
+    Cluster 4: 238 languages
+    Cluster 5: 116 languages
+    Cluster 6: 235 languages
+    Cluster 7: 260 languages
+    Cluster 8: 310 languages
+    Cluster 9: 215 languages
+    Cluster 10: 160 languages
+
+============================================================
+STEP 6 — Hierarchical clustering (Ward linkage)
+============================================================
+  Hierarchical sample size : 180 languages
+  Clusters (K=10):
+    Cluster 1: 22 languages
+    Cluster 2: 13 languages
+    Cluster 3: 16 languages
+    Cluster 4: 11 languages
+    Cluster 5: 7 languages
+    Cluster 6: 32 languages
+    Cluster 7: 6 languages
+    Cluster 8: 15 languages
+    Cluster 9: 20 languages
+    Cluster 10: 38 languages
+
+============================================================
+STEP 7 — Attaching cluster labels to language metadata
+============================================================
+  Languages with cluster labels: 2,103
+
+============================================================
+STEP 8 — Cluster vs Macroarea crosstab
+============================================================
+
+macroarea       Africa  Australia  Eurasia  North America  Papunesia  South America   All
+kmeans_cluster                                                                           
+1                   53          0      125             12          3              4   197
+2                   16         89       50             25         29              8   217
+3                  146          0        7              1          0              1   155
+4                    0        238        0              0          0              0   238
+5                    3          2      105              1          5              0   116
+6                    4          0       12             75         16            128   235
+7                  191          1       54              3          9              2   260
+8                   74          7       83              7        108             31   310
+9                  214          0        0              1          0              0   215
+10                   9          0       10              8          6            127   160
+All                710        337      446            133        176            301  2103
+
+  Cluster purity by dominant region:
+    Cluster 1: Eurasia         (63.5% of 197 languages)
+    Cluster 2: Australia       (41.0% of 217 languages)
+    Cluster 3: Africa          (94.2% of 155 languages)
+    Cluster 4: Australia       (100.0% of 238 languages)
+    Cluster 5: Eurasia         (90.5% of 116 languages)
+    Cluster 6: South America   (54.5% of 235 languages)
+    Cluster 7: Africa          (73.5% of 260 languages)
+    Cluster 8: Papunesia       (34.8% of 310 languages)
+    Cluster 9: Africa          (99.5% of 215 languages)
+    Cluster 10: South America   (79.4% of 160 languages)
+
+============================================================
+STEP 9 — Cluster phoneme profiles (centroid analysis)
+============================================================
+
+  Cluster 1 (197 languages, dominant: Eurasia)
+    Most common  : m(0.99), b(0.92), j(0.92), ʃ(0.90), ɡ(0.87)
+    Least common : ȵ(-0.00), ɡb(-0.00), ȴ(-0.00), ȶ(0.00), kp(0.01)
+  Cluster 2 (217 languages, dominant: Australia)
+    Most common  : m(0.96), i(0.94), u(0.92), j(0.86), a(0.86)
+    Least common : ɳ(-0.00), ɡb(0.00), ɭ(0.00), tsʰ(0.00), ɗ(0.00)
+  Cluster 3 (155 languages, dominant: Africa)
+    Most common  : i(1.00), u(0.99), s(0.98), j(0.97), w(0.97)
+    Least common : ȵ(-0.00), ɻ(-0.00), tʼ(-0.00), ȴ(0.00), pʼ(0.00)
+  Cluster 4 (238 languages, dominant: Australia)
+    Most common  : m(1.00), n(1.00), j(1.00), w(1.00), ŋ(1.00)
+    Least common : t̠ʃ(-0.00), d̪(-0.00), ɡ(-0.00), ʃ(-0.00), ˦(-0.00)
+  Cluster 5 (116 languages, dominant: Eurasia)
+    Most common  : m(0.99), b(0.98), ɡ(0.97), u(0.97), k(0.96)
+    Least common : kp(-0.00), ȴ(-0.00), ȵ(0.00), ɡb(0.00), ɡʷ(0.00)
+  Cluster 6 (235 languages, dominant: South America)
+    Most common  : m(0.97), n(0.96), k(0.96), a(0.94), t(0.94)
+    Least common : ȵ(-0.00), ɻ(-0.00), ȴ(-0.00), ɡb(0.00), ɖ(0.00)
+  Cluster 7 (260 languages, dominant: Africa)
+    Most common  : m(1.00), iː(0.99), n(0.98), i(0.97), uː(0.96)
+    Least common : ȵ(-0.00), ȴ(-0.00), ȶ(0.00), ɭ(0.00), ɳ(0.00)
+  Cluster 8 (310 languages, dominant: Papunesia)
+    Most common  : m(0.98), i(0.96), n(0.95), k(0.94), u(0.94)
+    Least common : ȵ(-0.00), ȴ(-0.00), ȶ(0.00), ẽ(0.00), ɭ(0.00)
+  Cluster 9 (215 languages, dominant: Africa)
+    Most common  : m(0.98), k(0.97), w(0.96), a(0.96), i(0.94)
+    Least common : ȵ(-0.00), ɻ(-0.00), ɛ̃(-0.00), ẽ(-0.00), ȴ(-0.00)
+  Cluster 10 (160 languages, dominant: South America)
+    Most common  : i(1.00), a(0.98), k(0.97), ĩ(0.97), p(0.94)
+    Least common : ȵ(-0.00), ɻ(-0.00), ɭ(-0.00), ȴ(-0.00), ɳ(0.00)
+
+============================================================
+STEP 10 — Saving outputs
+============================================================
+  Saved: data/processed/language_clusters.csv
+  Saved: cluster_region_crosstab.csv
+  Saved: cluster_phoneme_profile.csv
+  Saved: silhouette_scores.csv
+  Saved: linkage_matrix.npy + linkage_sample_langs.npy
